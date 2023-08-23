@@ -1,5 +1,5 @@
 {
-  "name": "Shimmerstone",
+  "name": "闪光石",
   "advancement": "spectrum:collect_shimmerstone",
   "icon": "spectrum:shimmerstone_gem",
   "category": "spectrum:resources_category",
@@ -13,40 +13,14 @@
   "pages": [
     {
       "type": "patchouli:spotlight",
-      "title": "Shimmerstone",
+      "title": "闪光石",
       "item": "spectrum:shimmerstone_gem",
-      "text": "A yellow ore that does not only emit energy in the form of light, but is able to manipulate it, too.$(br2)Shimmerstone is found close to sea level altitudes."
+      "text": "一种黄色的矿石，它不仅能以光的形式散发出能量，还能将能量进行操控。$(br2)闪光石能在海平面附近的高度被找到。"
     },
     {
       "type": "patchouli:crafting",
       "recipe": "spectrum:crafting_table/storage_blocks/shimmerstone_block",
-      "text": "Full blocks of Shimmerstone emit glowing bright yellow particles."
+      "text": "一整个方块的闪光石会散发出亮黄色的粒子。"
     }
   ]
-}
-
-{
-	"pages":[
-		{
-			"item":"spectrum:shimmerstone_gem",
-			"text":"一种黄色矿石，不仅能以光的形式释放能量，而且还能对其进行操纵。$(br2)闪光石被发现在接近海平面的高度。",
-			"type":"patchouli:spotlight",
-			"title":"微光石"
-		},
-		{
-			"recipe":"spectrum:crafting_table/storage_blocks/shimmerstone_block",
-			"text":"整个方块的闪光石发出明亮的黄色颗粒。",
-			"type":"patchouli:crafting"
-		}
-	],
-	"advancement":"spectrum:collect_shimmerstone",
-	"extra_recipe_mappings":{
-		"spectrum:deepslate_shimmerstone_ore":0,
-		"spectrum:shimmerstone_ore":0,
-		"spectrum:shimmerstone_block":0,
-		"spectrum:shimmerstone_gem":0
-	},
-	"name":"微光石",
-	"icon":"spectrum:shimmerstone_ore",
-	"category":"spectrum:resources_category"
 }
