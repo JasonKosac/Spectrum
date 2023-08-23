@@ -1,5 +1,5 @@
 {
-  "name": "Bismuth",
+  "name": "铋",
   "advancement": "spectrum:lategame/collect_bismuth",
   "icon": "spectrum:bismuth_flake",
   "category": "spectrum:resources_category",
@@ -14,15 +14,15 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "title": "Bismuth",
-      "text": "A metal that shimmers in all the colors of the rainbow.$(br)The small seedlings you collected are far too small to be used for any meaningful purpose.$(br)How do they grow without a budding block? One thing you noticed: it slightly grew in proximity of other metals while you had both in your pocket."
+      "title": "铋",
+      "text": "一种闪烁着彩虹般光芒的金属。$(br)在一开始，你只能找到一些铋晶片，它们太小了，还不能用于其他的用途。$(br)那么它们如何在没有母岩的情况下生长？你注意到铋晶片会在你口袋内有其他种类的金属时会略微生长一些。"
     },
     {
       "type": "spectrum:crystallarieum_growing",
       "advancement": "spectrum:progression/unlock_crystallarieum",
-      "title": "Growing Bismuth",
+      "title": "铋晶生长",
       "recipe": "spectrum:crystallarieum/bismuth",
-      "text": "Instead of sacrificing whole metal blocks, the $(l:magical_blocks/crystallarieum)Crystallarieum$() provides a controlled substrate as well as a finer and more efficient way to provide nutrients."
+      "text": "现在，无需消耗一整个金属块，使用$(l:magical_blocks/crystallarieum)结晶室$()并提供相应的基质和原料，来让铋晶的生长更加便捷可控。"
     }
   ]
 }
