@@ -1,5 +1,5 @@
 {
-  "name": "Crystallisation",
+  "name": "结晶化",
   "advancement": "spectrum:hidden/collect_any_crystallized_block",
   "icon": "spectrum:liquid_crystal_bucket",
   "category": "spectrum:resources_category",
@@ -14,25 +14,25 @@
       "type": "patchouli:spotlight",
       "advancement": "spectrum:hidden/collect_blazing_crystal",
       "item": "spectrum:blazing_crystal",
-      "text": "Letting a full block of Liquid Crystal absorb the immense heat of Lava resulted in this.$(br)Almost feels like a Magma Block, albeit way hotter."
+      "text": "让一整块液体水晶吸收大量来自熔岩的热量，就能将其转变为炽热水晶。$(br)这种方块和岩浆块很相似，不过它还要更热一些。"
     },
     {
       "type": "spectrum:anvil_crushing",
       "advancement": "spectrum:hidden/collect_blazing_crystal",
       "recipe": "spectrum:anvil_crushing/fiery_powder_from_blazing_crystal",
-      "text": "Crushing $(thing)Blazing Crystal$() with an Anvil yields this burning hot powder, which almost sets your hand in flames by holding it. Crushing $(thing)Magma Blocks$() seems to work, too, albeit with much less yield."
+      "text": "使用铁砧粉碎$(thing)炽热水晶$()可将其转变成这种燃着的粉末，捧住它几乎会让你的手着火。粉碎$(thing)岩浆块$()也能产生这种粉末，不过产量会低很多。"
     },
     {
       "type": "patchouli:spotlight",
       "advancement": "spectrum:hidden/collect_frostbite_crystal",
       "item": "spectrum:frostbite_crystal",
-      "text": "As Water tried to flow to a full block of Liquid Crystal the crystal turned solid.$(br)Since even a light touch is enough to give you a cold shiver, you called it Frostbite Crystal"
+      "text": "当水缓缓流向一整块液体水晶时，液体水晶便会冷凝成固体。$(br)这种方块即使你用手轻轻的触摸也能将你冻的发抖，因此其被称为霜冻水晶。"
     },
     {
       "type": "spectrum:anvil_crushing",
       "advancement": "spectrum:hidden/collect_frostbite_crystal",
       "recipe": "spectrum:anvil_crushing/blizzard_powder_from_frostbite_crystal",
-      "text": "Crushing $(thing)Frostbite Crystal$() with an Anvil yields this ice cold powder, which almost makes your hand freeze just by holding it. Crushing $(thing)Ice$() seems to work, too, albeit with much less yield."
+      "text": "使用铁砧粉碎$(thing)霜冻水晶$()可将其转变成这种冰冷的粉末，捧住它几乎会让你的手冻僵。粉碎$(thing)冰块$()也能产生这种粉末，不过产量会低很多。"
     }
   ]
 }
