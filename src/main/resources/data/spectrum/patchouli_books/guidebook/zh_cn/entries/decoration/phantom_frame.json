@@ -1,7 +1,7 @@
 {
   "name": "幻影物品展示框",
   "icon": "spectrum:invisible_item_frame",
-  "advancement": "spectrum:collect_sparklestone",
+  "advancement": "spectrum:collect_shimmerstone",
   "category": "spectrum:decoration_category",
   "extra_recipe_mappings": {
     "spectrum:invisible_item_frame": 0,
