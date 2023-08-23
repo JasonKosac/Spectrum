@@ -1,5 +1,5 @@
 {
-  "name": "Blood Orchids",
+  "name": "血红兰",
   "icon": "spectrum:blood_orchid_petal",
   "advancement": "spectrum:midgame/collect_blood_orchid_petal",
   "category": "spectrum:resources_category",
@@ -11,15 +11,15 @@
     {
       "type": "patchouli:spotlight",
       "item": "spectrum:blood_orchid_petal",
-      "title": "Blood Orchid Petals",
-      "text": "These leaves seem to belong to a flower you don't know. Did it once bloom here, was it once grown by those who came before you? Perhaps a souvenir from a world you yourself have never entered? Yet it looks like it was plucked just 5 minutes ago.$(br)You feel something whenever you touch the petal: restlessness."
+      "title": "血红兰花瓣",
+      "text": "这些叶子似乎来自一朵你不知道的花。它曾经在这里绽开过吗？它曾经被前人种植过吗？或者这是来自你从未访问的世界的一个纪念品？不过它看上去像是在五分钟前被摘下的那样般鲜活。$(br)每当用手触摸这些花瓣时，不安之情总会在你心里挥之不去。"
     },
     {
       "type": "spectrum:spirit_instiller_crafting",
       "advancement": "spectrum:progression/unlock_blood_orchid",
-      "title": "Blood Orchid Plants",
+      "title": "血红兰植株",
       "recipe": "spectrum:spirit_instiller/blood_orchid",
-      "text": "$(l:magical_blocks/liquid_crystal#resonant_lily)Resonant Lilies$(/l)! Truly an elusive flower - and seemingly related to Blood Orchids. Though the Blood Orchids energy very quickly takes over.$(br)Whelp, worst thing that can happen is you ending up with a true plant that you can pluck additional petals of."
+      "text": "是$(l:magical_blocks/liquid_crystal#resonant_lily)共振百合$(/l)！这确实是一种难以捉摸的花，但它似乎和血红兰有着关联。尝试将血红兰的能量尽快的转移到共振百合中会如何？$(br)问得好，可能会发生的最坏的事情就是你最终得到了一个真正的血红兰植株，甚至还能摘下它的更多花瓣。"
     }
   ]
 }
