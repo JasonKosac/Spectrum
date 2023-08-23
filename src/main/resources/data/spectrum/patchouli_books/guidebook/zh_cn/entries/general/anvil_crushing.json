@@ -13,7 +13,7 @@
         "spectrum:textures/gui/manual/anvil_crushing.png"
       ],
       "border": true,
-      "text": "$(italic)“不破不立$(br)有破才有立”     ——某人"
+      "text": "$(italic)“不破不立$(br)有破才有立”      ——某人"
     },
     {
       "type": "patchouli:text",
