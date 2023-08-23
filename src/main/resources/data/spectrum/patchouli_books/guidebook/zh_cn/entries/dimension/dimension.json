@@ -2,7 +2,7 @@
 	"pages":[
 		{
 			"item":"minecraft:bedrock",
-			"text":"$(italic)待办",
+			"text":"$(italic)待   办",
 			"type":"patchouli:spotlight"
 		},
 		{
