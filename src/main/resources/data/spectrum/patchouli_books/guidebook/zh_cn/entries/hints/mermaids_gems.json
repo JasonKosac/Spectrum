@@ -1,24 +1,23 @@
 {
-	"pages":[
-		{
-			"completion_advancement":"spectrum:collect_mermaids_gem",
-			"cost":"spectrum:onyx_shard#4",
-			"text":"有时在海洋中会发现闪闪发光的宝石，漂浮在水面上，被海浪来回摇晃。如果你花一些时间在附近或在海洋中，你可能会发现一个自己！",
-			"type":"spectrum:hint",
-			"title":"在哪里可以找到"
-		},
-		{
-			"cost":"spectrum:onyx_shard#12",
-			"text":"源是一种娇嫩的花，生长在海底，成群结队。这种植物会发出微弱的辉光，如果你戴上活跃的辉光乌贼头盔，它也会发光。在它旁边等待，直到它完全长大，释放出宝贵的宝藏并收集起来。",
-			"type":"spectrum:hint",
-			"title":"简明说明"
-		}
-	],
-	"advancement":"spectrum:midgame/build_advanced_pedestal_structure",
-	"read_by_default":true,
-	"name":"新资源",
-	"icon":"minecraft:writable_book",
-	"turnin":"spectrum:collect_mermaids_gem",
-	"secret":true,
-	"category":"spectrum:hints_category"
+  "name": "新的资源",
+  "category": "spectrum:hints_category",
+  "icon": "minecraft:writable_book",
+  "advancement": "spectrum:midgame/build_advanced_pedestal_structure",
+  "read_by_default": true,
+  "turnin": "spectrum:collect_mermaids_gem",
+  "pages": [
+    {
+      "type": "spectrum:hint",
+      "title": "怎么找到",
+      "completion_advancement": "spectrum:collect_mermaids_gem",
+      "cost": "spectrum:onyx_shard#4",
+      "text": "海面上偶尔会有随波浪而起伏的某种晶石可见哦，试着找一个？"
+    },
+    {
+      "type": "spectrum:hint",
+      "title": "简要说明",
+      "cost": "spectrum:onyx_shard#12",
+      "text": "海底原来是有一小群花朵在产生这种晶石啊。这些花朵略微泛明，如果戴上发光鱿鱼头盔则更为明亮。等它慢慢开花，待它自然地吐露这份宝藏吧。只有亲自端详才能看清它的本来面貌……"
+    }
+  ]
 }
