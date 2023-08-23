@@ -1,5 +1,5 @@
 {
-  "name": "Amaranth",
+  "name": "苋菜",
   "advancement": "spectrum:milestones/reveal_amaranth",
   "icon": "spectrum:amaranth_bushel",
   "category": "spectrum:resources_category",
@@ -13,36 +13,36 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "title": "Amaranth",
-      "text": "Though seemingly left behind for quite some time now, these seeds still look very much alive. You wonder what comes out of it when grown?"
+      "title": "苋菜",
+      "text": "尽管这些种子看上去已经存放了相当长的一段时间了，它们看起来仍然十分鲜活。想一想它们种下去会长成什么样吗？"
     },
     {
       "type": "spectrum:anvil_crushing",
-      "title": "Amaranth Grains",
+      "title": "苋菜籽",
       "advancement": "spectrum:collect_amaranth_bushel",
       "recipe": "spectrum:anvil_crushing/amaranth_grains",
-      "text": "You never have seen anything like it. Such an intense red. So expressive!$(br)These Bushels can be crushed to get more grains.$(br2)They can also be planted decoratively on grass or in a flower pot."
+      "text": "你从未见过有如此鲜红般的植物，那么试试压碎它们吧！$(br)这些植株能被粉碎成更多的种子。$(br2)此外它们还能被直接种植在草地或花盆上。"
     },
     {
       "type": "spectrum:pedestal_crafting",
       "advancement": "spectrum:collect_amaranth_bushel",
-      "title": "Honey Pastry",
+      "title": "甜蜜糕点",
       "recipe": "spectrum:pedestal/tier1/honey_pastry",
-      "text": "The taste of Amaranth is as different from Wheat as its appearance. In your mind sprouted completely new ideas, like this deliciousness here."
+      "text": "苋菜的口感和小麦不同。因此，你可以用它来制作一些新口感的美食。"
     },
     {
       "type": "spectrum:pedestal_crafting",
       "advancement": "spectrum:collect_amaranth_bushel",
-      "title": "Scones",
+      "title": "司康饼",
       "recipe": "spectrum:pedestal/tier2/food/scone",
-      "text": "Small but fine pastry filled with cream.$(br2)$(italic)Perfect with tea."
+      "text": "小而精致的糕点，里面充满了奶油。$(br2)$(italic)和茶搭配食用口感更佳。"
     },
     {
       "type": "spectrum:pedestal_crafting",
       "advancement": "spectrum:progression/unlock_triple_meat_pot_pie",
-      "title": "Triple Meat Pot Pie",
+      "title": "三层肉酱派",
       "recipe": "spectrum:pedestal/tier2/food/triple_meat_pot_pie",
-      "text": "This feast is guaranteed to fill your belly for quite some time.$(br2)$(italic)Full of fat and meat and wine and warp!"
+      "text": "这份大餐能保证你在相当长的一段时间内饱腹感十足。$(br2)$(italic)充满脂肪，肉，酒精和纤维素的大餐！"
     }
   ]
 }
