@@ -1,5 +1,5 @@
 {
-  "name": "Pure Resources",
+  "name": "高纯资源",
   "advancement": "spectrum:lategame/collect_pure_resource",
   "icon": "spectrum:pure_iron",
   "category": "spectrum:resources_category",
@@ -45,22 +45,22 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Growing materials in the $(l:magical_blocks/crystallarieum)Crystallarieum$(/l) yields this much more pure, crystalline variant compared to plain $(thing)Raw Ore$().$(br)On closer inspection they almost appear surrounded by an invisible sheen, gently protecting them from outside forces. This shroud also seems to be what protects $(thing)Native Copper$() from oxidization."
+      "text": "在$(l:magical_blocks/crystallarieum)催化剂$(/l)中生长的矿石和$(thing)粗矿$()相比，其会更加纯净，并会生长成结晶的变种。$(br)仔细观察它们，你会发现它们几乎被一层看不见的光泽所包围起来，精心的保护它们不受外力的影响。这种保护层似乎也是它们不会被氧化的一个原因$(thing)（如原生的铜矿）$()。"
     },
     {
       "type": "patchouli:blasting",
-      "title": "Blasting",
+      "title": "高炉煅烧",
       "recipe": "spectrum:blasting/pure_resources/pure_iron",
       "recipe2": "spectrum:blasting/pure_resources/pure_gold",
-      "text": "Ironically, you found that these resources seemed to be able to withstand the heat of normal $(thing)Furnaces$(). But you were able to smelt them in a $(thing)Blast Furnace$(), at least."
+      "text": "但令人不解的是，你发现这些资源似乎能承受普通$(thing)熔炉$()的热量，并且你也能将其放在$(thing)高炉$()中冶炼成锭。"
     },
     {
       "type": "spectrum:cinderhearth_smelting",
       "advancement": "spectrum:progression/unlock_cinderhearth",
-      "title": "Cinderhearth Smelting",
+      "title": "炼化炉冶炼",
       "recipe": "spectrum:cinderhearth/pure_resources/pure_iron",
       "recipe2": "spectrum:cinderhearth/pure_resources/pure_gold",
-      "text": "However, smelting these in the $(l:magical_blocks/cinderhearth)Cinderhearth$() yields a much more decent output of ingots."
+      "text": "然而，把它们放在$(l:magical_blocks/cinderhearth)炼化炉$()里面冶炼会有更多的锭产量。"
     },
     {
       "type": "patchouli:crafting",
