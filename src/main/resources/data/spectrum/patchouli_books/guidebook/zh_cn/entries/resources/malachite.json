@@ -1,5 +1,5 @@
 {
-  "name": "Malachite",
+  "name": "孔雀石",
   "advancement": "spectrum:lategame/collect_malachite",
   "icon": "spectrum:malachite_cluster",
   "category": "spectrum:resources_category",
@@ -17,15 +17,15 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "title": "Malachite",
-      "text": "A pristine material, sparkling in a deep green hue. It seems to have strong magical properties, almost like a $(l:dimension/dimension)Deeper Down$() analog of $(l:resources/azurite)Azurite$().$(br)As another similarity to $(l:resources/azurite)Azurite$(), Malachite has to be refined, too. The small fragments you obtained by mining the ore must first grow into full, usable crystals, though they grow so slowly you're not sure you can witness this in your entire lifetime."
+      "title": "孔雀石",
+      "text": "一种原生的材料，闪烁着深绿色的光芒。它似乎具有很强的魔法属性，几乎就像$(l:dimension/dimension)渊深领域$()中的$(l:resources/azurite)石青$()一样。$(br)作为一种和$(l:resources/azurite)石青$()类似的矿物，孔雀石也需要被精炼。你通过采矿获得的小型孔雀石碎片首先需要经过生长才能获得完整可用的晶体，不过它们的生长速度极其缓慢，你甚至不能保证你能在你的一生中亲眼目睹其长成的那一刻。"
     },
     {
       "type": "spectrum:crystallarieum_growing",
       "advancement": "spectrum:progression/unlock_crystallarieum",
-      "title": "Refining Malachite",
+      "title": "精炼孔雀石",
       "recipe": "spectrum:crystallarieum/malachite",
-      "text": "The Crystallarieum seems to be the only way for you to grow Malachite in a reasonable timeframe, by speeding up it's growth significantly.$(br)The influence of $(item)Moonstone$() is required to create an environment for it to grow, mimicking the Deeper Down."
+      "text": "不过，使用催化剂应该是你能在合理的时间范围内显著加速孔雀石生长的唯一方法了。$(br)你还需要使用$(item)月长石$()来加强影响，为其生长营造一个模拟深渊领域般的生长环境。"
     }
   ]
 }
