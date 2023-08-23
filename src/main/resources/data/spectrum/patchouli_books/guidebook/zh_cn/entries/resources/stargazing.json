@@ -15,88 +15,40 @@
   "pages": [
     {
       "type": "patchouli:image",
-      "title": "Wishing upon a Star",
+      "title": "对着星星许愿",
       "images": [
         "spectrum:textures/gui/guidebook/stargazing.png"
       ],
       "border": true,
-      "text": "$(italic)The calmness of the night invites you to lie down in the grass and watch the stars."
+      "text": "$(italic)在一个宁静的夜晚，躺在草地上看星星是个很不错的主意。"
     },
     {
       "type": "patchouli:spotlight",
       "advancement": "spectrum:collect_star_fragment",
-      "title": "Shooting Stars",
+      "title": "流星",
       "item": "spectrum:shooting_star_glistering",
-      "text": "The small Shooting Stars are made of a material unknown to you thus far.$(br2)Can you catch one right off the sky?$(br2)$(italic)Tip: Shooting Stars are much easier to spot when using a Telescope or Night Vision.$()"
+      "text": "这些小型的流星是由你目前还不知道的物质所构成的。$(br2)你能从天上直接抓一个下来吗？$(br2)$(italic)提示：使用望远镜或获得夜视效果能更加容易的发现流星。$()"
     },
     {
       "type": "patchouli:spotlight",
       "advancement": "spectrum:collect_star_fragment",
-      "title": "Star Fragments",
+      "title": "星星碎片",
       "item": "spectrum:star_fragment",
-      "text": "Shooting Stars yield precious resources, including this rare Star Fragment, Stardust and a whole lot of other rare materials.$(br2)Picking up a Shooting Star by crouching and $(l:general/anvil_crushing)smashing it via an Anvil$(/l) will yield double the Star Fragments, albeit at the cost of the other materials."
+      "text": "流星能带来一些宝贵的资源，其中包括这种稀有的星星碎片，星尘和其他所有的很多稀有原料。$(br2)按住潜行键并对着流星右击以将其拾起，之后$(l:general/anvil_crushing)使用铁砧将其粉碎$(/l)以获得双倍的星星碎片，尽管该过程会消耗其他材料为代价。"
     },
     {
       "type": "patchouli:spotlight",
       "advancement": "spectrum:collect_star_fragment",
-      "title": "Stardust",
+      "title": "星尘",
       "item": "spectrum:stardust",
-      "text": "A powder of unknown origin blessed with the soul of the stars.$(br)Bears coy, yet latent power."
+      "text": "一种来源不明，但被星星的灵魂所祝福的粉末。$(br)别对其感到为难，因为它们蕴藏着潜在的能量。"
     },
     {
       "type": "spectrum:fusion_shrine_crafting",
       "advancement": "spectrum:collect_all_shooting_star_variants",
-      "title": "Star Hardening",
+      "title": "硬化星星",
       "recipe": "spectrum:fusion_shrine/shooting_star_hardening",
-      "text": "Now that you've collected all the variations, it's finally time to unwind! Hardened with a Diamond the Stars do not break anymore when hit.$(br2)$(italic)Fancy a Starball tournament with your friends?"
+      "text": "现在你已经收集到所有种类的流星了，是时候让它们更加结实耐用了！对着流星使用钻石以将其硬化，这样它们在受到撞击时就不会裂开了。$(br2)$(italic)想要和你的好友们来一场踢星球比赛吗？"
     }
   ]
-}
-
-{
-	"pages":[
-		{
-			"border":true,
-			"images":[
-				"spectrum:textures/gui/guidebook/stargazing.png"
-			],
-			"text":"$(italic)夜晚的宁静邀请你躺在草地上看星星。",
-			"type":"patchouli:image",
-			"title":"对着星星许愿"
-		},
-		{
-			"item":"spectrum:shooting_star_glistering",
-			"advancement":"spectrum:collect_star_fragment",
-			"text":"这些小流星是由迄今为止你还不知道的材料制成的。$(br2)你能从天上抓一个吗？$(br2)$(italic)提示：当使用望远镜或夜视仪时，流星更容易被发现。$()",
-			"type":"patchouli:spotlight",
-			"title":"流星"
-		},
-		{
-			"item":"spectrum:star_fragment",
-			"advancement":"spectrum:collect_star_fragment",
-			"text":"流星产生了宝贵的资源，包括这种罕见的恒星碎片、星尘和大量其他稀有材料。$(br2)蹲着捡起流星，然后用铁砧将其$(l:general/anvil_crushing)砸碎$(/l)，虽然会消耗其他材料，但会产生双倍的恒星碎片。",
-			"type":"patchouli:spotlight",
-			"title":"恒星碎片"
-		},
-		{
-			"item":"spectrum:stardust",
-			"advancement":"spectrum:collect_star_fragment",
-			"text":"一种来源不明的粉末，被星星的灵魂所祝福。$(br)熊害羞，但潜在的力量。",
-			"type":"patchouli:spotlight",
-			"title":"星尘"
-		}
-	],
-	"advancement":"spectrum:milestones/unlock_shooting_stars",
-	"extra_recipe_mappings":{
-		"spectrum:shooting_star_fiery":0,
-		"spectrum:shooting_star_colorful":0,
-		"spectrum:shooting_star_gemstone":0,
-		"spectrum:shooting_star_glistering":0,
-		"spectrum:shooting_star_pristine":0,
-		"spectrum:star_fragment":0,
-		"spectrum:stardust":0
-	},
-	"name":"凝视星空",
-	"icon":"minecraft:spyglass",
-	"category":"spectrum:resources_category"
 }
