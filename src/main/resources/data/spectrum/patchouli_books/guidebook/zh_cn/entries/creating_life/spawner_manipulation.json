@@ -1,48 +1,48 @@
 {
-	"pages":[
-		{
-			"item":"spectrum:resonant_pickaxe",
-			"text":"$(l:enchanting/resonance)共振$(/l)附魔使你可以让怪物笼掉落，由你收集。$(br2)虽然你还没有弄清楚如何自己制作这些构件，但你现在感觉自己完全有能力使用$(l:creating_life/spirit_instiller)灵魂注入器$(/l)来改变它们的属性。",
-			"type":"patchouli:spotlight",
-			"title":"收获怪物笼"
-		},
-		{
-			"recipe":"spectrum:spirit_instiller/spawner/spawner_creature_change",
-			"text":"使用与$(l:creating_life/memory)记忆$(/l)类似的技术，你可以改变怪物笼的生物，使其同时生成另一种类型的生物。",
-			"type":"spectrum:spirit_instiller_crafting",
-			"title":"改变生物"
-		},
-		{
-			"recipe":"spectrum:spirit_instiller/spawner/spawner_spawn_delay_change",
-			"text":"降低最小和最大生成延迟。",
-			"type":"spectrum:spirit_instiller_crafting",
-			"title":"生成延迟"
-		},
-		{
-			"recipe":"spectrum:spirit_instiller/spawner/spawner_spawn_count_change",
-			"text":"增加每个周期召唤的生物数量。",
-			"type":"spectrum:spirit_instiller_crafting",
-			"title":"生成计数"
-		},
-		{
-			"recipe":"spectrum:spirit_instiller/spawner/spawner_max_nearby_entities_change",
-			"text":"增加允许靠近怪物笼的生物数量。当附近已经有很多生物时，$(br)$(italic)怪物笼似乎会自然停止生成。就像他们想给你一个机会一样。真可怜，不是吗？好像你需要一样。",
-			"type":"spectrum:spirit_instiller_crafting",
-			"title":"召唤标准"
-		},
-		{
-			"recipe":"spectrum:spirit_instiller/spawner/spawner_required_player_range_change",
-			"text":"增加你可以站立的范围，使怪物笼仍然可以生成生物。",
-			"type":"spectrum:spirit_instiller_crafting",
-			"title":"激活范围"
-		}
-	],
-	"advancement":"spectrum:milestones/unlock_spawner_manipulation",
-	"extra_recipe_mappings":{
-		"spectrum:spawner":0,
-		"minecraft:spawner":0
-	},
-	"name":"怪物笼操作",
-	"icon":"spectrum:spawner",
-	"category":"spectrum:creating_life_category"
+  "name": "刷怪笼操纵",
+  "advancement": "spectrum:milestones/unlock_spawner_manipulation",
+  "icon": "spectrum:spawner",
+  "category": "spectrum:creating_life_category",
+  "extra_recipe_mappings": {
+    "minecraft:spawner": 0,
+    "spectrum:spawner": 0
+  },
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "获取刷怪笼",
+      "item": "spectrum:resonant_pickaxe",
+      "text": "$(l:enchanting/resonance)共振$(/l)附魔允许你采集刷怪笼。$(br2)虽然你仍然不知道怎么制作刷怪笼，利用$(l:creating_life/spirit_instiller)灵魂灌注台$(/l)你依然可以随心所欲地操纵刷怪笼的性质。"
+    },
+    {
+      "type": "spectrum:spirit_instiller_crafting",
+      "title": "更换生物",
+      "recipe": "spectrum:spirit_instiller/spawner/spawner_creature_change",
+      "text": "使用类似$(l:creating_life/memory)回忆$(/l)的法术，你可以更改刷怪笼生成的生物类型。"
+    },
+    {
+      "type": "spectrum:spirit_instiller_crafting",
+      "title": "生物生成延迟",
+      "recipe": "spectrum:spirit_instiller/spawner/spawner_spawn_delay_change",
+      "text": "缩短生物生成周期的最小和最大延迟。"
+    },
+    {
+      "type": "spectrum:spirit_instiller_crafting",
+      "title": "生物生成数量",
+      "recipe": "spectrum:spirit_instiller/spawner/spawner_spawn_count_change",
+      "text": "增加每一周期生成的生物数量。"
+    },
+    {
+      "type": "spectrum:spirit_instiller_crafting",
+      "title": "生物生成容量",
+      "recipe": "spectrum:spirit_instiller/spawner/spawner_max_nearby_entities_change",
+      "text": "提高刷怪笼周围所能容纳的生物容量上限。$(br)$(italic)刷怪笼周围生物太多的时候就会停止刷怪。难道是在放你一马不成？搞得好像你没有能耐似的，无趣。"
+    },
+    {
+      "type": "spectrum:spirit_instiller_crafting",
+      "title": "玩家激活半径",
+      "recipe": "spectrum:spirit_instiller/spawner/spawner_required_player_range_change",
+      "text": "增大刷怪笼受玩家激活的检测半径。"
+    }
+  ]
 }
