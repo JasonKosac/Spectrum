@@ -1,5 +1,5 @@
 {
-  "name": "Moonstone Cores",
+  "name": "月长石核心",
   "advancement": "spectrum:lategame/collect_moonstone_core",
   "icon": "spectrum:moonstone_core",
   "category": "spectrum:resources_category",
@@ -12,13 +12,13 @@
       "images": [
         "spectrum:textures/gui/guidebook/moonstone_core.png"
       ],
-      "text": "A relic of times long gone."
+      "text": "一个来自早已不复存在的时代的遗物。"
     },
     {
       "type": "patchouli:spotlight",
       "title": "Moonstone Cores",
       "item": "spectrum:moonstone_core",
-      "text": "This powerhouse of an item is able to funnel huge amounts of $(c_white)White Ink$() with ease. Can be used to boost the capabilities of equipment and devices."
+      "text": "这种强大的物品能轻而易举的输送大量的$(c_white)白色墨水$()。其也能用于提升设备和装置的能力。"
     }
   ]
 }
