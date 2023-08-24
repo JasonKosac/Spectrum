@@ -1,0 +1,26 @@
+{
+  "name": "Go Fish（一起钓鱼吧！）",
+  "icon": "gofish:starry_salmon",
+  "flag": "mod:go-fish",
+  "advancement": "spectrum:place_pedestal",
+  "category": "spectrum:mod_integration_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Fishing is a relaxing activity to do in your leisure time. Let's see what's biting today."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "advancement": "spectrum:progression/unlock_molten_rod",
+      "title": "熔岩钓鱼",
+      "item": "spectrum:molten_rod",
+      "text": "你的魔法钓竿似乎能钓起熔岩中的鱼类，和“一起钓鱼吧！”的钓竿类似。$(br)只要液体区域开阔，你仍然可以钓上盲盒。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "其它功能",
+      "item": "minecraft:enchanted_book{StoredEnchantments: [{id: \"gofish:deepfry\", lvl: 1s}]}",
+      "text": "深度烧烤魔咒能够照常运作，但鱼饵不能。不过你相当肯定会有更好的升级方案。$(br)深度烧烤魔咒与自动烧烤不兼容。"
+    }
+  ]
+}
