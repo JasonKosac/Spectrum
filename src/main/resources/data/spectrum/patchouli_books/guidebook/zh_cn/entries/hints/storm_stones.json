@@ -1,5 +1,5 @@
 {
-  "name": "A new Resource",
+  "name": "新的资源",
   "category": "spectrum:hints_category",
   "icon": "minecraft:writable_book",
   "advancement": "spectrum:milestones/reveal_storm_stones",
@@ -8,16 +8,16 @@
   "pages": [
     {
       "type": "spectrum:hint",
-      "title": "Where to find",
+      "title": "怎么找到",
       "completion_advancement": "spectrum:midgame/collect_storm_stone",
       "cost": "spectrum:neolith#8",
-      "text": "Thunderstorms are a powerful display of nature. There are tremendous energies playing."
+      "text": "雷暴是大自然强有力的体现，其能量之源遍布着这种石头。"
     },
     {
       "type": "spectrum:hint",
-      "title": "Concise Instructions",
+      "title": "简要说明",
       "cost": "spectrum:neolith#24",
-      "text": "Sometimes you are able to find weird shards at places where lightning struck. There even is a way to focus Lightning at a specific position, to make gathering them even more efficient."
+      "text": "有时你可以在闪电击中的地方找到一些奇怪的碎片。你还可以使用一些方法将闪电集中到某一位置上（如使用避雷针），以更好的收集这种资源。"
     }
   ]
 }
