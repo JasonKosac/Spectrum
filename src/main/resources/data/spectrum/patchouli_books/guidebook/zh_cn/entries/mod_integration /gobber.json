@@ -1,0 +1,31 @@
+{
+  "name": "Gobber 2（戈伯2）",
+  "icon": "gobber2:gobber2_globette",
+  "flag": "mod:gobber2",
+  "advancement": "spectrum:place_pedestal",
+  "category": "spectrum:mod_integration_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "这种材料看起来很强大，但又十分常见，因此它才有如此幽默的名称。一起来看看它能用来做什么吧！"
+    },
+    {
+      "type": "spectrum:crystallarieum_growing",
+      "recipe": "spectrum:mod_integration/gobber/crystallarieum/globette",
+      "advancement": "spectrum:progression/unlock_crystallarieum",
+      "text": "它会生长诶！"
+    },
+    {
+      "type": "spectrum:crystallarieum_growing",
+      "recipe": "spectrum:mod_integration/gobber/crystallarieum/globette_nether",
+      "advancement": "spectrum:progression/unlock_crystallarieum",
+      "text": "它也会生长诶！"
+    },
+    {
+      "type": "spectrum:crystallarieum_growing",
+      "recipe": "spectrum:mod_integration/gobber/crystallarieum/globette_end",
+      "advancement": "spectrum:progression/unlock_crystallarieum",
+      "text": "真是难以置信诶！"
+    }
+  ]
+}
