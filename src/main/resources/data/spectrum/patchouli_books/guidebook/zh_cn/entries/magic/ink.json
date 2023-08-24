@@ -16,15 +16,15 @@
     },
     {
       "type": "patchouli:image",
-      "title": "Transfer",
+      "title": "墨水转移",
       "images": [
         "spectrum:textures/gui/guidebook/ink_transfer.png"
       ],
-      "text": "Ink behaves very much like a liquid. It flows from where it is abundant to where is little."
+      "text": "墨水的物理性质和液体相似，它能从墨水多的地方流向墨水少的地方。"
     },
     {
       "type": "patchouli:text",
-      "text": "$(br)When two objects that store ink are connected - such as a Color Picker and an Ink Flask - the Ink between the two containers slowly evens out.$(br)The greater the difference, the faster the Flask is getting filled."
+      "text": "$(br)当两个存储墨水的容器（如颜色选取器和墨水瓶）彼此相连的时候，两个容器内的液面会因为墨水的缓慢流动而相平，因而完成了一次墨水转移$(br)容器两侧的墨水性质差异越大，墨水转移的速度也会越快。"
     }
   ]
 }
