@@ -1,5 +1,5 @@
 {
-  "name": "A new Ore",
+  "name": "新的矿石",
   "category": "spectrum:hints_category",
   "icon": "minecraft:writable_book",
   "advancement": "spectrum:milestones/reveal_malachite",
@@ -8,16 +8,16 @@
   "pages": [
     {
       "type": "spectrum:hint",
-      "title": "Where to find",
+      "title": "怎么找到",
       "completion_advancement": "spectrum:lategame/collect_malachite",
       "cost": "spectrum:bismuth_crystal#8",
-      "text": "There is a new ore found in the Deeper Down."
+      "text": "你可以在深渊领域找到这种新矿石。"
     },
     {
       "type": "spectrum:hint",
-      "title": "Concise Instructions",
+      "title": "简要说明",
       "cost": "spectrum:bismuth_crystal#24",
-      "text": "It is bright green and generates in the deepest depths of the Deeper Down. It's not found exposed to air often, so you may be most successful via branch mining."
+      "text": "这种亮蓝色的矿石生成在深渊领域的地下最深处。它通常不会暴露在空气中生成，因此你可以使用鱼骨挖矿法来更好的寻找它。"
     }
   ]
 }
