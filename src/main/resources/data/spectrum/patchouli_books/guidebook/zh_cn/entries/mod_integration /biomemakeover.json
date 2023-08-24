@@ -14,14 +14,14 @@
       "title": "Antidote Potions",
       "advancement": "spectrum:progression/unlock_potion_workshop",
       "recipe": "spectrum:mod_integration/biomemakeover/biomemakeover_antidote",
-      "text": ""
+      "text": "1"
     },
     {
       "type": "spectrum:potion_workshop_brewing",
       "title": "Nocturnal Potions",
       "advancement": "spectrum:progression/unlock_potion_workshop",
       "recipe": "spectrum:mod_integration/biomemakeover/biomemakeover_nocturnal",
-      "text": ""
+      "text": "1"
     }
   ]
 }
