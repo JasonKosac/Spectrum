@@ -10,13 +10,13 @@
     {
       "type": "patchouli:text",
       "title": "下蛋绒猪",
-      "text": "Your whole \"creating life\" thing has worked rather mixed so far. But slowly you feel you are able to move something.$(br2)Creating life from nothing is a difficult thing, but combining existing knowledge? You feel a bit like Frankenstein himself.$(br)$(italic)Is that a good thing? Bad? You are not sure at all."
+      "text": "在此之前，你认为“创造生命”这一事业还有些复杂，不过现在你慢慢的发现你能结合一些东西来创造生命了。$(br2)从无到有的创造生命并非易事，但只要用心总结你掌握的知识，你就会发现自己离弗兰肯斯坦本人更进一步了！$(br)$(italic)但这个事业孰好孰坏，你还无法确定。"
     },
     {
       "type": "spectrum:fusion_shrine_crafting",
-      "title": "Fusion Recipe",
+      "title": "融合配方",
       "recipe": "spectrum:fusion_shrine/egg_laying_wooly_pig_head",
-      "text": "What would your creation like to eat? It's relevant, for... $(l:creating_life/memories)reasons$()."
+      "text": "你的这个造物会吃什么呢？答案就在...$(l:creating_life/memories)这里$()。"
     }
   ]
 }
