@@ -1,5 +1,5 @@
 {
-  "name": "Applied Energistics",
+  "name": "应用能源2",
   "icon": "ae2:controller",
   "flag": "mod:ae2",
   "advancement": "spectrum:place_pedestal",
@@ -7,31 +7,31 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "'Any technology advanced enough is indistinguishable from magic', you once heard.$(br)You are still not entirely sure how this storage system stores so many blocks in so little room, but since you're regularly running around with hundreds of m² dirt, you never cared to question it."
+      "text": "俗话说得好：“任何的先进技术就是魔法”。$(br)你一直搞不明白，为什么这种小巧的储存系统之中能包含如此多的方块，但想想你也经常携带着数百立方米的泥土跑来跑去，这个问题就没必要过分深究。"
     },
     {
       "type": "spectrum:anvil_crushing",
-      "title": "Anvil Crushing",
+      "title": "铁砧粉碎",
       "recipe": "spectrum:mod_integration/ae2/anvil_crushing/certus_quartz_dust",
-      "text": "Lots of AE2's items can be crushed to dust using an anvil: $(thing)Certus Quartz(), $(thing)Fluix(), $(thing)Skystone() and $(thing)Ender Pearls()."
+      "text": "AE2的一部分物品也可以被铁砧粉碎：赛特斯石英，福鲁伊克斯，陨石和末影珍珠。"
     },
     {
       "type": "spectrum:fusion_shrine_crafting",
       "advancement": "spectrum:midgame/collect_storm_stone",
       "recipe": "spectrum:mod_integration/ae2/fusion_shrine/charged_certus_quartz_crystal",
-      "text": "In desperate need of $(thing)Charged Certus Quartz$()? $(l:resources/storm_stone)Storm Stones$() will charge them up in a heartbeat."
+      "text": "急需$(thing)充能赛特斯石英$()？自己充能就行，不需要再看运气啦！"
     },
     {
       "type": "spectrum:fusion_shrine_crafting",
       "advancement": "spectrum:midgame/collect_storm_stone",
       "recipe": "spectrum:mod_integration/ae2/fusion_shrine/fluix_dust",
-      "text": "...and then create $(thing)Fluix$() from it, if you get impatient."
+      "text": "...没耐心的话，制造$(thing)福鲁伊克斯$()也是可以的。"
     },
     {
       "type": "spectrum:crystallarieum_growing",
       "advancement": "spectrum:progression/unlock_crystallarieum",
       "recipe": "spectrum:mod_integration/ae2/crystallarieum/certus_quartz_crystal",
-      "text": "Being crystalline structures, $(thing)Certus Quartz$() and $(thing)Fluix Crystals$() can be grown in the Crystallarieum."
+      "text": "作为晶体，$(thing)赛特斯石英$()和$(thing)福鲁伊克斯水晶$()皆可以在结晶室内生长。"
     }
   ]
 }
