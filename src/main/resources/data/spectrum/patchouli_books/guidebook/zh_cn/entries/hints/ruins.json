@@ -11,23 +11,23 @@
       "title": "怎么找到",
       "completion_advancement": "spectrum:generate_ancient_ruins_loot",
       "cost": "spectrum:refined_azurite#4",
-      "text": "There are 3 different kinds of impenetrable structures hidden deep underground in the Overworld in any biome. They seem to be built from an unbreakable stone."
+      "text": "在主世界任意生物群系的地下深处，埋藏着3种不同的无法破坏的建筑物，它们似乎是用一些坚不可摧的石头建成的。"
     },
     {
       "type": "spectrum:hint",
-      "title": "Blue Hearts",
+      "title": "蓝色的心",
       "advancement": "spectrum:find_ancient_ruins",
       "completion_advancement": "spectrum:generate_ancient_ruins_loot",
       "cost": "spectrum:refined_azurite#12",
-      "text": "The entrance seems to be blocked by a powerful forcefield. Whoever built those was kind enough to leave you clues, however! The hearts on the forcefield's sides seem to indicate you have to have Azure Dike active."
+      "text": "入口似乎是被某种强大力场挡住了。不过建筑的主人留下了一点线索：蓝色的心说明你需要蔚蓝护盾装备才能穿过。"
     },
     {
       "type": "spectrum:hint",
-      "title": "Colored Spore Blossoms",
+      "title": "彩色孢子花",
       "advancement": "spectrum:find_ancient_ruins",
       "completion_advancement": "spectrum:enter_color_mixing_puzzle_structure",
       "cost": "spectrum:refined_azurite#12",
-      "text": "The Colored Spore Blossoms at the ceiling and the engravings behind them on the walls seem to hint at the solution. A Powder engraving and a '? + ?'. You have to mix powders?"
+      "text": "天花板上的彩色孢子花和墙上的雕刻似乎暗示了解决方案。一个粉末雕刻和一个“？ + ？”。这难道是要混合粉末吗？"
     },
     {
       "type": "spectrum:hint",
@@ -35,7 +35,7 @@
       "advancement": "spectrum:find_ancient_ruins",
       "completion_advancement": "spectrum:enter_wireless_redstone_puzzle_structure",
       "cost": "spectrum:refined_azurite#12",
-      "text": "Is there a way to crack open the Bedrock? After you get in, best to take a look at the corresponding pages in your book of everything you find there. Always good to have some dyes with you."
+      "text": "有什么将基岩破坏的方法吗？带好这本书，进去的时候记得多看看相应的页面，顺便查阅一下你在那里找到的所有东西。记得多带一些染料，这对你的探索大有所益。"
     }
   ]
 }
