@@ -33,7 +33,7 @@
       "title": "高纯资源",
       "item": "spectrum:pure_iron",
       "advancement": "spectrum:lategame/collect_pure_resource",
-      "text": "Breaking Ores with Resonance directly drops $(l:resources/pure_resources)Pure Resources$() instead of Raw Ores.$(br2)This would stack with Fortune... if you somehow could combine these 2 mutually exclusive Enchantments."
+      "text": "使用带有共振附魔的工具挖掘矿石能掉落其$(l:resources/pure_resources)高纯的矿物$()，而非其原先的粗矿。$(br2)该过程使用时运附魔也能生效...除非你有什么方法能够将这两种互相排斥的附魔结合起来。"
     },
     {
       "type": "patchouli:spotlight",
