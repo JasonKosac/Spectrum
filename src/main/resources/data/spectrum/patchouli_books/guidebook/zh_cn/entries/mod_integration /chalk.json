@@ -1,0 +1,35 @@
+{
+  "name": "Chalk（粉笔）",
+  "icon": "chalk:chalk",
+  "flag": "mod:chalk",
+  "advancement": "spectrum:place_pedestal",
+  "category": "spectrum:mod_integration_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "是否因一次又一次的在地下迷路感到厌倦？现在有了$(thing)粉笔$()，你可以标记返回的路径，不用为此担心了。可惜的是，这些方解石小块会因时间的流逝而开裂，不能长期保存。"
+    },
+    {
+      "type": "spectrum:pedestal_crafting",
+      "required_advancement": "spectrum:collect_pigment",
+      "title": "基座配方",
+      "recipe": "spectrum:mod_integration/chalk/pedestal/chalk",
+      "text": "用染料制作的粉笔实在用不长。使用颜料的话，就可以将$(thing)粉笔$()变得永久耐用啦。"
+    },
+    {
+      "type": "spectrum:pedestal_crafting",
+      "required_advancement": "spectrum:collect_pigment",
+      "title": "基座配方",
+      "recipe": "spectrum:mod_integration/chalk/pedestal/glow_chalk",
+      "text": "当然，不可破坏的$(thing)荧光粉笔$()也可以做。"
+    },
+    {
+      "type": "spectrum:pedestal_crafting",
+      "required_advancement": "spectrum:collect_pigment",
+      "flag": "mod:chalk-colorful-addon",
+      "title": "多彩粉笔扩展",
+      "recipe": "spectrum:mod_integration/chalk/pedestal/red_chalk",
+      "text": "嗯，你想要整点彩色的粉笔吗？还是可以整成不可破坏的哦！"
+    }
+  ]
+}
