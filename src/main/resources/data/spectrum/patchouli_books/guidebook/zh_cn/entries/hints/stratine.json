@@ -1,5 +1,5 @@
 {
-  "name": "A new Ore",
+  "name": "新的矿石",
   "category": "spectrum:hints_category",
   "icon": "minecraft:writable_book",
   "advancement": "spectrum:milestones/reveal_stratine",
@@ -8,16 +8,16 @@
   "pages": [
     {
       "type": "spectrum:hint",
-      "title": "Where to find",
+      "title": "怎么找到",
       "completion_advancement": "spectrum:midgame/collect_stratine",
       "cost": "minecraft:quartz#16",
-      "text": "There is a new Ore found in the Nether."
+      "text": "你可以在下界找到这种新矿石。"
     },
     {
       "type": "spectrum:hint",
-      "title": "Concise Instructions",
+      "title": "简要说明",
       "cost": "minecraft:quartz#48",
-      "text": "It generates in the lower layers of the Nether in all biomes, below lava level."
+      "text": "它生成于下界所有生物群系的岩浆平面之下的地层。"
     }
   ]
 }
