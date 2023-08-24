@@ -17,10 +17,10 @@
     },
     {
       "type": "patchouli:multiblock",
-      "name": "Spectrum Palace",
+      "name": "注魔殿堂",
       "multiblock_id": "spectrum:pedestal_complex_structure_without_moonstone_check",
       "enable_visualize": true,
-      "text": "You can switch the basalt blocks with calcite and the amethyst blocks for any other gemstone block."
+      "text": "你可以任意选用方解石或玄武岩，并采用你喜欢的宝石晶方块。"
     },
     {
       "type": "patchouli:text",
