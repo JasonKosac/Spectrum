@@ -1,5 +1,5 @@
 {
-  "name": "Item Roundel",
+  "name": "物品旋轮台",
   "advancement": "spectrum:progression/unlock_item_roundel",
   "icon": "spectrum:item_roundel",
   "category": "spectrum:decoration_category",
@@ -10,13 +10,13 @@
     {
       "type": "patchouli:text",
       "item": "spectrum:item_roundel",
-      "text": "You very much took a liking to the rotating roundels in these ancient structures. So much, that your copied their design yourself. Definitely a nice way to present your items, or keep them ready.$(br2)$(italic)Hopefully the patents have already expired."
+      "text": "你深深的着迷于那些在远古遗迹里的很多旋转轮台机，并决定要将其复制其设计来更好的展示你的物品。$(br2)$(italic)幸运的是，它们的专利早已过期了。"
     },
     {
       "type": "spectrum:pedestal_crafting",
-      "title": "Pedestal Recipe",
+      "title": "防护物品旋轮台",
       "recipe": "spectrum:pedestal/tier2/item_roundel",
-      "text": "The basalt and calcite version you cobbled together hold significantly more items, up to 6 whole stacks."
+      "text": "由你使用玄武岩和方解石亲手制作的复制品能展示更多的物品，最多可同时容纳6组不同的物品。"
     }
   ]
 }
