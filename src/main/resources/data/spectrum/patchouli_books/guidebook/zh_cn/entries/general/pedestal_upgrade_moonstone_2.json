@@ -9,14 +9,14 @@
     {
       "type": "patchouli:spotlight",
       "item": "spectrum:moonstone_chiseled_basalt",
-      "text": "Your latest Pedestal structure feels... somewhat lacking. And now you have gotten a hold of $(l:general/moonstone_shards)Moonstone$(/l) you also know exactly what is missing: $(c_white)Moonstone$() exactly. The tricky part: Creating the required $(thing)Moonstone Chiseled Blocks$() would require you being able to use your $(thing)Moonstone Pedestal$() to it's full capability already.$(br)$(italic)Is there a way to kickstart you?"
+      "text": "你现有的注魔殿堂结构感觉像...还缺了点什么。既然你现已掌握了$(l:general/moonstone_shards)月长石$(/l)的用法，那么你应该为你的结构补上$(c_white)月长石$()了。升级你的结构有点麻烦：需要使用$(thing)錾制月长石块$()来扩建，并将你的七彩基座升级为$(thing)七彩基座月长石变种$()才能发挥全部的效果。$(br)$(italic)有什么方法也能将你启动吗？"
     },
     {
       "type": "patchouli:multiblock",
       "name": "注魔殿堂",
       "multiblock_id": "spectrum:pedestal_complex_structure_check",
       "enable_visualize": true,
-      "text": "你可以任意选用方解石或玄武岩，并采用你喜欢的宝石晶方块。"
+      "text": "你可以选用任意种类的方解石或玄武岩，并采用你喜欢的宝石晶方块。"
     },
     {
       "type": "patchouli:text",
