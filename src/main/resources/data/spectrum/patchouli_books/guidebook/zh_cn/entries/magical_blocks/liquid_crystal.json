@@ -1,48 +1,50 @@
 {
-	"pages":[
-		{
-			"item":"spectrum:liquid_crystal_bucket",
-			"text":"$(italic)宝石液态的纯净能量。据说它有治疗作用。",
-			"type":"patchouli:spotlight"
-		},
-		{
-			"recipe":"spectrum:pedestal/tier3/liquid_crystal_bucket",
-			"text":"将其与各种其他液体结合，会形成各种外观怪异的物质。最好也去地狱试试！",
-			"type":"spectrum:pedestal_crafting",
-			"title":"基座配方"
-		},
-		{
-			"item":"minecraft:clay",
-			"text":"让液晶与泥制粘土碰撞！当然还有更多的组合需要发现！$(br2)$(italic)托马斯以前从未见过如此不平衡。$()",
-			"type":"patchouli:spotlight"
-		},
-		{
-			"item":"spectrum:blazing_crystal",
-			"advancement":"spectrum:hidden/collect_blazing_crystal",
-			"text":"让一整块液晶吸收熔岩的巨大热量导致了这一结果。$(br)感觉就像一个岩浆方块，尽管温度要高得多。",
-			"type":"patchouli:spotlight"
-		},
-		{
-			"item":"spectrum:frostbite_crystal",
-			"advancement":"spectrum:hidden/collect_frostbite_crystal",
-			"text":"当水试图流到一整块液晶时，液晶变成了固体。$(br)因为即使是轻微的触摸也足以让你冷得发抖，所以你称之为冻伤水晶",
-			"type":"patchouli:spotlight"
-		},
-		{
-			"item":"spectrum:resonant_lily",
-			"advancement":"spectrum:midgame/collect_resonant_lily",
-			"text":"这是一个有趣的例子。花的根部吸收了这种神奇的液体，变成了难以捉摸的植物。但即使这样，也无法承受液体的原始能量，使其爆裂。",
-			"type":"patchouli:spotlight"
-		}
-	],
-	"advancement":"spectrum:progression/unlock_liquid_crystal_bucket",
-	"extra_recipe_mappings":{
-		"spectrum:resonant_lily":0,
-		"spectrum:frostbite_crystal":0,
-		"spectrum:liquid_crystal_bucket":0,
-		"spectrum:blazing_crystal":0
-	},
-	"name":"液晶",
-	"icon":"spectrum:liquid_crystal_bucket",
-	"category":"spectrum:magical_blocks_category"
+  "name": "液体水晶",
+  "advancement": "spectrum:progression/unlock_liquid_crystal_bucket",
+  "icon": "spectrum:liquid_crystal_bucket",
+  "category": "spectrum:magical_blocks_category",
+  "turnin": "spectrum:midgame/enter_liquid_crystal",
+  "extra_recipe_mappings": {
+    "spectrum:liquid_crystal_bucket": 0,
+    "spectrum:blazing_crystal": 0,
+    "spectrum:frostbite_crystal": 0,
+    "spectrum:resonant_lily": 0
+  },
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "spectrum:liquid_crystal_bucket",
+      "text": "$(italic)宝石晶纯正能量的液态形式。似乎有治疗的功效。"
+    },
+    {
+      "type": "spectrum:pedestal_crafting",
+      "title": "基座配方",
+      "recipe": "spectrum:pedestal/tier3/liquid_crystal_bucket",
+      "text": "和其它各种液体交互生成的材料可谓千奇百怪。在下界试试看应该也不错！"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:clay",
+      "text": "液体水晶与泥浆交互生成了黏土块！还有别的组合搭配吗？$(br2)$(italic)我怀疑你在搞不平衡，但我没有证据。$()"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "advancement": "spectrum:hidden/collect_blazing_crystal",
+      "item": "spectrum:blazing_crystal",
+      "text": "完整的一格液体水晶在吸收了熔岩的巨大热量之后形成了这个东西。$(br)有点像岩浆块，但滚烫得多。你称之为炽热水晶。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "advancement": "spectrum:hidden/collect_frostbite_crystal",
+      "item": "spectrum:frostbite_crystal",
+      "text": "液体水晶被水流流过之后就凝固了。$(br)只需轻轻触碰，你就感受到了凛冽而刺骨的严寒。你称之为霜冻水晶。"
+    },
+    {
+      "type": "spectrum:liquid_crystal_converting",
+      "advancement": "spectrum:midgame/collect_resonant_lily",
+      "anchor": "resonant_lily",
+      "recipe": "spectrum:liquid_crystal_converting/resonant_lily",
+      "text": "这个有点意思。花朵的根基吸收了这些液体魔法，化作了谜样的植物。然而这些植物无法承受住这等纯粹的能量，因此就自然掉落了。"
+    }
+  ]
 }
