@@ -143,20 +143,20 @@
       "type": "patchouli:spotlight",
       "item": "spectrum:bismuth_crystal",
       "advancement": "spectrum:lategame/collect_bismuth_crystal",
-      "text": "Flat Potency bonus for all positive Effects. Additionally colors the Potions in a random color."
+      "text": "平均的增强所有的正面效果，并为药水染上随机一种颜色。"
     },
     {
       "type": "patchouli:spotlight",
       "item": "spectrum:malachite_crystal",
       "advancement": "spectrum:lategame/grow_malachite_in_crystallarieum",
-      "text": "x3 multiplicative Duration bonus, but makes the Potion much slower to drink."
+      "text": "效果强度随时间以三倍加成，但会延长药水的饮用耗时。"
     },
     {
       "type": "patchouli:spotlight",
       "item": "spectrum:prickly_bayleaf",
       "anchor": "prickly_bayleaf",
       "advancement": "spectrum:lategame/collect_prickly_bayleaf",
-      "text": "Greatly reduces the potency of negative effects or removes them entirely."
+      "text": "巨幅降低甚至是直接清除所有的负面效果。"
     }
   ]
 }
