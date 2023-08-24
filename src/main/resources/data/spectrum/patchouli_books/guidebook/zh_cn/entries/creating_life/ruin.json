@@ -13,13 +13,13 @@
     {
       "type": "patchouli:spotlight",
       "item": "spectrum:bottle_of_ruin",
-      "text": "This is it: the perfection of your recipe. A little failure definitely couldn't stop you.$(br)它可能凶残到能够摧毁你先前认为坚不可摧的事物。$(br)如果使用不当，你的世界真的会毁在你手上。$(br)A necessary sacrifice, really."
+      "text": "哪怕是一丁点的失败，也绝对不可能阻止你为了合成这样一个完美的造物而努力——它便是如此。$(br)它可能凶残到能够摧毁你先前认为坚不可摧的事物。$(br)如果使用不当，你的世界真的会毁在你手上。$(br)在需要的时候来一场真正的牺牲吧！"
     },
     {
       "type": "spectrum:pedestal_crafting",
       "title": "基座配方",
       "recipe": "spectrum:pedestal/tier3/bottle_of_ruin",
-      "text": "You won't even make it subtle.这可是字面意义上的$(#ff0000)凶残$()玩意儿，没有丝毫开玩笑的意思。"
+      "text": "小心点！这可是字面意义上的$(#ff0000)凶残$()玩意儿，没有丝毫开玩笑的意思。"
     },
     {
       "type": "patchouli:spotlight",
@@ -37,16 +37,16 @@
     {
       "type": "spectrum:pedestal_crafting",
       "advancement": "spectrum:midgame/break_decayed_bedrock",
-      "title": "Bedrock Blocks",
+      "title": "基岩粉块",
       "recipe": "spectrum:pedestal/tier3/bedrock/bedrock_storage_block",
-      "text": "The chunks of Bedrock are so sturdy, that a normal Crafting Table can't handle it. But your $(l:general/pedestal)Pigment Pedestal$(/l) handles it no problem."
+      "text": "即使是基岩的碎屑也非常坚固，普通的工作台压根无法处理它们。但有了$(l:general/pedestal)七彩基座$(/l)，把它们合并起来并非难事。"
     },
     {
       "type": "spectrum:pedestal_crafting",
       "advancement": "spectrum:midgame/break_decayed_bedrock",
-      "title": "Converting back",
+      "title": "分解",
       "recipe": "spectrum:pedestal/tier3/bedrock/bedrock_storage_block_uncrafting",
-      "text": "These seem so sturdy, not even a Wither would be able to break them.$(br2)Of course you are also able to convert it back again."
+      "text": "基岩粉块也很坚固，哪怕是凋灵也对它们无能为力。$(br2不过，使用七彩基座，你仍然能轻松的将基岩粉块分为小块。"
     }
   ]
 }
