@@ -1,5 +1,5 @@
 {
-  "name": "A Mysterious Locket",
+  "name": "一个神秘的坠饰盒",
   "icon": "spectrum:mysterious_locket",
   "advancement": "spectrum:collect_mysterious_locket",
   "category": "spectrum:general_category",
@@ -11,23 +11,23 @@
   "pages": [
     {
       "type": "patchouli:spotlight",
-      "title": "A Mysterious Locket",
+      "title": "一个神秘的坠饰盒",
       "item": "spectrum:mysterious_locket",
-      "text": "This small locket is tight shut. It features an odd crystal ornament which almost resembles a lock, softly glowing a pale white color, a shimmer reminiscent of the moon.$(br)Who knows who this once belonged to and why it was left behind."
+      "text": "这个小小的坠饰盒紧锁着。它有一个奇怪的水晶装饰品，看上去像是一把锁，如同月光一般微弱的散发着苍白色的光芒。$(br)它曾属于谁？它为何被遗忘于此？无人知晓。"
     },
     {
       "type": "patchouli:text",
-      "text": "There seems to be something inside. It also has an engraving on it's back, but if it even resembles a language it's none you have ever seem.$(br2)$(bold)Want to know what's inside? Stay tuned for the next mod update soon (tm)"
+      "text": "里面似乎装有什么东西。它的背侧刻有一种像是某种你不认识的语言的铭文。$(br2)$(bold)想要知道里面装的是什么东西吗？请耐心等待本模组的更新（恼）"
     },
     {
       "type": "patchouli:text",
-      "title": "A Challenge?",
+      "title": "一个挑战？",
       "advancement": "spectrum:lategame/learn_dreiton",
-      "text": "Now that you understand Dreiton tongue, it is easy for you to decipher the inscription on the back:$(br2)$(italic)Don't be silly Asteras - the moon can't glow, it can only reflect the sun's light."
+      "text": "现在你明白了Dreiton（游戏背景音乐名）的意境，你很容易的破译了这个铭文：$(br2)$(italic)别傻了，阿斯特拉斯——月亮不能发光，它只能反射太阳的光。"
     },
     {
       "type": "patchouli:image",
-      "title": "The Locket's Contents",
+      "title": "坠饰盒内的东西",
       "advancement": "spectrum:open_mysterious_locket",
       "images": [
         "spectrum:textures/gui/guidebook/locket.png"
@@ -38,7 +38,7 @@
     {
       "type": "patchouli:text",
       "advancement": "spectrum:open_mysterious_locket",
-      "text": "The locket also contained a small crystal, bearing a dimmer, yet much warmer glow than it's lock.$(br)While in the $(l:dimension/dimension)Deeper Down$(/l)it softly vibrates as you turn."
+      "text": "小坠饰盒还含有一个小水晶，散发着更暗淡的光芒，不过和锁相比要温暖得多。$(br)在$(l:dimension/dimension)深渊领域$(/l)中，当你转动坠饰盒时，它还会轻轻的振动。"
     }
   ]
 }
