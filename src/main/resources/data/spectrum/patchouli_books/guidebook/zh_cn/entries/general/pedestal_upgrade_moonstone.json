@@ -20,7 +20,7 @@
       "name": "注魔殿堂",
       "multiblock_id": "spectrum:pedestal_complex_structure_without_moonstone_check",
       "enable_visualize": true,
-      "text": "你可以任意选用方解石或玄武岩，并采用你喜欢的宝石晶方块。"
+      "text": "你可以选用任意种类的方解石或玄武岩，并采用你喜欢的宝石晶方块。"
     },
     {
       "type": "patchouli:text",
