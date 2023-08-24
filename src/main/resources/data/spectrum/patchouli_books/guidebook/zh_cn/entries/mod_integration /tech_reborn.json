@@ -1,0 +1,25 @@
+{
+  "name": "Tech Reborn（科技复兴）",
+  "icon": "techreborn:grinder",
+  "flag": "mod:techreborn",
+  "advancement": "spectrum:place_pedestal",
+  "category": "spectrum:mod_integration_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "是时候使用$(italic)电力$()这个新玩意儿来为你的工厂添砖加瓦了！记得启动机器前仔细检查一下。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "spectrum:amethyst_ore",
+      "advancement": "spectrum:break_gemstone_ore",
+      "text": "大部分光谱矿物都可以被粉碎机/工业粉碎机处理。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:amethyst_shard",
+      "advancement": "spectrum:spectrum",
+      "text": "当然还能进一步磨成碎片啦！"
+    }
+  ]
+}
