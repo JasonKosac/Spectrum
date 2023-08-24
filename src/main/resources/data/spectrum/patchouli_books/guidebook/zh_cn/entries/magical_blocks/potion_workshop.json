@@ -1,18 +1,21 @@
 {
-	"pages":[
-		{
-			"text":"$(italic)与此同时，你们已经掌握了许多新材料。现在是时候仔细看看它们对你的药剂有什么影响了。$(br2)作为一名专家，你有根据地猜测：太棒了！",
-			"type":"patchouli:text"
-		},
-		{
-			"recipe":"spectrum:pedestal/tier3/potion_workshop",
-			"text":"药水工场使用的不是烈焰粉，而是美人鱼宝石。主要优点是你不必在之前把瓶子装满水。",
-			"type":"spectrum:pedestal_crafting",
-			"title":"基座配方"
-		}
-	],
-	"advancement":"spectrum:progression/unlock_potion_workshop",
-	"name":"药水工场",
-	"icon":"spectrum:potion_workshop",
-	"category":"spectrum:magical_blocks_category"
+  "name": "药水工作站",
+  "icon": "spectrum:potion_workshop",
+  "advancement": "spectrum:progression/unlock_potion_workshop",
+  "category": "spectrum:magical_blocks_category",
+  "extra_recipe_mappings": {
+    "spectrum:potion_workshop": 0
+  },
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(italic)探险期间，你手上已经增添了许多新的资源和材料。是时候研习一下各种材料在药水炼制过程中的功效了。$(br2)见多识广的你一定猜到了一点：会很棒！"
+    },
+    {
+      "type": "spectrum:pedestal_crafting",
+      "title": "基座配方",
+      "recipe": "spectrum:pedestal/tier3/potion_workshop",
+      "text": "药水工作站由美人鱼宝石驱动，而非烈焰粉。好就好在你不需要提前给瓶子装水了。"
+    }
+  ]
 }
