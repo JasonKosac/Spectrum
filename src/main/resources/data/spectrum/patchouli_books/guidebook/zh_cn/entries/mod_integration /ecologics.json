@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "New biomes bring new possibilities. But which?"
+      "text": "新的生物群系意味着新的机遇...嗯，然后呢？"
     },
     {
       "type": "spectrum:potion_workshop_brewing",
