@@ -15,7 +15,7 @@
       "type": "spectrum:potion_workshop_crafting",
       "title": "工作站配方",
       "recipe": "spectrum:potion_workshop_crafting/restoration_tea",
-      "text": "$(italic)想啥呢，加奶还能喝？"
+      "text": "$(italic)想啥呢，加奶还能喝下去？"
     }
   ]
 }
