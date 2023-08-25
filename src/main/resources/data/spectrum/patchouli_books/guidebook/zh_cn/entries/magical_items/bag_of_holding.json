@@ -1,5 +1,5 @@
 {
-  "name": "Bag of Holding",
+  "name": "纳袋",
   "advancement": "spectrum:progression/unlock_bag_of_holding",
   "icon": "spectrum:bag_of_holding",
   "category": "spectrum:magical_items_category",
