@@ -1,5 +1,5 @@
 {
-  "name": "Nightfall's Blade",
+  "name": "黄昏刀（暂译）",
   "advancement": "spectrum:progression/unlock_nightfalls_blade",
   "icon": "spectrum:nightfalls_blade",
   "category": "spectrum:equipment_category",
@@ -9,12 +9,12 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "This small blade is too fine to inflict permanent wounds, but has many sharp edges that drill themselves into the flesh of your opponent.$(br)Infused in the $(l:magical_blocks/potion_workshop)Potion Workshop$() however, all struck opponents are directly affected by the potion's effect, provided you have enough of the color of Ink on you, that corresponds to it."
+      "text": "这把小刀太细了，无法造成永久性的伤口，但其众多锋利的倒刺则能刺进到敌人的身体。$(br)使用$(l:magical_blocks/potion_workshop)药水工作站$()来为它注入药水，并在攻击时对所有被击中的敌人造成相应的药水效果，但前提是你携带了足够多的和药水颜色相对应的墨水。"
     },
     {
       "type": "spectrum:fusion_shrine_crafting",
       "recipe": "spectrum:fusion_shrine/nightfalls_blade",
-      "text": "$(italic)Cruel, really, but effective."
+      "text": "$(italic)很残忍，但很有用。"
     }
   ]
 }
