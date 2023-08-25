@@ -9,15 +9,15 @@
   "pages": [
     {
       "type": "patchouli:spotlight",
-      "title": "Bag of Holding",
+      "title": "纳袋",
       "item": "spectrum:bag_of_holding",
-      "text": "$(italic)Placing an Ender Chest, opening it, and mining it with an enchanted pickaxe is not what you think of as fun.$(br)That's why you invented this thing."
+      "text": "$(italic)还在为先放上末影箱，装好东西后再用带有精准采集的镐子挖掉这一繁琐的操作而苦恼吗？$(br)这项发明完美的解决了这个问题。"
     },
     {
       "type": "spectrum:pedestal_crafting",
       "title": "Pedestal Recipe",
       "recipe": "spectrum:pedestal/tier1/bag_of_holding",
-      "text": "Just open it and the contents of your Ender Chest are right there."
+      "text": "仅需将它打开，你就能看到你的末影箱里装了哪些东西。"
     }
   ]
 }
