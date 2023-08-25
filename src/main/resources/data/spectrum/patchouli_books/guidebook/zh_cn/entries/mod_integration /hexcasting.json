@@ -7,7 +7,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Unlike other gemstones, $(thing)Amethyst$() seems to have the ability to power spell casting wands. While this ability has broken your brain more than once, the results are impressive.$(br)What more is there?"
+      "text": "和其他宝石不同，$(thing)紫水晶$()似乎能有为法杖提供能量的能力。这种能力一次次的刷新你的认知，你对此印象深刻。$(br)嗯，还有什么呢？"
     },
     {
       "type": "spectrum:potion_workshop_brewing",
