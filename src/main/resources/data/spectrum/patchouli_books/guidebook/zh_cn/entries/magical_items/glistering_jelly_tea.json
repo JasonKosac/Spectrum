@@ -1,5 +1,5 @@
 {
-  "name": "Glistering Jelly Tea",
+  "name": "闪光凝冻茶",
   "advancement": "spectrum:progression/unlock_glistering_jelly_tea",
   "icon": "spectrum:glistering_jelly_tea",
   "category": "spectrum:magical_items_category",
@@ -9,13 +9,13 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "The Jade Vine is known for it's regenerative properties, as well as Glistering Melons.As it happens, mixed together unfolds exquisitely harmonious, sweet taste.$(br2)Temporarily grants you a small health boost."
+      "text": "玉藤和闪烁的西瓜均以其极强的再生性而著称。试试将这两种植物混合在一起并做成一道甜点吧！$(br2)不仅能给你带来甜蜜的享受，还能给你带来暂时性的生命提升的效果。"
     },
     {
       "type": "spectrum:potion_workshop_crafting",
-      "title": "Workshop Recipe",
+      "title": "药水工作站配方",
       "recipe": "spectrum:potion_workshop_crafting/glistering_jelly_tea",
-      "text": "$(italic)Don't even think about drinking that with milk!"
+      "text": "$(italic)别和着牛奶一起喝！"
     }
   ]
 }
