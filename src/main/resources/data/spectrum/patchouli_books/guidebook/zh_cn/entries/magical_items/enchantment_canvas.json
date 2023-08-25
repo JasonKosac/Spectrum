@@ -1,5 +1,5 @@
 {
-  "name": "Enchantment Canvas",
+  "name": "附魔画布",
   "advancement": "spectrum:progression/unlock_enchantment_canvas",
   "icon": "spectrum:enchantment_canvas",
   "category": "spectrum:magical_items_category",
@@ -9,13 +9,13 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Your pickaxe, which was sinfully expensive to enchant? Almost broken and each additional broken block hurts your nerves more than the tool itself.$(br)May the tool not be able to be rescued, at least the Enchantments will! This canvas can not only capture color: Used on a tool, the enchantments are exchanged."
+      "text": "是否为每一次耗尽一个拥有特定附魔的工具而难过？既然失去的工具无法被挽回，不如在工具耗尽之前将附魔转移！$(br)这幅神奇的画布不仅能捕捉颜色，还能捕捉附魔，对着工具使用它就能实现附魔的转移。"
     },
     {
       "type": "spectrum:pedestal_crafting",
-      "title": "Pedestal Recipe",
+      "title": "基座配方",
       "recipe": "spectrum:pedestal/tier2/enchantment_canvas",
-      "text": "Once used, an image of the item you used it on will be drawn on the canvas, never be removed again, binding it to this type of item."
+      "text": "每次使用时，附魔画会将工具的种类和附魔信息永久的绘制下来，不可更改。绘制好的画布只能为绘制时的同种工具进行附魔转移。"
     }
   ]
 }
