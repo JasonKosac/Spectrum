@@ -1,5 +1,5 @@
 {
-  "name": "Bottomless Bundle",
+  "name": "无底袋",
   "advancement": "spectrum:progression/unlock_bottomless_bundle",
   "icon": "spectrum:bottomless_bundle",
   "category": "spectrum:magical_items_category",
@@ -10,40 +10,40 @@
     {
       "type": "patchouli:spotlight",
       "item": "spectrum:bottomless_bundle",
-      "text": "$(italic)On your journeys through the underground you collect a whole lot of identical blocks, which you will never need again. But they are too good to throw away, you think.$(br2)Time to develop a storage solution that takes care of your little homemade problem.$()"
+      "text": "$(italic)在探索地下世界的旅途中，你总会采集到一些看似多余，但实则大有用途的方块。$(br2)如果你很想把这些方块统统收集起来，却囿于你的空袋空间严重不足的话，是时候为你的储存问题提供一个新的方案了！$()"
     },
     {
       "type": "spectrum:pedestal_crafting",
-      "title": "Pedestal Recipe",
+      "title": "基座配方",
       "recipe": "spectrum:pedestal/tier2/bottomless_bundle",
-      "text": "The Bottomless Bundle stores a virtually unlimited number of items, but of only one type.$(br)Right click it on stacks or empty slots in your inventory to fill/empty it"
+      "text": "这便是无底袋——拥有着最多无限储量的袋子！不过仅限储存同一种方块或物品。$(br)在物品栏中，拿着某种方块或物品对其右击以装进去；将装好东西的袋子对着空槽位右击以倒出来。此外直接右击也可倒出东西。"
     },
     {
       "type": "patchouli:image",
-      "title": "Automation",
+      "title": "自动化",
       "images": [
         "spectrum:textures/gui/guidebook/bottomless_bundle_automation.png"
       ],
-      "text": "Crouching places it down, making it able to be automatically filled / emptied."
+      "text": "按住潜行键，手持无底袋对着方块上表面右击便可将其放置（以方块的形式），之后便为其连接漏斗来实现方块或物品的自动存放。"
     },
     {
       "type": "patchouli:text",
       "title": "",
-      "text": "$(br)A placed Bundle will always remember the last item you put into it.$(br)Even if it is emptied it will only accept new items that it was holding before, making it also usable as a filter.$(br2)$(italic)Note: If it was placed empty it will accept the first item pumped into it and get locked to that.$()"
+      "text": "$(br)被放置的无底袋会记忆其存入的东西的种类。$(br)即使其被清空也不会接受其他种类的东西，因此可将它作为一种过滤器使用。$(br2)$(italic)备注：如果其在放置之前没装有任何东西，它将会记住被注入的第一个东西的种类，并再其后仅接受这一种东西的存放。$()"
     },
     {
       "type": "patchouli:spotlight",
       "advancement": "spectrum:midgame/build_enchanting_structure",
-      "title": "Enchanting - Power",
+      "title": "附魔 - 能量",
       "item": "spectrum:bottomless_bundle{Enchantments: [{id: \"minecraft:power\", lvl: 5s}]}",
-      "text": "Enchanting a Bottomless Bundle with Power by using the $(l:enchanting/enchanting_items)Enchanter$(/l) you can increase its capacity tenfold for each level of Power.$(br2)$(italic)Are you able to fill a Bottomless Bundle with Power V?"
+      "text": "无底袋能通过在$(l:enchanting/enchanting_items)注魔基座$(/l)上注入力量的附魔来增加容量。每增加一级力量，其容量增加十倍。$(br2)$(italic)你能给你的袋子注入力量V的附魔吗？"
     },
     {
       "type": "patchouli:spotlight",
       "advancement": "spectrum:midgame/build_enchanting_structure",
-      "title": "Curse of the Void",
+      "title": "虚空的诅咒",
       "item": "spectrum:bottomless_bundle{Enchantments: [{id: \"spectrum:voiding\", lvl: 1s}]}",
-      "text": "Enchanting a Bottomless Bundle with Curse of the Void by using the $(l:enchanting/enchanting_items)Enchanter$(/l) will result in voiding all items that would overfill the Bottomless Bundle.$(br2)$(italic)No more useless blocks cluttering your path when mining."
+      "text": "在$(l:enchanting/enchanting_items)注魔基座$(/l)上为无底袋注入虚空诅咒，会使其收纳的所有超出其容量东西直接消失。$(br2)$(italic)挖矿时不用担心太多没用的方块阻碍你的挖掘进度了。"
     }
   ]
 }
