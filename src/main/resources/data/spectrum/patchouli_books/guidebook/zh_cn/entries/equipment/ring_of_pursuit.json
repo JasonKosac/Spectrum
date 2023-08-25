@@ -1,5 +1,5 @@
 {
-  "name": "Ring of Pursuit",
+  "name": "渴望戒指（暂译）",
   "advancement": "spectrum:progression/unlock_ring_of_pursuit",
   "icon": "spectrum:ring_of_pursuit",
   "category": "spectrum:equipment_category",
@@ -9,13 +9,13 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Mining is your game. It's almost a miracle that you're only now coming around to the idea of upgrading not only your tools, but your proficiency in general. Just like you he grows with your capabilities."
+      "text": "挖矿便是你的人生——你热爱挖矿，并希望能达到一种更高的境界。因此，你不仅需要升级你的工具，而且还要提升你的技术——你人在成长，这技术难道就不跟着长吗？"
     },
     {
       "type": "spectrum:fusion_shrine_crafting",
-      "title": "Fusion Recipe",
+      "title": "融合配方",
       "recipe": "spectrum:fusion_shrine/trinkets/ring_of_pursuit",
-      "text": "Infuse it with $(l:magic/ink)Magenta Ink$(/l) to increase your Mining Speed."
+      "text": "注入$(l:magic/ink)品红色墨水$(/l)来提高你的挖掘速度。"
     }
   ]
 }
