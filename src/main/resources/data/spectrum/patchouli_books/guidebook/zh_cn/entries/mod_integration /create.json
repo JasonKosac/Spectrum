@@ -7,31 +7,31 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Everywhere it rattles and fizzles, whistles and smokes. An ensemble of Assemblage.$(br2)Surely a few of those machines will come in handy."
+      "text": "机械冒着蒸汽，齿轮传动的咯吱声和汽笛的鸣响声不绝于耳，这场面简直就是在用蒸汽演奏交响乐！$(br2)这些机械“乐器”有时也会为本模组派上用场。"
     },
     {
       "type": "patchouli:spotlight",
       "advancement": "spectrum:progression/unlock_potion_workshop",
       "item": "spectrum:magenta_leaves",
-      "text": "$(thing)Colored Leaves$() can be crushed, yielding $(thing)Pigment$() and $(thing)Colored Saplings$()"
+      "text": "$(thing)彩色树叶$()能被压碎成$(thing)颜料$()和$(thing)彩色树苗$()。"
     },
     {
       "type": "patchouli:spotlight",
       "advancement": "spectrum:progression/unlock_potion_workshop",
       "item": "spectrum:magenta_log",
-      "text": "Crushing $(thing)Colored Logs$() results in a nice yield of $(thing)Pigment$()."
+      "text": "通过粉碎$(thing)彩色原木$()来生产大量的$(thing)颜料$()。"
     },
     {
       "type": "patchouli:spotlight",
       "advancement": "spectrum:collect_quitoxic_reeds",
       "item": "spectrum:quitoxic_reeds",
-      "text": "$(l:resources/quitoxic_reeds)Quitoxic Reeds$() can be ground into powder easily."
+      "text": "$(l:resources/quitoxic_reeds)奇毒苇$()现在会更容易的被磨成粉末。"
     },
     {
       "type": "patchouli:spotlight",
       "advancement": "spectrum:progression/unlock_potion_workshop",
       "item": "minecraft:amethyst_shard",
-      "text": "Milling $(thing)Gemstone Shards Yields$() results in a higher amount of $(thing)Gemstone Powder$() compared crushing them with an Anvil."
+      "text": "和原先的用铁砧粉碎相比，用该方法粉碎$(thing)宝石晶碎片$()会产生更多的$(thing)宝石晶粉末$()了。"
     }
   ]
 }
