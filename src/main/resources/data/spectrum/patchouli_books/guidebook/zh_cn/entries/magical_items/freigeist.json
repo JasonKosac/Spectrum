@@ -1,5 +1,5 @@
 {
-  "name": "Freigeist",
+  "name": "圣灵酒",
   "icon": "spectrum:freigeist",
   "advancement": "spectrum:progression/unlock_freigeist",
   "category": "spectrum:magical_items_category",
@@ -9,12 +9,12 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "As the first drop touched your lips, it already filled your body with immense might. Just the memory of it makes your hand $(italic)tremble$() of tension. That's no good.$(br)And yet you have never felt more powerful and alive than you did at this very moment.$(br)However, is it really worth emptying that vial? Should you die against all odds, the price will be immense."
+      "text": "当第一滴酒进入到你的嘴巴时，你的全身仿佛立刻充满了巨大的力量。记忆在你脑海中浮现，你的双手正紧张的$(italic)颤抖$()着，这可不太妙。$(br)你感受到了前所未有的更加强大的能力和精力。$(br)然而，真的值得清空那个小瓶吗？如果你不顾一切地死去，你将会为此而付出巨大的代价。"
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
       "recipe": "spectrum:titration_barrel/freigeist",
-      "text": "$(br)$(italic)Caress the one,$(br) the never-fading$(br)Rain in your heart,$(br)  the tears of$(br)  snow-white sorrow$(br)Caress the one,$(br)  the hiding amaranth$(br)In a land of the daybreak"
+      "text": "$(br)$(italic)愿君顾之，$(br)无瑕之雨$(br)沥之于心，$(br)如悲恸之泪$(br)化作纷飞之白雪。$(br)愿君顾之，$(br)直至黎明之时$(br)苋菜遍野。"
     }
   ]
 }
