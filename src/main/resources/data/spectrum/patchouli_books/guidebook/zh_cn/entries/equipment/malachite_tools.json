@@ -1,5 +1,5 @@
 {
-  "name": "Malachite Tools",
+  "name": "孔雀石工具",
   "advancement": "spectrum:progression/malachite/unlock_malachite_tools",
   "icon": "spectrum:malachite_ultra_greatsword",
   "category": "spectrum:equipment_category",
@@ -18,57 +18,57 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "$(l:resources/malachite)Malachite$/l) as a material does seem perfectly suited for tools, best compared to $(thing)Diamond$(), but far easier combinable with other materials.$(br)These combinations are where the fun begins, allowing for some intricately unique tools."
+      "text": "$(l:resources/malachite)孔雀石$/l)非常适合用来制作工具，包括和其他原料相结合，制作出一些独特且实用的工具。$(br)孔雀石在和$(thing)钻石$()相结合时效果最佳，不过用别的原料结合会更容易些。"
     },
     {
       "type": "spectrum:fusion_shrine_crafting",
       "recipe": "spectrum:fusion_shrine/malachite/malachite_workstaff",
-      "text": "The perfect $(l:equipment/multitool)Multitool$():$(br)$(k:sneak) + $(k:use) allows you to switch between $(thing)Silk Touch$() and $(thing)Fortune$(), mine large tunnels at once and allows you to $(thing)strip$(), $(thing)till$() and $(thing)flatten$()."
+      "text": "如何使用这个完美的$(l:equipment/multitool)多功能工具$()：$(br)按住$(k:sneak)键并$(k:use)以切换附魔（$(thing)精准采集$()或$(thing)时运$()），并一次性挖掘一个大型隧道，其形状可选$(thing)带状$()，$(thing)直通$()和$(thing)扁平$()。"
     },
     {
       "type": "spectrum:fusion_shrine_crafting",
       "recipe": "spectrum:fusion_shrine/malachite/malachite_ultra_greatsword",
-      "text": "It's sheer size allows you to hit foes at a larger distance.$(br)Would it not be for the $(resources/paltaeria)Paltaeria$()you worked in, you probably wouldn't even be able to lift it."
+      "text": "这把硕大的巨剑能让你在较远的地方攻击敌人。$(br)如果不使用你自己的$(resources/paltaeria)Paltaeria$()，你还不能将它举起。"
     },
     {
       "type": "spectrum:fusion_shrine_crafting",
       "recipe": "spectrum:fusion_shrine/malachite/malachite_bident",
-      "text": "This upgraded $(thing)Trident$() is a powerhouse, returning to you almost instantly."
+      "text": "这个升级版的$(thing)三叉戟$()效果更强，投出后还能瞬间回到你的身边。"
     },
     {
       "type": "spectrum:fusion_shrine_crafting",
       "recipe": "spectrum:fusion_shrine/malachite/malachite_crossbow",
-      "text": "Shoots projectiles at a higher Speed and precision than a mundane $(thing)Crossbow$(). Not only able to shoot flint arrows or fireworks, but also $(thing)Glass Arrows$()."
+      "text": "这个升级版的弩和普通的$(thing)弩$()相比有着更高的射击精度和速度。它不仅能发射普通的箭和烟花火箭，还能发射$(thing)玻璃箭$()。"
     },
     {
       "type": "spectrum:pedestal_crafting",
       "recipe": "spectrum:pedestal/tier1/arrows/malachite_glass_arrow",
-      "text": "When shot, these special arrows transform into pure energy, dealing increased damage, allowing them to pierce translucent blocks and do not get slowed down by fluids."
+      "text": "这种特殊的箭在被射出时会转变成纯粹的能量，不仅能造成更大的伤害，而且能使它们轻松穿透半透明的方块，即使是在液体中也不会被减速。"
     },
     {
       "type": "spectrum:pedestal_crafting",
       "recipe": "spectrum:pedestal/tier1/arrows/topaz_glass_arrow",
-      "text": "Pulls the target in your direction, so you are ready to deal a deadly melee hit."
+      "text": "这种箭能将目标拉向你所在的位置——是时候将远攻转变为更致命的近战了！"
     },
     {
       "type": "spectrum:pedestal_crafting",
       "recipe": "spectrum:pedestal/tier1/arrows/amethyst_glass_arrow",
-      "text": "Freezes the target, slowing them down. Also deals freezing damage over time."
+      "text": "这种箭能将目标冻结，减缓其移动速度，并随着时间推移给目标造成冰冻伤害。"
     },
     {
       "type": "spectrum:pedestal_crafting",
       "recipe": "spectrum:pedestal/tier1/arrows/citrine_glass_arrow",
-      "text": "Hits your foe with enormous force, knocking them far away."
+      "text": "这种箭能将目标击退的很远——用巨大的力量让敌人退散吧！"
     },
     {
       "type": "spectrum:pedestal_crafting",
       "recipe": "spectrum:pedestal/tier1/arrows/onyx_glass_arrow",
-      "text": "Deals damage regardless of your targets invisibility frames and resets them. Deals additional damage to armor and shields."
+      "text": "这种箭能击中隐形的目标并将其显形，此外还能对有护甲保护或使用护盾的目标造成额外的伤害。"
     },
     {
       "type": "spectrum:pedestal_crafting",
       "recipe": "spectrum:pedestal/tier1/arrows/moonstone_glass_arrow",
-      "text": "Explodes as an orb of pure energy, dealing damage to everything close to the detonation."
+      "text": "这种箭能在击中时产生一个完全由能量构成的球，并通过爆炸来对周围的所有目标造成伤害。"
     }
   ]
 }
