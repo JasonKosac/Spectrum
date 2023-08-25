@@ -7,53 +7,53 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "To an outsider, an alchemist might well be mistaken for a magician. Time to get to know the differences - but also the similarities."
+      "text": "对一般人来说，辨别炼金术士和魔术师是相当有挑战的。是时候来了解一下他们的区别和共同之处了。"
     },
     {
       "type": "spectrum:potion_workshop_brewing",
-      "title": "Combustion Potions",
+      "title": "烈焰药水",
       "advancement": "spectrum:progression/unlock_potion_workshop",
       "recipe": "spectrum:mod_integration/extraalchemy/potion_workshop_brewing/extraalchemy_combustion",
       "text": ""
     },
     {
       "type": "spectrum:potion_workshop_brewing",
-      "title": "Concentration Potions",
+      "title": "宁神药水",
       "advancement": "spectrum:progression/unlock_potion_workshop",
       "recipe": "spectrum:mod_integration/extraalchemy/potion_workshop_brewing/extraalchemy_concentration",
       "text": ""
     },
     {
       "type": "spectrum:potion_workshop_brewing",
-      "title": "Crumbling Potions",
+      "title": "地噬药水",
       "advancement": "spectrum:progression/unlock_potion_workshop",
       "recipe": "spectrum:mod_integration/extraalchemy/potion_workshop_brewing/extraalchemy_crumbling",
       "text": ""
     },
     {
       "type": "spectrum:potion_workshop_brewing",
-      "title": "Detection Potions",
+      "title": "侦测药水",
       "advancement": "spectrum:progression/unlock_potion_workshop",
       "recipe": "spectrum:mod_integration/extraalchemy/potion_workshop_brewing/extraalchemy_detection",
       "text": ""
     },
     {
       "type": "spectrum:potion_workshop_brewing",
-      "title": "Fuse Potions",
+      "title": "引信药水",
       "advancement": "spectrum:progression/unlock_potion_workshop",
       "recipe": "spectrum:mod_integration/extraalchemy/potion_workshop_brewing/extraalchemy_fuse",
       "text": ""
     },
     {
       "type": "spectrum:potion_workshop_brewing",
-      "title": "Gravity Potions",
+      "title": "重力药水",
       "advancement": "spectrum:progression/unlock_potion_workshop",
       "recipe": "spectrum:mod_integration/extraalchemy/potion_workshop_brewing/extraalchemy_gravity",
       "text": ""
     },
     {
       "type": "spectrum:potion_workshop_brewing",
-      "title": "Growing Potions",
+      "title": "生长药水",
       "flag": "mod:pekhui",
       "advancement": "spectrum:progression/unlock_potion_workshop",
       "recipe": "spectrum:mod_integration/extraalchemy/potion_workshop_brewing/extraalchemy_growing",
@@ -61,63 +61,63 @@
     },
     {
       "type": "spectrum:potion_workshop_brewing",
-      "title": "Learning Potions",
+      "title": "智慧药水",
       "advancement": "spectrum:progression/unlock_potion_workshop",
       "recipe": "spectrum:mod_integration/extraalchemy/potion_workshop_brewing/extraalchemy_learning",
       "text": ""
     },
     {
       "type": "spectrum:potion_workshop_brewing",
-      "title": "Magnetism Potions",
+      "title": "磁性药水",
       "advancement": "spectrum:progression/unlock_potion_workshop",
       "recipe": "spectrum:mod_integration/extraalchemy/potion_workshop_brewing/extraalchemy_magnetism",
       "text": ""
     },
     {
       "type": "spectrum:potion_workshop_brewing",
-      "title": "Pacifism Potions",
+      "title": "和平药水",
       "advancement": "spectrum:progression/unlock_potion_workshop",
       "recipe": "spectrum:mod_integration/extraalchemy/potion_workshop_brewing/extraalchemy_pacifism",
       "text": ""
     },
     {
       "type": "spectrum:potion_workshop_brewing",
-      "title": "Photosynthesis Potions",
+      "title": "光合药水",
       "advancement": "spectrum:progression/unlock_potion_workshop",
       "recipe": "spectrum:mod_integration/extraalchemy/potion_workshop_brewing/extraalchemy_photosynthesis",
       "text": ""
     },
     {
       "type": "spectrum:potion_workshop_brewing",
-      "title": "Piper Potions",
+      "title": "风笛药水",
       "advancement": "spectrum:progression/unlock_potion_workshop",
       "recipe": "spectrum:mod_integration/extraalchemy/potion_workshop_brewing/extraalchemy_piper",
       "text": ""
     },
     {
       "type": "spectrum:potion_workshop_brewing",
-      "title": "Recall Potions",
+      "title": "回忆药水",
       "advancement": "spectrum:progression/unlock_potion_workshop",
       "recipe": "spectrum:mod_integration/extraalchemy/potion_workshop_brewing/extraalchemy_recall",
       "text": ""
     },
     {
       "type": "spectrum:potion_workshop_brewing",
-      "title": "Returning Potions",
+      "title": "归还药水",
       "advancement": "spectrum:progression/unlock_potion_workshop",
       "recipe": "spectrum:mod_integration/extraalchemy/potion_workshop_brewing/extraalchemy_returning",
       "text": ""
     },
     {
       "type": "spectrum:potion_workshop_brewing",
-      "title": "Sails Potions",
+      "title": "风帆药水",
       "advancement": "spectrum:progression/unlock_potion_workshop",
       "recipe": "spectrum:mod_integration/extraalchemy/potion_workshop_brewing/extraalchemy_sails",
       "text": ""
     },
     {
       "type": "spectrum:potion_workshop_brewing",
-      "title": "Shrinking Potions",
+      "title": "收缩药水",
       "flag": "mod:pekhui",
       "advancement": "spectrum:progression/unlock_potion_workshop",
       "recipe": "spectrum:mod_integration/extraalchemy/potion_workshop_brewing/extraalchemy_shrinking",
