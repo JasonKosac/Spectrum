@@ -1,5 +1,5 @@
 {
-  "name": "Circlet of Arrogance",
+  "name": "自大头箍（暂译）",
   "advancement": "spectrum:progression/unlock_circlet_of_arrogance",
   "icon": "spectrum:circlet_of_arrogance",
   "category": "spectrum:equipment_category",
@@ -9,13 +9,13 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "That's it: Ascension, the ultimate buff, in wearable form.$(br)If not your mere existence would be in danger everytime you get hit too hard - a very expensive price to pay - you would not hesitate for a second equipping this circlet.$(br)Should you really...?$(br2)Of course."
+      "text": "为了追求更高的效果加成，你迫切的寻找一切可以佩戴的高加成饰品。$(br)这里便有这么一种头箍，但会在你深受重击时让你的处境更加危险。$(br)为了最终极的效果加成，你愿意戴上这个头箍，不计任何代价吗...？$(br2)当然愿意。"
     },
     {
       "type": "spectrum:fusion_shrine_crafting",
       "title": "Fusion Recipe",
       "recipe": "spectrum:fusion_shrine/trinkets/circlet_of_arrogance",
-      "text": "$(italic)Pride comes before a fall."
+      "text": "$(italic)骄傲使人落后。"
     }
   ]
 }
