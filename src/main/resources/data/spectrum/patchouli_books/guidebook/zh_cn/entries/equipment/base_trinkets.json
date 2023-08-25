@@ -13,42 +13,42 @@
   "pages": [
     {
       "type": "spectrum:pedestal_crafting",
-      "title": "Fanciful 石戒指",
+      "title": "花俏石戒指",
       "recipe": "spectrum:pedestal/tier3/trinkets/fanciful_stone_ring",
       "advancement": "spectrum:progression/unlock_fanciful_stone_ring",
       "text": "基础饰品是制作高级饰品的材料。可用的成品饰品都须经由$(l:general/fusion_shrine)融合圣坛$()制作。"
     },
     {
       "type": "spectrum:pedestal_crafting",
-      "title": "Fanciful 头箍",
+      "title": "花俏头箍",
       "recipe": "spectrum:pedestal/tier3/trinkets/fanciful_circlet",
       "advancement": "spectrum:progression/unlock_fanciful_circlet",
       "text": ""
     },
     {
       "type": "spectrum:pedestal_crafting",
-      "title": "Fanciful 腰带",
+      "title": "花俏腰带",
       "recipe": "spectrum:pedestal/tier3/trinkets/fanciful_belt",
       "advancement": "spectrum:progression/unlock_fanciful_belt",
       "text": ""
     },
     {
       "type": "spectrum:pedestal_crafting",
-      "title": "Fanciful 吊坠",
+      "title": "花俏吊坠",
       "recipe": "spectrum:pedestal/tier3/trinkets/fanciful_pendant",
       "advancement": "spectrum:progression/unlock_fanciful_pendant",
       "text": ""
     },
     {
       "type": "spectrum:pedestal_crafting",
-      "title": "Fanciful 手套",
+      "title": "花俏手套",
       "recipe": "spectrum:pedestal/tier3/trinkets/fanciful_gloves",
       "advancement": "spectrum:progression/unlock_fanciful_gloves",
       "text": ""
     },
     {
       "type": "spectrum:pedestal_crafting",
-      "title": "Fanciful铋晶戒指",
+      "title": "花俏铋晶戒指",
       "recipe": "spectrum:pedestal/tier4/fanciful_bismuth_ring",
       "advancement": "spectrum:progression/unlock_fanciful_bismuth_ring",
       "text": ""
