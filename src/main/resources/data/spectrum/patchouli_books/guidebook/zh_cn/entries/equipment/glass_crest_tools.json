@@ -1,5 +1,5 @@
 {
-  "name": "Glass Crest Tools",
+  "name": "混合水晶工具",
   "advancement": "spectrum:progression/malachite/unlock_glass_crest_tools",
   "icon": "spectrum:glass_crest_ultra_greatsword",
   "category": "spectrum:equipment_category",
@@ -14,39 +14,39 @@
     {
       "type": "patchouli:spotlight",
       "item": "spectrum:moonstone_core",
-      "text": "Socketing $(l:resources/moonstone_core)Moonstone Cores$(/l) into your $(l:equipment/malachite_tools)Malachite Tools$(/l) grants them powerful new abilities."
+      "text": "将$(l:resources/moonstone_core)月长石核心$(/l)嵌进$(l:equipment/malachite_tools)孔雀石工具$(/l)以赋予其更为强大的新能力。"
     },
     {
       "type": "spectrum:fusion_shrine_crafting",
       "advancement": "spectrum:progression/malachite/unlock_glass_crest_workstaff",
       "recipe": "spectrum:fusion_shrine/malachite/glass_crest_workstaff",
-      "text": "$(k:use) will shoot out $(c_white)White Ink$() which will break blocks on impact. You can also choose from $(l:enchanting/resonance)Resonance$(/l) when switching enchantments."
+      "text": "其能$(k:use)喷射$(c_white)白色墨水$()来击碎方块。此外，你可以在为其附魔时选择$(l:enchanting/resonance)共振$(/l)附魔。"
     },
     {
       "type": "spectrum:fusion_shrine_crafting",
       "advancement": "spectrum:progression/malachite/unlock_glass_crest_ultra_greatsword",
       "recipe": "spectrum:fusion_shrine/malachite/glass_crest_ultra_greatsword",
-      "text": "Deals a chunk of it's damage via $(thing)Magic$() - piercing armor. $(k:use) to charge a $(thing)ground slam$(), knocking back everything around you (improved by $(thing)Sweeping$())."
+      "text": "一把使用$(thing)魔法$()的致命宝剑，不仅能破甲攻击，而且还能通过$(k:use)蓄力$(thing)来造成大范围的伤害$()。此外，在附上$(thing)横扫之刃$()的附魔时还能击退你周围的所有敌人。"
     },
     {
       "type": "spectrum:fusion_shrine_crafting",
       "advancement": "spectrum:progression/malachite/unlock_glass_crest_crossbow",
       "recipe": "spectrum:fusion_shrine/malachite/glass_crest_crossbow",
-      "text": "If an arrow is loaded, you can overcharge the shot by holding $(k:sneak) + $(k:use) to increase your shots accuracy, speed and damage even further."
+      "text": "在上膛完成后，你还可以按住$(k:sneak)并$(k:use)来进一步提高射击精度，速度和伤害。"
     },
     {
       "type": "spectrum:fusion_shrine_crafting",
-      "title": "Ferocious Bident",
+      "title": "残暴两叉矛",
       "advancement": "spectrum:progression/malachite/unlock_ferocious_glass_crest_bident",
       "recipe": "spectrum:fusion_shrine/malachite/ferocious_glass_crest_bident",
-      "text": "What's a bit of $(thing)Riptide$() when you can have your Water always with you?$(br)Allows flinging yourself in the air, damaging everything in your path. Even without rain and even in the driest of deserts - as long as you do not run out of ink."
+      "text": "只要你为它附上$(thing)激流$()附魔，并携带了足够的墨水，你便能使用它来将你抛向空中，并摧毁你身边的一切障碍。你甚至能在干旱的沙漠中这么做，前提是你还没耗尽你的墨水。"
     },
     {
       "type": "spectrum:fusion_shrine_crafting",
-      "title": "Fractal Bident",
+      "title": "分形两叉矛",
       "advancement": "spectrum:progression/malachite/unlock_fractal_glass_crest_bident",
       "recipe": "spectrum:fusion_shrine/malachite/fractal_glass_crest_bident",
-      "text": "The $(thing)Echo Shards$() make this Bident throw an echo of itself when thrown that shatters upon impact - your original will never leave your hand."
+      "text": "这个使用了$(thing)回响碎片$()的两叉矛能投出带有回响的分身，并在击中目标后自行碎解，但其本体仍被你紧握着。"
     }
   ]
 }
