@@ -7,21 +7,21 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "You recently found new materials scattered across the landscape in new, beautiful terrain. You are sure you can make use of those in some way."
+      "text": "尽情的欣赏来自新的地形的美丽景观吧！新的地形意味着会带来新的原料，记得要好好的利用它们。"
     },
     {
       "type": "spectrum:potion_workshop_brewing",
-      "title": "Antidote Potions",
+      "title": "解毒药水",
       "advancement": "spectrum:progression/unlock_potion_workshop",
       "recipe": "spectrum:mod_integration/biomemakeover/biomemakeover_antidote",
-      "text": "1"
+      "text": ""
     },
     {
       "type": "spectrum:potion_workshop_brewing",
-      "title": "Nocturnal Potions",
+      "title": "夜行药水",
       "advancement": "spectrum:progression/unlock_potion_workshop",
       "recipe": "spectrum:mod_integration/biomemakeover/biomemakeover_nocturnal",
-      "text": "1"
+      "text": ""
     }
   ]
 }
