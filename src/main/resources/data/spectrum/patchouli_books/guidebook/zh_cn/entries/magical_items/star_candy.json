@@ -10,20 +10,20 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "It seems those $(l:resources/stargazing)流星$(/l) have more secrets than you previously thought, and weird ones at that.$(br)Baked Stardust tastes oddly refreshing, the magic makes your tongue tingle as the heaven-sent candy dissolves in your mouth. You felt an odd lot healthier afterwards.$(br)Their hard, golden flesh has some purple speckles, shimmering like star shards."
+      "text": "$(l:resources/stargazing)流星$(/l)的秘密远比你想象的还要多。$(br)这种由星尘制成并烘烤过的糖果尝起来出奇的清爽，爽到让你的舌尖打颤，浑身舒服，简直就是来自上天的甜蜜馈赠。$(br)糖果金黄且酥脆，里面还分布着一些紫色的小点，并像天上的繁星一样闪烁着光芒。"
     },
     {
       "type": "spectrum:pedestal_crafting",
-      "title": "Pedestal Recipe",
+      "title": "基座配方",
       "recipe": "spectrum:pedestal/tier2/food/star_candy",
-      "text": "Perhaps the speckles are the source of their restorative properties? 你想要试试做一个紫色的。"
+      "text": "糖果里面的紫色小点状物质让你感到好奇——或许这就是糖果能带来效果增益的有效成分？如果能吃到完全由这种紫色物质做成的糖果，那该有多好？"
     },
     {
       "type": "patchouli:spotlight",
       "title": "一种罕见宝物",
       "advancement": "spectrum:hidden/collect_purple_star_candy",
       "item": "spectrum:purple_star_candy",
-      "text": "Now THAT's a tasty one!$(br)Even just touching those star-laden streaks gives you much the same tingle as when you ate the whole thing."
+      "text": "你终于得到这个究！极！美味了！$(br)这种几乎完美的糖果闪烁着流星般的光芒，甚至无需品尝，仅仅是触摸一下糖果本身也能让你的全身打颤。"
     }
   ]
 }
