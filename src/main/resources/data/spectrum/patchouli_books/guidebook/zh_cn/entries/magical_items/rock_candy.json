@@ -1,5 +1,5 @@
 {
-  "name": "Rock Candy",
+  "name": "冰糖",
   "advancement": "spectrum:progression/unlock_rock_candy",
   "icon": "spectrum:rock_candy",
   "category": "spectrum:magical_items_category",
@@ -21,28 +21,28 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "A stick with sugar on it.$(br2)...wait wait wait, there's more to it!$(br)If you place this stick so that its underside is immersed in $(l:magical_blocks/liquid_crystal)Liquid Crystal$(/l), you just have to slowly dissolve more sugar in the liquid until the stick turns into a sweet-crunchy candy stick."
+      "text": "这东西不就是一根裹上糖的棍子么？$(br2)...不，还没完呢！$(br)如果你把这根棍子浸没在$(l:magical_blocks/liquid_crystal)液体水晶$(/l)里面（可放置在方块底面），你只需慢慢地等待更多的糖溶解在液体中，并凝聚在棍子上，直到棍子变成甜脆的冰糖。"
     },
     {
       "type": "spectrum:pedestal_crafting",
-      "title": "Pedestal Recipe",
+      "title": "基座配方",
       "recipe": "spectrum:pedestal/tier3/food/sugar_stick",
-      "text": "You might even be able to add more stuff than just plain Sugar when immersed? Liquid $(italic)Crystal$() and all that..."
+      "text": "你还能在其浸泡的时候加点更多的东西，不只是普通的糖和更多的液体$(italic)水晶$()..."
     },
     {
       "type": "patchouli:image",
-      "title": "Growing Rock Candy",
+      "title": "冰糖长成方式",
       "images": [
         "spectrum:textures/gui/guidebook/rock_candy_growing.png"
       ],
-      "text": "$(thing)Silk Touch$() keeps their size for use as fancy lights, or just for storage."
+      "text": "糖棍可通过使用附有$(thing)精准采集$()的工具回收以备用。这东西用来做一个花哨的灯也不错！"
     },
     {
       "type": "patchouli:spotlight",
       "item": "spectrum:topaz_rock_candy",
       "title": "Gemstone Rock Candy",
       "advancement": "spectrum:midgame/collect_gemstone_rock_candy",
-      "text": "Dissolving $(l:general/gemstone_powder)Gemstone Powder$(/l) instead of Sugar in the liquid allowed the Rock Candy to take on the gemstone's typical color.$(br2)You always wanted to know what those taste like. Definitely seems like a healthier option than snorting them up your nose."
+      "text": "在液体水晶中放入$(l:general/gemstone_powder)宝石粉末$(/l)而非糖，能使长出的冰糖呈现对应种类宝石的颜色。$(br2)像知道它们味道如何？不用凑近来闻一下，直接放进嘴里品尝就是！"
     }
   ]
 }
