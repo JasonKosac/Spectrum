@@ -1,5 +1,5 @@
 {
-  "name": "Star Candies",
+  "name": "星星糖",
   "advancement": "spectrum:progression/unlock_star_candy",
   "icon": "spectrum:star_candy",
   "category": "spectrum:magical_items_category",
@@ -10,17 +10,17 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "It seems those $(l:resources/stargazing)Shooting Stars$(/l) have more secrets than you previously thought, and weird ones at that.$(br)Baked Stardust tastes oddly refreshing, the magic makes your tongue tingle as the heaven-sent candy dissolves in your mouth. You felt an odd lot healthier afterwards.$(br)Their hard, golden flesh has some purple speckles, shimmering like star shards."
+      "text": "It seems those $(l:resources/stargazing)流星$(/l) have more secrets than you previously thought, and weird ones at that.$(br)Baked Stardust tastes oddly refreshing, the magic makes your tongue tingle as the heaven-sent candy dissolves in your mouth. You felt an odd lot healthier afterwards.$(br)Their hard, golden flesh has some purple speckles, shimmering like star shards."
     },
     {
       "type": "spectrum:pedestal_crafting",
       "title": "Pedestal Recipe",
       "recipe": "spectrum:pedestal/tier2/food/star_candy",
-      "text": "Perhaps the speckles are the source of their restorative properties? You are left to wonder if it is possible to create a fully purple one."
+      "text": "Perhaps the speckles are the source of their restorative properties? 你想要试试做一个紫色的。"
     },
     {
       "type": "patchouli:spotlight",
-      "title": "A rare Find",
+      "title": "一种罕见宝物",
       "advancement": "spectrum:hidden/collect_purple_star_candy",
       "item": "spectrum:purple_star_candy",
       "text": "Now THAT's a tasty one!$(br)Even just touching those star-laden streaks gives you much the same tingle as when you ate the whole thing."
