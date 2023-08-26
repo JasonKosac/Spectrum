@@ -1,5 +1,5 @@
 {
-  "name": "Lucky Roll",
+  "name": "幸运卷",
   "advancement": "spectrum:progression/unlock_lucky_roll",
   "icon": "spectrum:lucky_roll",
   "category": "spectrum:magical_items_category",
@@ -9,13 +9,13 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Are you going to become a pastry chef after all, in addition to your main job as an artist? These don't even look that bad (taste good too!).$(br2)Composed of $(l:resources/amaranth)Amaranth$(/l), $(thing)Sugar$(), $(thing)Milk$(), and a $(l:resources/clover)Four-Leaf Clover$(), it has a very special effect: you noticed that you were a little bit more successful handling tools with Fortune, Looting and other random-based things."
+      "text": "即使是个艺术家也要试着操点副业，比如学习一下烘焙。（不用太担心自己的水平，做出美味有时也很简单！）$(br2)用点$(l:resources/amaranth)苋菜$(/l)，$(thing)糖$()，$(thing)奶$()，再加一个$(l:resources/clover)四叶草$()，你就能做出这份象征着幸运的点心——吃下它，你会发现自己的运气会爆棚，因为它会提升例如使用时运或抢夺附魔的工具等基于随机的物品掉落（产生）率。"
     },
     {
       "type": "spectrum:pedestal_crafting",
       "title": "Pedestal Recipe",
       "recipe": "spectrum:pedestal/tier1/lucky_roll",
-      "text": "$(italic)Lucky Roll, get it???"
+      "text": "$(italic)幸运卷，做出来了吗？？？"
     }
   ]
 }
