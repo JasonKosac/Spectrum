@@ -15,7 +15,7 @@
       "type": "spectrum:pedestal_crafting",
       "title": "Pedestal Recipe",
       "recipe": "spectrum:pedestal/tier1/tools/lagoon_rod",
-      "text": "$(italic)你还想给水面上带来什么？"
+      "text": "$(italic)你还要从水中钓出什么？"
     }
   ]
 }
