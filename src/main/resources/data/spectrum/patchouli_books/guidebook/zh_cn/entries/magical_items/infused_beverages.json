@@ -1,5 +1,5 @@
 {
-  "name": "Infused Beverages",
+  "name": "注魔饮料",
   "icon": "spectrum:infused_beverage",
   "advancement": "spectrum:progression/unlock_titration_barrel",
   "category": "spectrum:magical_items_category",
@@ -10,7 +10,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "title": "The Art of Brewing",
+      "title": "酿造的艺术",
       "text": "Fermentation is a very natural process - things take time and care. Since there never is a fully controlled environment there are a lot of variables:$(li)Time: It takes time for the barrel to influence the contents. The longer you give the process, the stronger the changes will be. Most beverages get more intense and even additional effects, when given more time than strictly required"
     },
     {
@@ -19,33 +19,33 @@
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
-      "title": "Malt Beer",
+      "title": "麦芽啤酒",
       "recipe": "spectrum:titration_barrel/infused_beverages/malt_beer",
       "text": "Malt beer is both filling and tastes both sweet and savory. What a nice combination."
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
-      "title": "Myceylon Apple Juice",
+      "title": "麦西隆苹果汁（暂译）",
       "advancement": "spectrum:lategame/collect_myceylon",
       "recipe": "spectrum:titration_barrel/infused_beverages/myceylon_apple_juice",
-      "text": "Sweet with a Cinnamon finish"
+      "text": "如肉桂般甜蜜"
     },
     {
       "type": "spectrum:confirmation_button",
-      "title": "Safety Question",
+      "title": "安全提醒",
       "checked_advancement": "spectrum:milestones/confirmed_drinking_age",
-      "button_text": "I confirm",
-      "button_text_confirmed": "Confirmed ✔",
+      "button_text": "我确定",
+      "button_text_confirmed": "确定✔",
       "confirmation": "confirm_drinking_age",
-      "text": "The $(thing)Titration Barrel$() is capable of brewing alcoholic drinks. If you are old enough to consume alcohol in your country, you can press the button below to unlock these recipes.$(br)If not don't worry - you won't miss anything important."
+      "text": "$(thing)发酵桶$()能用于酿造含酒精的饮料。考虑到有些国家限制饮酒及其许可年龄，如果你满足相应的条件，那么你可以点击下方的“我确定”按钮来解锁更多的配方。$(br)如果你很遗憾没有达到条件，不必为此担心，因为你依旧不会错过本模组的任何重要的东西！"
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
       "advancement": "spectrum:milestones/confirmed_drinking_age",
-      "title": "Beers",
+      "title": "啤酒",
       "recipe": "spectrum:titration_barrel/infused_beverages/beer",
       "recipe2": "spectrum:titration_barrel/infused_beverages/ale",
-      "text": "Additionally to Haste it can grant a bit of Saturation, depending on the time it fermented."
+      "text": "啤酒不仅能提供急迫的状态效果，还能提供一定的饱和效果，发酵时间越长，饱和效果越大。"
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
@@ -53,72 +53,72 @@
       "title": "",
       "recipe": "spectrum:titration_barrel/infused_beverages/lager",
       "recipe2": "spectrum:titration_barrel/infused_beverages/porter",
-      "text": "Just... don't brew them too long or they will shift and end up tasting awful."
+      "text": "发酵...哦对，这种酒别发酵太久了，不然会变质的。"
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
       "advancement": "spectrum:progression/unlock_gin",
-      "title": "Gin",
+      "title": "琴酒",
       "recipe": "spectrum:titration_barrel/infused_beverages/gin",
-      "text": "Made from $(l:resources/amaranth)Amaranth$(/l), grants $(thing)Luck$() and $(thing)Haste$()."
+      "text": "一种由$(l:resources/amaranth)苋菜$(/l)酿制而成的酒，能提供$(thing)幸运$()和$(thing)急迫$()的状态效果。"
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
       "advancement": "spectrum:milestones/confirmed_drinking_age",
-      "title": "Rum",
+      "title": "朗姆酒",
       "recipe": "spectrum:titration_barrel/infused_beverages/rum",
-      "text": "Strong to the taste, made even more intense via the influence of the colored wood, grants $(thing)Absorption$() and $(thing)Resistance$()."
+      "text": "一种口感强烈的酒，能提供$(thing)伤害吸收$()和$(thing)抗性提升$()的效果。效果强度会受到彩色木板种类的影响。"
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
       "advancement": "spectrum:milestones/confirmed_drinking_age",
-      "title": "Mead",
+      "title": "蜜酒",
       "recipe": "spectrum:titration_barrel/infused_beverages/mead",
-      "text": "The large amount of sugar in honey is perfect for fermentation. The result is a strong, although still sweet drink."
+      "text": "富含糖分的蜂蜜很适合用来酿酒。这种蜜酒不仅口感甜蜜，还能提供较强的效果。"
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
       "advancement": "spectrum:milestones/confirmed_drinking_age",
-      "title": "Apple Cider",
+      "title": "苹果汽水",
       "recipe": "spectrum:titration_barrel/infused_beverages/apple_cider",
-      "text": "Fermented apples, usually sweet and sparkly, with a slight note of sour - if you do not forget to tap it soon enough."
+      "text": "一种由苹果酿制而成的，不仅酸甜可口，还晶莹透亮的饮料。开启后记得尽快饮用。"
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
       "advancement": "spectrum:milestones/confirmed_drinking_age",
-      "title": "Golden Ciders",
+      "title": "金苹果汽水",
       "recipe": "spectrum:titration_barrel/infused_beverages/golden_apple_cider",
       "recipe2": "spectrum:titration_barrel/infused_beverages/enchanted_apple_cider",
-      "text": "Way more potent than their common counterpart. Won't go bad over time and taste glorious for sure."
+      "text": "用更好的苹果来酿制更好的苹果汽水！不仅能提供更好的增益，还永远不会变质，保证你无论何时都能品尝到它的绝佳口感！"
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
       "advancement": "spectrum:milestones/confirmed_drinking_age",
-      "title": "Berry Cider",
+      "title": "莓果汽水",
       "recipe": "spectrum:titration_barrel/infused_beverages/berry_cider",
       "recipe2": "spectrum:titration_barrel/infused_beverages/glow_berry_cider",
-      "text": "A much more fruity cider than from apples. The glowy variant seems to ferment a bit quicker, but also... makes you glow. Hmm."
+      "text": "比苹果汽水更加果味十足！用发光浆果酿造的汽水不仅增益更好，酿造耗时更短，也会让你变得...嗯...闪闪发光！"
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
       "advancement": "spectrum:milestones/confirmed_drinking_age",
-      "title": "Berry Liquor",
+      "title": "莓果酒",
       "recipe": "spectrum:titration_barrel/infused_beverages/berry_liquor",
       "recipe2": "spectrum:titration_barrel/infused_beverages/glow_berry_liquor",
-      "text": "Berries can also be used for liquor. Way more viscous, sweet and strong, but takes longer to ferment."
+      "text": "浆果还能用来酿制成一种浓稠又口感甜美醇厚的酒，不过酿造耗时会更久一些。"
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
       "advancement": "spectrum:progression/unlock_mint_beverages",
-      "title": "Mint Drinks",
+      "title": "薄荷饮",
       "recipe": "spectrum:titration_barrel/infused_beverages/mint_cream",
       "recipe2": "spectrum:titration_barrel/infused_beverages/mint_schnapps",
-      "text": "$(italic)Liquid Luck"
+      "text": "$(italic)液体般的幸运！"
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
       "advancement": "spectrum:milestones/confirmed_drinking_age",
-      "title": "Artemisa & Advocaat",
+      "title": "蒿草酒和蛋黄酒",
       "recipe": "spectrum:titration_barrel/infused_beverages/artemisa",
       "recipe2": "spectrum:titration_barrel/infused_beverages/advocaat",
       "text": ""
@@ -126,7 +126,7 @@
     {
       "type": "spectrum:titration_barrel_fermenting",
       "advancement": "spectrum:milestones/confirmed_drinking_age",
-      "title": "Damassine & Hare Bane",
+      "title": "大马士革酒和赫尔班纳酒（暂译）",
       "recipe": "spectrum:titration_barrel/infused_beverages/damassine",
       "recipe2": "spectrum:titration_barrel/infused_beverages/hare_bane_creme",
       "text": ""
@@ -134,45 +134,45 @@
     {
       "type": "spectrum:titration_barrel_fermenting",
       "advancement": "spectrum:milestones/confirmed_drinking_age",
-      "title": "Vodka",
+      "title": "伏特加",
       "recipe": "spectrum:titration_barrel/infused_beverages/vodka",
       "recipe2": "spectrum:titration_barrel/infused_beverages/poisonous_vodka",
-      "text": "Gets only stronger with age. Just one question: How deadly do you want it?"
+      "text": "提供力量的状态效果，酿造时间越长，效果越大。同志，要来杯伏特加不？"
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
       "advancement": "spectrum:milestones/confirmed_drinking_age",
-      "title": "Tequila",
+      "title": "龙舌兰酒",
       "recipe": "spectrum:titration_barrel/infused_beverages/tequila",
-      "text": "Does only get stronger with age. Tastes like a bar fight."
+      "text": "提供迅捷的状态效果，酿造时间越长，效果越大。口感爽到飞起！"
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
-      "title": "Moonshine",
+      "title": "月光美酒",
       "recipe": "spectrum:titration_barrel/infused_beverages/moonshine",
-      "text": "Lies wonderfully light in the mouth. A gentle, sweetish burn, which lets you forget your worries for a bit. The things that worry you will forget you for a bit, too$().$(br2)$(italic)Tastes like walking on the moon."
+      "text": "品尝一口，甜蜜温和的酒液在你嘴里绽放，世间一切烦恼仿佛顷刻之间离你远去$()。$(br2)$(italic)这感觉就像是在月亮上散步！"
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
       "advancement": "spectrum:progression/unlock_myceylon_liquor",
-      "title": "Myceylon Liquor",
+      "title": "麦西隆酒（暂译）",
       "recipe": "spectrum:titration_barrel/infused_beverages/myceylon_liquor",
-      "text": "More spicy than it looks."
+      "text": "口感比看上去还要辣。"
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
       "advancement": "spectrum:progression/unlock_spiked_mullet_wine",
-      "title": "Spiked Mullet Wine",
+      "title": "Spiked Mullet Wine（译名待定）",
       "recipe": "spectrum:titration_barrel/infused_beverages/spiked_mullet_wine",
-      "text": "An interesting combination of all things Deeper Down. Best drunk when still hot!"
+      "text": "混合了来自深渊领域的所有奇珍的美酒，记得要趁热喝！"
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Pure Alcohol",
+      "title": "纯酒精",
       "advancement": "spectrum:tap_pure_alcohol",
       "anchor": "pure_alcohol",
       "item": "spectrum:pure_alcohol",
-      "text": "Your memory isn't always up to snuff. Somehow you ended up with this bottle. Definitely got a little stronger than planned...$(br)More to disinfect than to drink."
+      "text": "记忆总是烟消云散，不知为何你酿造出了这个玩意儿，所以你决定...$(br)最好别给你的体内进行致命的消毒！"
     }
   ]
 }
