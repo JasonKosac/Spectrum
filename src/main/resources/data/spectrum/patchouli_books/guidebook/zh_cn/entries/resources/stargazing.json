@@ -1,5 +1,5 @@
 {
-  "name": "Stargazing",
+  "name": "观星",
   "advancement": "spectrum:milestones/unlock_shooting_stars",
   "icon": "minecraft:spyglass",
   "category": "spectrum:resources_category",
@@ -32,21 +32,21 @@
     {
       "type": "patchouli:spotlight",
       "advancement": "spectrum:collect_star_fragment",
-      "title": "星星碎片",
+      "title": "流星碎片",
       "item": "spectrum:star_fragment",
-      "text": "流星能带来一些宝贵的资源，其中包括这种稀有的星星碎片，星尘和其他所有的很多稀有原料。$(br2)按住潜行键并对着流星右击以将其拾起，之后$(l:general/anvil_crushing)使用铁砧将其粉碎$(/l)以获得双倍的星星碎片，尽管该过程会消耗其他材料为代价。"
+      "text": "流星能带来一些宝贵的资源，其中包括这种稀有的星星碎片，星尘和其他所有的很多稀有原料。$(br2)按住潜行键并对着流星右击以将其拾起，之后$(l:general/anvil_crushing)使用铁砧将其粉碎$(/l)以获得双倍的流星碎片，尽管该过程会消耗其他材料为代价。"
     },
     {
       "type": "patchouli:spotlight",
       "advancement": "spectrum:collect_star_fragment",
       "title": "星尘",
       "item": "spectrum:stardust",
-      "text": "一种来源不明，但被星星的灵魂所祝福的粉末。$(br)别对其感到为难，因为它们蕴藏着潜在的能量。"
+      "text": "一种来源不明，但被流星的灵魂所祝福的粉末。$(br)别对其感到为难，因为它们蕴藏着潜在的能量。"
     },
     {
       "type": "spectrum:fusion_shrine_crafting",
       "advancement": "spectrum:collect_all_shooting_star_variants",
-      "title": "硬化星星",
+      "title": "硬化流星",
       "recipe": "spectrum:fusion_shrine/shooting_star_hardening",
       "text": "现在你已经收集到所有种类的流星了，是时候让它们更加结实耐用了！对着流星使用钻石以将其硬化，这样它们在受到撞击时就不会裂开了。$(br2)$(italic)想要和你的好友们来一场踢星球比赛吗？"
     }
