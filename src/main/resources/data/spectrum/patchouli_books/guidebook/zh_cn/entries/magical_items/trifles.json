@@ -1,5 +1,5 @@
 {
-  "name": "Trifles",
+  "name": "小糕",
   "icon": "spectrum:jaramel_trifle",
   "advancement": "spectrum:progression/unlock_trifles",
   "category": "spectrum:magical_items_category",
@@ -11,24 +11,24 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Sweet delicacies, guaranteed to not only give you a sugar rush - depending on the toppings very intense, mostly $(thing)offensive$() ones.$(br)Made from $(l:resources/jade_vines#jaramel)Jaramel$(/l), $(thing)Gelatin$() & $(l:resources/amaranth)Amaranth$(/l). Even the rudimentary one tastes great!"
+      "text": "小巧但甜美的糕点，一口吃下去就能给你带来一点来自糖的甜蜜震撼，让你直呼上头。$(br)仅需使用$(l:resources/jade_vines#jaramel)玉藤焦糖$(/l)，$(thing)凝胶$()和$(l:resources/amaranth)苋菜籽$(/l)就能做出这个精致的点心了。小小的也很棒！"
     },
     {
       "type": "spectrum:pedestal_crafting",
-      "title": "Jaramel Trifle",
+      "title": "玉藤焦糖小糕",
       "recipe": "spectrum:pedestal/tier3/food/jaramel_trifle",
-      "text": "The classic. The only thing that would make this one more delicious would be the tears of your enemies."
+      "text": "经典口味的小糕。如果你想让它更加美味，你需要再加点敌人的眼泪。"
     },
     {
       "type": "spectrum:pedestal_crafting",
       "advancement": "spectrum:craft_salted_jaramel_trifle_or_tart",
       "recipe": "spectrum:pedestal/tier3/food/salted_jaramel_trifle",
-      "text": "$(italic)Extra Salty"
+      "text": "$(italic)齁咸！"
     },
     {
       "type": "spectrum:pedestal_crafting",
       "recipe": "spectrum:pedestal/tier3/food/monster_trifle",
-      "text": "Gives out effects at random. Fancy a gamble?"
+      "text": "给予随机种类的状态效果。要来赌一局吗？"
     }
   ]
 }
