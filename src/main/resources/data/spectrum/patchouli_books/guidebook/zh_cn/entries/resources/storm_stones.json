@@ -14,7 +14,7 @@
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Storm Stones",
+      "title": "风暴石",
       "item": "spectrum:storm_stone",
       "text": "在被雷击的地面上，你会发现这些石头由于其自带的静电而在你的手上振动。$(br)在$(l:general/fusion_shrine)融合神龛$()中，你可以使用它们来召唤雷雨。$(br2)$(italic)然而由于其易挥发性，它们对爆炸的反应不太好..."
     }
