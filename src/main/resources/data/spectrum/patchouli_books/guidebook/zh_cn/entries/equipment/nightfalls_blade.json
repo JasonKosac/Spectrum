@@ -9,7 +9,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "这把小刀太细了，无法造成永久性的伤口，但其众多锋利的倒刺则能刺进到敌人的身体。$(br)使用$(l:magical_blocks/potion_workshop)药水工作站$()来为它注入药水，并在攻击时对所有被击中的敌人造成相应的药水效果，但前提是你携带了足够多的和药水颜色相对应的墨水。"
+      "text": "这把小刀太细了，无法造成永久性的伤口，但其刃上的众多锋利的倒刺却能很好的刺进敌人的肉中。$(br)使用$(l:magical_blocks/potion_workshop)药水工作站$()来为它注入药水，并在攻击时对所有被击中的敌人造成相应的药水效果，但前提是你携带了足够多的和药水颜色相对应的墨水。"
     },
     {
       "type": "spectrum:fusion_shrine_crafting",
