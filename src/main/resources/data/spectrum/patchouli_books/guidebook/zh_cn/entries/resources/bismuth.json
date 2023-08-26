@@ -20,7 +20,7 @@
     {
       "type": "spectrum:crystallarieum_growing",
       "advancement": "spectrum:progression/unlock_crystallarieum",
-      "title": "铋晶生长",
+      "title": "铋晶生长方法",
       "recipe": "spectrum:crystallarieum/bismuth",
       "text": "现在，无需消耗一整个金属块，使用$(l:magical_blocks/crystallarieum)结晶室$()并提供相应的基质和原料，来让铋晶的生长更加便捷可控。"
     }
