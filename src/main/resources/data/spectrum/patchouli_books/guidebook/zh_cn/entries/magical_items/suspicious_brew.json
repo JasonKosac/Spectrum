@@ -1,5 +1,5 @@
 {
-  "name": "Suspicious Brew",
+  "name": "谜之酒酿",
   "advancement": "spectrum:progression/unlock_suspicious_brew",
   "icon": "spectrum:suspicious_brew",
   "category": "spectrum:magical_items_category",
@@ -9,13 +9,13 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Curiously, the combination of mushrooms and water is a perfect receptor for all forms of other bloomy notes, either rounding the taste, or creating... very peculiar ones.$(br2)Each flower has a specific effect, as if you would feed it to a $(thing)Brown Mooshroom$()."
+      "text": "使用蘑菇和鲜花，便能做出一份令人着迷的炖菜。使用不同种类的花朵便能做出具有不同效果的谜之炖菜。$(br2)不过在这里，无需使用$(thing)棕色蘑菇$()，仅仅是用水和各种花朵往发酵桶里一放，就能酿造出一种效果和炖菜差不多的酒酿。"
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
-      "title": "Titration Recipe",
+      "title": "发酵桶配方",
       "recipe": "spectrum:titration_barrel/special/suspicious_brew",
-      "text": "The fermentation process in colored wood makes the effect last quite a bit longer than $(item)Suspicious Stew$()."
+      "text": "这种来自由彩色木头制成的桶做出的酒酿，会比$(item)谜之炖菜$()有着持续时间更长的状态效果加成。"
     }
   ]
 }
