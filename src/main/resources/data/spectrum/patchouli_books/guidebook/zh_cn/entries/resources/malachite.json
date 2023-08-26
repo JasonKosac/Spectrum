@@ -18,7 +18,7 @@
     {
       "type": "patchouli:text",
       "title": "孔雀石",
-      "text": "一种原生的材料，闪烁着深绿色的光芒。它似乎具有很强的魔法属性，几乎就像$(l:dimension/dimension)渊深领域$()中的$(l:resources/azurite)石青$()一样。$(br)作为一种和$(l:resources/azurite)石青$()类似的矿物，孔雀石也需要被精炼。你通过采矿获得的小型孔雀石碎片首先需要经过生长才能获得完整可用的晶体，不过它们的生长速度极其缓慢，你甚至不能保证你能在你的一生中亲眼目睹其长成的那一刻。"
+      "text": "一种天然的材料，闪烁着深绿色的光芒。它似乎具有很强的魔法属性，几乎就像$(l:dimension/dimension)渊深领域$()中的$(l:resources/azurite)石青$()一样。$(br)作为一种和$(l:resources/azurite)石青$()类似的矿物，孔雀石也需要被精炼。你通过采矿获得的小型孔雀石碎片首先需要经过生长才能获得完整可用的晶体，不过它们的生长速度极其缓慢，你甚至不能保证你能在你的一生中亲眼目睹其长成的那一刻。"
     },
     {
       "type": "spectrum:crystallarieum_growing",
