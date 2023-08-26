@@ -1,5 +1,5 @@
 {
-  "name": "Incandescent Amalgam",
+  "name": "白炽合金",
   "advancement": "spectrum:progression/unlock_incandescent_amalgam",
   "icon": "spectrum:incandescent_amalgam",
   "category": "spectrum:magical_items_category",
@@ -9,29 +9,29 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "The sun on the palm of your hand sounded far better in theory. $(br2)Now that it sits there... well, it burns. The simple fact that it exists is almost a miracle - really, it should have exploded in the barrel - an unstable, simmering amalgam of ethanol blended with a cocktail of accelerants that hates existing."
+      "text": "你或许会认为这个“掌心的太阳”很温和，不过下一秒你就会打消这个念头了——它在你手中烧起来了...$(br2)不过你仍要为此感到庆幸——这种掺杂了酒精和其他原料的物质极不稳定，差点就把你的反应桶给炸没了。"
     },
     {
       "type": "patchouli:text",
-      "text": "A single wrong move could easily cause it to detonate, taking everything nearby with it including yourself. And yet, for all those reasons and yet more, the soft, warm glow of the gel elicits endless curiosity, all things are drawn to the flame. There is no question that what is effectively a high yield magical explosive bears endless potential. All you need is a little care, a small mountain of it, and a hint of reckless abandon."
+      "text": "这东西易燃易爆炸，稍有不慎就会将它周围的一切（包括你自己）给炸飞。尽管如此，这仍是一种令人着迷的物质——它如凝胶般柔软，并散发着温和的光芒，却能将周围的一切湮没于火海之中，这确实让人浮想联翩。这种高当量的魔法炸药很实用，不过在使用之前，你需要小心翼翼的将它放在地上，一小点足矣，之后用粗暴的方式来将它引爆。"
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
-      "title": "Titration Snythesis",
+      "title": "发酵桶合成",
       "recipe": "spectrum:titration_barrel/incandescent_amalgam",
-      "text": "$(italic)my very own sun...$()$(br2)The longer the synthesis goes on, the higher the yield... you really can't blame the angels for not wanting a cut of this."
+      "text": "$(italic)噢，我的太阳...$()$(br2)反应时间越长，产量越高...别急，上天没有欠你什么。"
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
-      "title": "Pure Synthesis",
+      "title": "高纯合成",
       "recipe": "spectrum:titration_barrel/pure_incandescent_amalgam",
-      "text": "$(italic)...so grossly incandescent!$()$(br2)"
+      "text": "$(italic)...哇，更白更亮了！$()$(br2)"
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
-      "title": "Distillation",
+      "title": "蒸馏",
       "recipe": "spectrum:titration_barrel/fast_pure_alcohol",
-      "text": "The pristine burn of the amalgam makes it uniquely suited for pure alcohol distillation"
+      "text": "这种合金在燃烧时会释放充分的热量，因此可用于酒品蒸馏，从中提炼出纯酒精。"
     }
   ]
 }
