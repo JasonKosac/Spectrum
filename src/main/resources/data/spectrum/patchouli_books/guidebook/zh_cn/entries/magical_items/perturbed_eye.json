@@ -1,5 +1,5 @@
 {
-  "name": "End Portal Relocation",
+  "name": "末地传送门拆解器",
   "advancement": "spectrum:progression/unlock_perturbed_eye",
   "icon": "minecraft:end_portal_frame",
   "category": "spectrum:magical_items_category",
@@ -10,7 +10,7 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Every time you want to enter the realm of the Endermen you have to travel half a world. Whoever created the portals to the End... you're so much more powerful than they are now.$(br2)$(italic)Well, almost. Probably.$(br)You haven't yet figured out how to create such portals yourself, but packing them up and take them home? No problem."
+      "text": "为了进入末影人的领域，有时你会走过几乎半个世界，仅仅是因为那些传送门框架只在固定位置生成，还不能被你造出来。到底是谁创造了这些传送门框架...$(br2)$(italic)这是个好问题，但对你无关紧要。既然你现在有了更强的实力，与其纠结如何复制一个末地传送门框架，不如试着把它们取下来并重新放置在家里？这并非难事！"
     },
     {
       "type": "patchouli:image",
@@ -18,13 +18,13 @@
         "spectrum:textures/gui/guidebook/end_portal.png"
       ],
       "border": true,
-      "text": "The End Portal, like found in Strongholds."
+      "text": "要塞中的末地传送门。"
     },
     {
       "type": "spectrum:pedestal_crafting",
-      "title": "Pedestal Recipe",
+      "title": "基座配方",
       "recipe": "spectrum:pedestal/tier4/perturbed_eye",
-      "text": "Due to the extremely robust Portal Frames, those harbor quite the destructive potential. Best to keep a bit of distance after socketing."
+      "text": "为了应付极为坚固的末地传送门框架，这种拆解器具有极大的破坏能力，将它安装好后记得离远一点。"
     },
     {
       "type": "patchouli:multiblock",
@@ -52,7 +52,7 @@
         ],
         "symmetrical": false
       },
-      "text": "You just put the portal back together the way it was, add Ender Pearls, done!"
+      "text": "现在你仅需将拆好的末地传送门框架按原样组装在一起，并按同样的步骤放好末影之眼，完事！"
     }
   ]
 }
