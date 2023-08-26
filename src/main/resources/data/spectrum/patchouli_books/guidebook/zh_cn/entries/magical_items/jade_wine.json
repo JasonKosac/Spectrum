@@ -1,5 +1,5 @@
 {
-  "name": "Jade Wine",
+  "name": "玉藤酒",
   "advancement": "spectrum:progression/unlock_jade_wine",
   "icon": "spectrum:jade_wine",
   "category": "spectrum:magical_items_category",
@@ -10,28 +10,28 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Since the Jade Vines are notorious for restorative properties, no wonder these translate perfectly when fermented.$(br)In contrast to the slight bitterness of the bulbs, adding a good share of petals brings out a more bloomy and slightly sour taste instead, complimented with earthy undertones - almost resembling wine, in trademark jade color. "
+      "text": "玉藤极强的再生能力令人爱恨交织，尤其是将它用于酿酒时，平衡用料带来的口感上更是令人头疼。$(br)玉藤球果发酵时会产生苦味，不过再加点玉藤花瓣则会把苦味中和，并带来一种掺杂了泥土和花香的气息。这种酒喝起来像葡萄酒，不过外观却是标志性的玉黄色。"
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
-      "title": "Titration Recipe",
+      "title": "发酵桶配方",
       "recipe": "spectrum:titration_barrel/special/jade_wine",
-      "text": "1 Bulb and 3 Petals for the Bucket of Water feel like a good starting point.$(br)The longer the fermentation goes on, the stronger the taste gets. $(br2)$(italic)A bit of added sweetness would do it good, you are sure."
+      "text": "往发酵桶放进1个球果和3个花瓣，再倒一桶水就可以开始酿造了。$(br)发酵时间越长，其口感越浓厚。$(br2)$(italic)或许再加点糖，口感会更好。"
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Sweetening",
+      "title": "加点甜的",
       "advancement": "spectrum:midgame/tap_sweetened_jade_wine",
       "anchor": "sweetened_jade_wine",
       "item": "spectrum:moonstruck_nectar",
-      "text": "Adding a drop of $(item)Moonstruck Nectar$() seems to make the Wine much more easy to drink. Both the fermentation process is increased and negative effects softened noticeably."
+      "text": "仅需加一点$(item)望舒琼浆$()就能让玉藤酒的口感更上一层楼——不仅会增强其绽放度，同时也会极大的削减其负面效果的强度。"
     },
     {
       "type": "patchouli:spotlight",
       "advancement": "spectrum:midgame/tap_chrysocolla",
       "anchor": "chrysocolla",
       "item": "spectrum:chrysocolla",
-      "text": "Your newest result of fermenting Jade Wine was a $(italic)tad$() too long.$(br)Immensely bitter and slightly acidic taste.$(br)While it retains some of the properties of the Jade Wine it once resembled, seems more useful for medicine than for drinking.$(br)But, you know... is anyone stopping you?"
+      "text": "当你发酵玉藤$(italic)非常$()久时，你便会获得这种液体。$(br)它尝起来只剩苦涩和酸味。$(br)尽管它看上去还是和玉藤酒很像，不过一个可以饮用，另一个最好药用...$(br)喝下去了，就别怪没人劝你别喝！"
     }
   ]
 }
