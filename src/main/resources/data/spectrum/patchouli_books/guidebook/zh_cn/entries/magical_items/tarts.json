@@ -1,5 +1,5 @@
 {
-  "name": "Tarts",
+  "name": "蛋挞",
   "icon": "spectrum:ashen_tart",
   "advancement": "spectrum:progression/unlock_tarts",
   "category": "spectrum:magical_items_category",
@@ -14,39 +14,39 @@
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Even though you are not the most proficient chef, even this rudimentary one tastes great! $(br)You can garnish it with different toppings to grant you $(thing)defensive abilities$() for a short duration."
+      "text": "即使你不是一个专业的厨师，你也能做出这种美味的点心！$(br)再加上一些特别的原料，还能让它赋予你一小点时间的$(thing)状态效果$()。"
     },
     {
       "type": "spectrum:pedestal_crafting",
-      "title": "Jaramel Tart",
+      "title": "玉藤焦糖蛋挞",
       "recipe": "spectrum:pedestal/tier3/food/jaramel_tart",
-      "text": "The classic. The only thing that would make this one more delicious would be the tears of your enemies."
+      "text": "经典口味的蛋挞。如果你想让它更加美味，你需要再加点敌人的眼泪。"
     },
     {
       "type": "spectrum:pedestal_crafting",
       "advancement": "spectrum:craft_salted_jaramel_trifle_or_tart",
       "recipe": "spectrum:pedestal/tier3/food/salted_jaramel_tart",
-      "text": "$(italic)Extra Salty"
+      "text": "$(italic)齁咸！"
     },
     {
       "type": "spectrum:pedestal_crafting",
       "recipe": "spectrum:pedestal/tier3/food/ashen_tart",
-      "text": "Makes you able to see & swim in lava as were it water.$(br2)Does NOT, however, make you Fire immune."
+      "text": "让你在岩浆里面能看清周围的一切，就像在水中一样。$(br2)不过这东西不会给予你防火的效果。"
     },
     {
       "type": "spectrum:pedestal_crafting",
       "recipe": "spectrum:pedestal/tier3/food/weeping_tart",
-      "text": "Makes you able to swim at light speed and greatly increases your underwater mining rate."
+      "text": "让你在水中游泳时速度如光速一般快，同时也能加快你在水下的挖掘速度。"
     },
     {
       "type": "spectrum:pedestal_crafting",
       "recipe": "spectrum:pedestal/tier3/food/whispy_tart",
-      "text": "Makes you feel well rested, like after a good nights sleep. Scares away creatures of nightmares."
+      "text": "让你浑身轻松，如同已经睡了一个美满的好觉一样。同时也能驱散一切在你噩梦中的生物。"
     },
     {
       "type": "spectrum:pedestal_crafting",
       "recipe": "spectrum:pedestal/tier3/food/puff_tart",
-      "text": "Small chance for projectiles to simply deflect off of you."
+      "text": "让弹射物有较小概率从你身边弹开。"
     }
   ]
 }
