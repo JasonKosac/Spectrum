@@ -11,24 +11,24 @@
     {
       "type": "patchouli:text",
       "title": "酿造的艺术",
-      "text": "Fermentation is a very natural process - things take time and care. Since there never is a fully controlled environment there are a lot of variables:$(li)Time: It takes time for the barrel to influence the contents. The longer you give the process, the stronger the changes will be. Most beverages get more intense and even additional effects, when given more time than strictly required"
+      "text": "发酵是一个非常自然的过程，需要足够的时间和精心的准备。发酵成果的好坏主要由以下几种因素决定：$(li)时间：桶内的东西需要时间来产生变化，给定的时间越长，变化也就越大。大多数的饮料在发酵远超建议的时间后，会获得更加以及更好甚至更多的效果增益。"
     },
     {
       "type": "patchouli:text",
-      "text": "$(li)Temperature: The hotter it is, the more of your precious content simply evaporates over time. This is called the Angel's Share$(li)Humidity: The more humid the air, the more water evaporates in comparison to alcohol, making the drink stronger$(li)Water Share: An increased rate of ingredients to water is a fine balance, but one to be played with. More thickness makes the drink ferment faster, albeit at the cost of shorter status effect durations"
+      "text": "$(li)温度：发酵温度不能太高，否则里面的液体就会渐渐的蒸发，最后你什么也得不到。$(li)湿度：空气湿度越大，桶内的液体更不容易蒸发，则会更好的保留其效果$(li)供水量：发酵需要控制好水的供应量。如果你给原料提供过多的水，其发酵的耗时会更快，但提供的效果持续时间也会更短。"
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
       "title": "麦芽啤酒",
       "recipe": "spectrum:titration_barrel/infused_beverages/malt_beer",
-      "text": "Malt beer is both filling and tastes both sweet and savory. What a nice combination."
+      "text": "香甜可口的麦芽啤酒，满足你最基本的饮酒需求！"
     },
     {
       "type": "spectrum:titration_barrel_fermenting",
       "title": "麦西隆苹果汁（暂译）",
       "advancement": "spectrum:lategame/collect_myceylon",
       "recipe": "spectrum:titration_barrel/infused_beverages/myceylon_apple_juice",
-      "text": "如肉桂般甜蜜"
+      "text": "如肉桂般甜蜜！"
     },
     {
       "type": "spectrum:confirmation_button",
