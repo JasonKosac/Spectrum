@@ -1,6 +1,6 @@
 # Builds the project with every commit to confirm that the mod works.
 
-# Based on fabric-example-mod's workflow, with more comments..
+# Based on fabric-example-mod's workflow, with more comments.
 
 name: build
 on: [pull_request, push]
