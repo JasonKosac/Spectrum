@@ -1,10 +1,11 @@
 {
-  "info":"zh_cn_230818_RAW",
+  "zhcnLangInfo":"zh_cn_230826_TEST",
+
   "itemGroup.spectrum.general": "光谱世界",
   "itemGroup.spectrum.general.tab.general": "光谱世界 - 基本",
-  "itemGroup.spectrum.general.tab.equipment": "光谱世界 - 装备", # new
-  "itemGroup.spectrum.general.tab.consumables": "光谱世界 - 消耗品", # new
-  "itemGroup.spectrum.general.tab.resources": "光谱世界 - 资源", # new
+  "itemGroup.spectrum.general.tab.equipment": "光谱世界 - 装备",
+  "itemGroup.spectrum.general.tab.consumables": "光谱世界 - 消耗品",
+  "itemGroup.spectrum.general.tab.resources": "光谱世界 - 资源",
   "itemGroup.spectrum.blocks": "光谱世界 - 建筑方块",
   "itemGroup.spectrum.blocks.tab.decoration": "光谱世界 - 装饰物品",
   "itemGroup.spectrum.blocks.tab.colored_wood": "光谱世界 - 染色木头",
@@ -35,15 +36,15 @@
   "recipeGroup.spectrum.decostones": "摆件",
   "recipeGroup.spectrum.gemstone_chimes": "宝石晶风铃",
   "recipeGroup.spectrum.colored_saplings": "彩色树苗",
-  "recipeGroup.spectrum.shimmerstone_lights": "闪光石灯", # new
+  "recipeGroup.spectrum.shimmerstone_lights": "闪光石灯",
   "recipeGroup.spectrum.colored_spore_blossoms": "彩色孢子花",
   "recipeGroup.spectrum.glowblocks": "荧光方块",
   "recipeGroup.spectrum.player_only_glass": "半穿透玻璃",
   "recipeGroup.spectrum.bedrock_tools": "基岩工具",
   "recipeGroup.spectrum.bedrock_armor": "基岩盔甲",
-  "recipeGroup.spectrum.fusion_shrines": "融合神龛",
+  "recipeGroup.spectrum.fusion_shrines": "融合圣坛",
   "recipeGroup.spectrum.item_bowls": "物品底座",
-  "recipeGroup.spectrum.enchanter_exchanging_staff": "充能法杖", # new
+  "recipeGroup.spectrum.enchanter_exchanging_staff": "充能法杖",
   "recipeGroup.spectrum.vanilla": "原版附魔",
   "recipeGroup.spectrum.pastel_network": "绘彩网络",
   "recipeGroup.spectrum.vanilla_potions": "原版药水",
@@ -54,11 +55,11 @@
   "recipeGroup.spectrum.restoration_tea": "恢复之茶",
   "recipeGroup.spectrum.mob_blocks": "魔盒",
   "recipeGroup.spectrum.spawner_manipulation": "刷怪笼操纵",
-  "recipeGroup.spectrum.infused_beverages": "灌注饮料", # new
-  "recipeGroup.spectrum.extraalchemy_potions": "增强型炼金术药水", # new
-  "recipeGroup.spectrum.crystallarieum_growable_crushing": "催化剂石晶芽", # new
-  "recipeGroup.spectrum.gemstone_crushing": "宝石晶碎片与石晶芽", # new
-  "recipeGroup.spectrum.bismuth_crushing": "铋", # new
+  "recipeGroup.spectrum.infused_beverages": "灌注饮料",
+  "recipeGroup.spectrum.extraalchemy_potions": "增强型炼金术药水",
+  "recipeGroup.spectrum.crystallarieum_growable_crushing": "催化石晶芽",
+  "recipeGroup.spectrum.gemstone_crushing": "宝石晶碎片与石晶芽",
+  "recipeGroup.spectrum.bismuth_crushing": "铋",
 
   "recipeGroup.spectrum.botania_mushrooms": "染色蘑菇",
   "recipeGroup.spectrum.botania_glimmering_flowers": "荧光花",
@@ -66,24 +67,24 @@
   "recipeGroup.spectrum.chalk_glow_chalk": "不可破坏的荧光粉笔",
 
   "effect.spectrum.immunity": "免疫",
-  "effect.spectrum.another_roll": "另类摇滚", # new
-  "effect.spectrum.scarred": "遍体鳞伤", # new
-  "effect.spectrum.density": "致密", # new
-  "effect.spectrum.swiftness": "迅捷", # new
-  "effect.spectrum.stiffness": "刚强", # new
-  "effect.spectrum.millenia_disease": "千年之疾", # new
-  "effect.spectrum.ascension": "飞升", # new
-  "effect.spectrum.divinity": "神威", # new
-  "effect.spectrum.frenzy": "狂热", # new
-  "effect.spectrum.blazing": "炽烈", # new
-  "effect.spectrum.projectile_rebound": "反弹", # new
-  "effect.spectrum.lightweight": "轻质", # new
-  "effect.spectrum.vulnerability": "易碎", # new
+  "effect.spectrum.another_roll": "幸运重掷",
+  "effect.spectrum.scarred": "留疤",
+  "effect.spectrum.density": "致密",
+  "effect.spectrum.swiftness": "迅捷",
+  "effect.spectrum.stiffness": "刚强",
+  "effect.spectrum.millenia_disease": "千年之疫",
+  "effect.spectrum.ascension": "飞升",
+  "effect.spectrum.divinity": "圣化",
+  "effect.spectrum.frenzy": "狂躁",
+  "effect.spectrum.blazing": "炽烈",
+  "effect.spectrum.projectile_rebound": "反弹",
+  "effect.spectrum.lightweight": "轻盈",
+  "effect.spectrum.vulnerability": "脆弱",
 
-  "item.minecraft.potion.effect.pigment_potion": "§2颜§3料§f药水", # new
-  "item.minecraft.splash_potion.effect.pigment_potion": "喷溅型§2颜§3料§f药水", # new
-  "item.minecraft.lingering_potion.effect.pigment_potion": "滞留型§2颜§3料§f药水", # new
-  "item.minecraft.tipped_arrow.effect.pigment_potion": "§2颜§3料§f之箭", # new
+  "item.minecraft.potion.effect.pigment_potion": "§2颜§3料§f药水",
+  "item.minecraft.splash_potion.effect.pigment_potion": "喷溅型§2颜§3料§f药水",
+  "item.minecraft.lingering_potion.effect.pigment_potion": "滞留型§2颜§3料§f药水",
+  "item.minecraft.tipped_arrow.effect.pigment_potion": "§2颜§3料§f之箭",
   "item.spectrum.potion.tooltip.unidentifiable": "§0漆黑一片，不可名状",
 
   "spectrum.tooltip.coming_soon": "§4生存模式中暂不可用",
@@ -104,7 +105,7 @@
   "container.spectrum.rei.enchantment_upgrading.title": "附魔升级",
   "container.spectrum.rei.enchantment_upgrade.required_item_count": "(%fx)",
   "container.spectrum.rei.midnight_solution_converting.title": "午夜溶液：侵染",
-  "container.spectrum.rei.liquid_crystal_converting.title": "水晶：侵染", # new
+  "container.spectrum.rei.liquid_crystal_converting.title": "水晶：侵染",
   "container.spectrum.rei.ink_converting.title": "墨水：转换",
   "container.spectrum.rei.heating.title": "加热",
   "container.spectrum.rei.freezing.title": "冷冻",
@@ -119,14 +120,14 @@
   "container.spectrum.rei.crystallarieum.accelerator": "加速：",
   "container.spectrum.rei.crystallarieum.ink_consumption": "墨水消耗",
   "container.spectrum.rei.crystallarieum.used_up": "是否消耗自身：",
-  "container.spectrum.rei.titration_barrel.time_hours": "需要%d小时（现实生活的）", # new
-  "container.spectrum.rei.titration_barrel.time_days": "需要%d天（现实生活的）", # new
-  "container.spectrum.rei.titration_barrel.at_least_time_hours": "至少需要%d小时（现实生活的）", # new
-  "container.spectrum.rei.titration_barrel.at_least_time_days": "至少需要%d天（现实生活的）", # new
-  "container.spectrum.rei.titration_barrel.time_hour": "需要1小时（现实生活的）", # new
-  "container.spectrum.rei.titration_barrel.time_day": "需要1天（现实生活的）", # new
-  "container.spectrum.rei.titration_barrel.at_least_time_hour": "至少需要1小时（现实生活的）", # new
-  "container.spectrum.rei.titration_barrel.at_least_time_day": "至少需要1天（现实生活的）", # new
+  "container.spectrum.rei.titration_barrel.time_hours": "需要%d小时（现实生活的）",
+  "container.spectrum.rei.titration_barrel.time_days": "需要%d天（现实生活的）",
+  "container.spectrum.rei.titration_barrel.at_least_time_hours": "至少需要%d小时（现实生活的）",
+  "container.spectrum.rei.titration_barrel.at_least_time_days": "至少需要%d天（现实生活的）",
+  "container.spectrum.rei.titration_barrel.time_hour": "需要1小时（现实生活的）",
+  "container.spectrum.rei.titration_barrel.time_day": "需要1天（现实生活的）",
+  "container.spectrum.rei.titration_barrel.at_least_time_hour": "至少需要1小时（现实生活的）",
+  "container.spectrum.rei.titration_barrel.at_least_time_day": "至少需要1天（现实生活的）",
 
   "container.spectrum.bedrock_anvil": "修复，重命名和自定义物品描述信息",
   "container.spectrum.bedrock_anvil.tooltip": "坚不可摧。免费重命名，无等级花销上限",
@@ -152,18 +153,18 @@
   "spectrum.rei.potion_workshop_reacting.spectrum.bedrock_dust": "效果强度加倍，但减少持续时间",
   "spectrum.rei.potion_workshop_reacting.spectrum.citrine_powder": "小幅倍增效果强度",
   "spectrum.rei.potion_workshop_reacting.spectrum.four_leaf_clover": "为随机一个效果提供巨大增幅",
-  "spectrum.rei.potion_workshop_reacting.spectrum.storm_stone": "在最初时增强药水的效果，但其会随着时间的推移而迅速降低退", # new
+  "spectrum.rei.potion_workshop_reacting.spectrum.storm_stone": "在最初时增强药水的效果，但其会随着时间的推移而迅速降低退",
   "spectrum.rei.potion_workshop_reacting.spectrum.midnight_chip": "提升效果强度并延长效果持续时间30秒，但大幅降低药水产量",
   "spectrum.rei.potion_workshop_reacting.spectrum.moonstone_powder": "将所有负面效果转换为对应的正面效果",
   "spectrum.rei.potion_workshop_reacting.spectrum.moonstruck_nectar": "使药水更加醇和，从而加快饮用速度",
   "spectrum.rei.potion_workshop_reacting.spectrum.neolith": "增加产量，允许你多炼制一瓶药水",
   "spectrum.rei.potion_workshop_reacting.spectrum.onyx_powder": "为药水增添某种奇怪的味道和气味，使其无法被辨认$(br)并将其完全变为黑色",
-  "spectrum.rei.potion_workshop_reacting.spectrum.paltaeria_fragments": "添加随机一种状态效果", # new
+  "spectrum.rei.potion_workshop_reacting.spectrum.paltaeria_fragments": "添加随机一种状态效果",
   "spectrum.rei.potion_workshop_reacting.spectrum.quitoxic_powder": "巨幅提升所有负面效果的效果强度",
   "spectrum.rei.potion_workshop_reacting.spectrum.raw_azurite": "移除滞留药水和药水箭的持续时间惩罚",
-  "spectrum.rei.potion_workshop_reacting.spectrum.stratine_fragments": "以增加随机的负面效果为代价，使效果强度大幅增强", # new
-  "spectrum.rei.potion_workshop_reacting.spectrum.star_fragment": "保证有概率添加之前酿造的药水的主要效果，但其强度会略有降低", # new
-  "spectrum.rei.potion_workshop_reacting.spectrum.shimmerstone_gem": "稍微增加药水的持续时间和效果强度", # new
+  "spectrum.rei.potion_workshop_reacting.spectrum.stratine_fragments": "以增加随机的负面效果为代价，使效果强度大幅增强",
+  "spectrum.rei.potion_workshop_reacting.spectrum.star_fragment": "保证有概率添加之前酿造的药水的主要效果，但其强度会略有降低",
+  "spectrum.rei.potion_workshop_reacting.spectrum.shimmerstone_gem": "稍微增加药水的持续时间和效果强度",
   "spectrum.rei.potion_workshop_reacting.spectrum.stardust": "小概率为药水添加先前炼制过的药水的主要效果",
   "spectrum.rei.potion_workshop_reacting.spectrum.topaz_powder": "移除效果粒子",
   "spectrum.rei.potion_workshop_reacting.spectrum.vegetal": "以降低效果强度为代价，使效果持续时间加倍",
@@ -178,7 +179,7 @@
   "multiblock.spectrum.pedestal.simple_structure": "光谱注魔基座",
   "multiblock.spectrum.pedestal.advanced_structure": "光谱注魔祭坛",
   "multiblock.spectrum.pedestal.complex_structure": "光谱注魔殿堂",
-  "multiblock.spectrum.fusion_shrine.structure": "融合神龛",
+  "multiblock.spectrum.fusion_shrine.structure": "融合圣坛",
   "multiblock.spectrum.enchanter.structure": "注魔基座结构",
   "multiblock.spectrum.spirit_instiller.structure": "灵魂灌注台",
   "multiblock.spectrum.cinderhearth.structure": "炼化炉",
@@ -190,22 +191,22 @@
   "death.attack.spectrum_shooting_star": "%s被流星击中了，快许愿吧!",
   "death.attack.spectrum_midnight_solution": "%s在黑色的折射中消失了",
   "death.attack.spectrum_dike_gate": "%s被力场拒之门外",
-  "death.attack.spectrum_incandescence": "%s被烧灼的通体发白", # new
-  "death.attack.spectrum_incandescence.player": "%1$s亲眼目睹了%2&s变成了一颗迅速飞向自己的流星 - 为火焰助燃吧！", # new
+  "death.attack.spectrum_incandescence": "%s被烧灼的通体发白",
+  "death.attack.spectrum_incandescence.player": "%1$s亲眼目睹了%2&s变成了一颗迅速飞向自己的流星 - 为火焰助燃吧！",
   
   "entity.spectrum.block_flooder_projectile": "方块填充物",
   "entity.spectrum.gravity_block": "重力方块",
-  "entity.spectrum.phantom_frame": "幻翼框架", # new
-  "entity.spectrum.glow_phantom_frame": "荧光幻翼框架", # new
+  "entity.spectrum.phantom_frame": "幻影物品展示框",
+  "entity.spectrum.glow_phantom_frame": "荧光幻影物品展示框",
   "entity.spectrum.shooting_star": "流星",
-  "entity.spectrum.lagoon_fishing_bobber": "湖光钓竿浮标", # new
-  "entity.spectrum.molten_fishing_bobber": "熔融钓竿浮标", # new
-  "entity.spectrum.bedrock_fishing_bobber": "基岩钓竿浮标", # new
-  "entity.spectrum.ink_projectile": "墨水射弹", # new
-  "entity.spectrum.living_marker": "记号笔", # new
-  "entity.spectrum.egg_laying_wooly_pig": "下蛋绒猪", # new
+  "entity.spectrum.lagoon_fishing_bobber": "湖光钓竿浮标",
+  "entity.spectrum.molten_fishing_bobber": "炽熔钓竿浮标",
+  "entity.spectrum.bedrock_fishing_bobber": "基岩钓竿浮标",
+  "entity.spectrum.ink_projectile": "墨水射弹",
+  "entity.spectrum.living_marker": "记号笔",
+  "entity.spectrum.egg_laying_wooly_pig": "下蛋绒猪",
 
-  "item.spectrum.egg_laying_wooly_pig_spawn_egg": "下蛋绒猪刷怪蛋", # new
+  "item.spectrum.egg_laying_wooly_pig_spawn_egg": "下蛋绒猪刷怪蛋",
 
   "commands.spectrum.spawn_shooting_star.success": "为选定的玩家各生成了%d个流星",
   "commands.spectrum.progression_sanity.success": "配方与进度合理性检验结果已输出到服务器控制台",
@@ -287,8 +288,8 @@
   "spectrum.recipe.fusion_shrine.explanation.onyx_shard": "须在新月时的午夜进行",
   "spectrum.recipe.fusion_shrine.explanation.decay_away": "须在晴天进行",
   "spectrum.recipe.fusion_shrine.explanation.ominous_sapling": "须在白天进行",
-  "spectrum.recipe.fusion_shrine.explanation.stratine_gem": "须在雷暴天进行", # new
-  "spectrum.recipe.fusion_shrine.explanation.paltaeria_gem": "须在雷暴天进行", # new
+  "spectrum.recipe.fusion_shrine.explanation.stratine_gem": "须在雷暴天进行",
+  "spectrum.recipe.fusion_shrine.explanation.paltaeria_gem": "须在雷暴天进行",
   "spectrum.recipe.fusion_shrine.explanation.midnight_aberration": "须在天晴的白天时进行",
   "spectrum.recipe.fusion_shrine.explanation.spectral_shard": "完美的化合物",
   "spectrum.recipe.fusion_shrine.explanation.netherite_ingot": "风险和回报毕竟并存……",
@@ -360,15 +361,15 @@
   "spectrum.subtitles.ender_splice_binds": "末影连弦：绑定",
   "spectrum.subtitles.use_fail": "使用失败",
   "spectrum.subtitles.natures_staff_use": "和谐的旋律：鸣响",
-  "spectrum.subtitles.block.black_hole_chest.open": "黑洞箱：打开", # new
-  "spectrum.subtitles.block.black_hole_chest.close": "黑洞箱：关闭", # new
-  "spectrum.subtitles.radiance_staff_charging": "闪电法杖：充能", # new
-  "spectrum.subtitles.radiance_staff_place": "闪电法杖：施法", # new
-  "spectrum.subtitles.radiance_staff_break": "闪电法杖：：被破坏", # new
-  "spectrum.subtitles.fusion_shrine_ambient": "融合神龛：嗡嗡",
+  "spectrum.subtitles.block.black_hole_chest.open": "黑洞箱：打开",
+  "spectrum.subtitles.block.black_hole_chest.close": "黑洞箱：关闭",
+  "spectrum.subtitles.radiance_staff_charging": "闪电法杖：充能",
+  "spectrum.subtitles.radiance_staff_place": "闪电法杖：施法",
+  "spectrum.subtitles.radiance_staff_break": "闪电法杖：：被破坏",
+  "spectrum.subtitles.fusion_shrine_ambient": "融合圣坛：嗡嗡",
   "spectrum.subtitles.fusion_shrine_crafting_finished": "低声轰鸣",
   "spectrum.subtitles.fusion_shrine_crafting_aborted": "物品掉落",
-  "spectrum.subtitles.exchanging_staff.select": "交换法杖：鸣响", # new
+  "spectrum.subtitles.exchanging_staff.select": "交换法杖：鸣响",
   "spectrum.subtitles.text_revealed": "七彩世界指南：鸣响",
   "spectrum.subtitles.radiance_pin_trigger": "辐芒胸针: 触发",
   "spectrum.subtitles.air_launch_belt_charging": "弹射腰带: 充能",
@@ -384,34 +385,34 @@
 
   "spectrum.toast.revelation.title": "你获得了这个世界的知识",
   "spectrum.toast.revelation.text": "新的事物展现在了你的面前",
-  "spectrum.toast.anvil_crushing_recipe_unlocked.title": "新的粉碎配方：", # new
-  "spectrum.toast.anvil_crushing_recipes_unlocked.title": "新的粉碎配方：", # new
+  "spectrum.toast.anvil_crushing_recipe_unlocked.title": "新的粉碎配方：",
+  "spectrum.toast.anvil_crushing_recipes_unlocked.title": "新的粉碎配方：",
   "spectrum.toast.pedestal_recipe_unlocked.title": "新的七彩基座配方：",
   "spectrum.toast.pedestal_recipes_unlocked.title": "新的七彩基座配方：",
-  "spectrum.toast.fusion_shrine_recipe_unlocked.title": "新的融合神龛配方：",
-  "spectrum.toast.fusion_shrine_recipes_unlocked.title": "新的融合神龛配方：",
+  "spectrum.toast.fusion_shrine_recipe_unlocked.title": "新的融合圣坛配方：",
+  "spectrum.toast.fusion_shrine_recipes_unlocked.title": "新的融合圣坛配方：",
   "spectrum.toast.enchanter_recipe_unlocked.title": "新的注魔基座配方：",
   "spectrum.toast.enchanter_recipes_unlocked.title": "新的注魔基座配方：",
-  "spectrum.toast.enchantment_upgrade_recipe_unlocked.title": "新的附魔升级：", # new
-  "spectrum.toast.enchantment_upgrade_recipes_unlocked.title": "新的附魔台配方：", # new
-  "spectrum.toast.potion_workshop_crafting_recipe_unlocked.title": "新的药水工作站配方：", # new
-  "spectrum.toast.potion_workshop_crafting_recipes_unlocked.title": "新的药水工作站配方：", # new
-  "spectrum.toast.potion_workshop_brewing_recipe_unlocked.title": "新的药水工作站配方：", # new
-  "spectrum.toast.potion_workshop_brewing_recipes_unlocked.title": "新的药水工作站配方：", # new
+  "spectrum.toast.enchantment_upgrade_recipe_unlocked.title": "新的附魔升级：",
+  "spectrum.toast.enchantment_upgrade_recipes_unlocked.title": "新的附魔台配方：",
+  "spectrum.toast.potion_workshop_crafting_recipe_unlocked.title": "新的药水工作站配方：",
+  "spectrum.toast.potion_workshop_crafting_recipes_unlocked.title": "新的药水工作站配方：",
+  "spectrum.toast.potion_workshop_brewing_recipe_unlocked.title": "新的药水工作站配方：",
+  "spectrum.toast.potion_workshop_brewing_recipes_unlocked.title": "新的药水工作站配方：",
   "spectrum.toast.spirit_instiller_recipe_unlocked.title": "新的灵魂灌注台配方：",
   "spectrum.toast.spirit_instiller_recipes_unlocked.title": "新的灵魂灌注台配方：",
   "spectrum.toast.ink_converting_recipe_unlocked.title": "新的墨水转换配方：",
   "spectrum.toast.ink_converting_recipes_unlocked.title": "新的墨水转换配方：",
-  "spectrum.toast.potion_workshop_reacting_recipes_unlocked.title": "新的药水试剂：", # new
-  "spectrum.toast.potion_workshop_reacting_recipe_unlocked.title": "新的药水试剂：", # new
+  "spectrum.toast.potion_workshop_reacting_recipes_unlocked.title": "新的药水试剂：",
+  "spectrum.toast.potion_workshop_reacting_recipe_unlocked.title": "新的药水试剂：",
   "spectrum.toast.crystallarieum_recipe_unlocked.title": "新结晶室配方：",
   "spectrum.toast.crystallarieum_recipes_unlocked.title": "新结晶室配方：",
   "spectrum.toast.cinderhearth_recipe_unlocked.title": "新炼化炉配方：",
   "spectrum.toast.cinderhearth_recipes_unlocked.title": "新炼化炉配方：",
-  "spectrum.toast.titration_barrel_recipe_unlocked.title": "新的发酵配方：", # new
-  "spectrum.toast.titration_barrel_recipes_unlocked.title": "新的发酵配方：", # new
-  "spectrum.toast.midnight_solution_converting_recipe_unlocked.title": "新的午夜溶液配方：", # new
-  "spectrum.toast.midnight_solution_converting_recipes_unlocked.title": "新的午夜溶液配方：", # new
+  "spectrum.toast.titration_barrel_recipe_unlocked.title": "新的发酵配方：",
+  "spectrum.toast.titration_barrel_recipes_unlocked.title": "新的发酵配方：",
+  "spectrum.toast.midnight_solution_converting_recipe_unlocked.title": "新的午夜溶液配方：",
+  "spectrum.toast.midnight_solution_converting_recipes_unlocked.title": "新的午夜溶液配方：",
 
   "spectrum.toast.message.second_advancement_tree_unlocked.title": "第二章：堕落",
   "spectrum.toast.message.second_advancement_tree_unlocked.text": "你解锁了一个新的进度分支",
@@ -425,27 +426,27 @@
   "spectrum.toast.message.enchant_conflicting_enchantments_unlocked.text": "突破附魔冲突的限制",
   "spectrum.toast.message.fourth_potion_reagent_unlocked.title": "炼制专精",
   "spectrum.toast.message.fourth_potion_reagent_unlocked.text": "在炼制中使用第四种炼材",
-  "spectrum.toast.message.block_coloring_unlocked.title": "新画笔能力：",
+  "spectrum.toast.message.block_coloring_unlocked.title": "新画笔功能：",
   "spectrum.toast.message.block_coloring_unlocked.text": "方块上色",
-  "spectrum.toast.message.paint_flinging_unlocked.title": "新画笔能力：",
+  "spectrum.toast.message.paint_flinging_unlocked.title": "新画笔功能：",
   "spectrum.toast.message.paint_flinging_unlocked.text": "墨水喷射",
 
-  "text.autoconfig.Spectrum.option.ToastTimeMilliseconds": "以毫秒为单位，在屏幕上显示游戏内的配方或解锁弹窗", # new
-  "text.autoconfig.Spectrum.option.BedrockAnvilCanExceedMaxVanillaEnchantmentLevel": "基岩铁砧能超过的最大附魔等级", # new
+  "text.autoconfig.Spectrum.option.ToastTimeMilliseconds": "以毫秒为单位，在屏幕上显示游戏内的配方或解锁弹窗",
+  "text.autoconfig.Spectrum.option.BedrockAnvilCanExceedMaxVanillaEnchantmentLevel": "基岩铁砧能超过的最大附魔等级",
   "text.autoconfig.Spectrum.option.CitrineGeodeMinAboveBottomGenerationHeight": "黄水晶洞生成最低高度（世界高度）",
   "text.autoconfig.Spectrum.option.CitrineGeodeFixedMaxGenerationHeight": "黄水晶洞生成最高高度（Y值）",
   "text.autoconfig.Spectrum.option.TopazGeodeMinFixedGenerationHeight": "托帕石晶洞生成最低高度（Y值）",
   "text.autoconfig.Spectrum.option.TopazGeodeMaxBelowTopGenerationHeight": "托帕石晶洞生成最高高度（从最大Y值算起）",
   "text.autoconfig.Spectrum.option.TopazGeodeChunkChance": "托帕石晶洞生成几率（区块）",
   "text.autoconfig.Spectrum.option.CitrineGeodeChunkChance": "黄水晶洞生成几率（区块）",
-  "text.autoconfig.Spectrum.option.月长石GeodeChunkChance": "月长石晶洞生成几率（区块）",
+  "text.autoconfig.Spectrum.option.MoonstoneGeodeChunkChance": "月长石晶洞生成几率（区块）",
   "text.autoconfig.Spectrum.option.EndermanHoldingEnderTreasureChance": "末影人手持特殊方块几率",
   "text.autoconfig.Spectrum.option.EndermanHoldingEnderTreasureInEndChance": "末地中末影人手持特殊方块几率",
   "text.autoconfig.Spectrum.option.ColoredTreePatchChanceChunk": "在所有X个区块中试图生成染色的树",
   "text.autoconfig.Spectrum.option.ShootingStarWorlds": "带有流星的世界",
   "text.autoconfig.Spectrum.option.ShootingStarChance": "流星每100游戏刻掉落的几率",
-  "text.autoconfig.Spectrum.option.LightningStonesWorlds": "生成风暴之石的世界",
-  "text.autoconfig.Spectrum.option.LightningStonesChance": "每次雷击生成风暴之石的概率",
+  "text.autoconfig.Spectrum.option.LightningStonesWorlds": "生成风暴石的世界",
+  "text.autoconfig.Spectrum.option.LightningStonesChance": "每次雷击生成风暴石的概率",
   "text.autoconfig.Spectrum.option.QuitoxicReedsGenerationBiomes": "奇毒苇生成的群系",
   "text.autoconfig.Spectrum.option.MermaidsBrushChanceChunk": "美人鱼草的区块生成概率",
   "text.autoconfig.Spectrum.option.QuitoxicReedsCountPerChunk": "奇毒苇的区块生成数量",
@@ -453,7 +454,7 @@
   "text.autoconfig.Spectrum.option.FadingDecayTickRate": "褪解微生物扩散速度",
   "text.autoconfig.Spectrum.option.FailingDecayTickRate": "蚀解微生物扩散速度",
   "text.autoconfig.Spectrum.option.RuinDecayTickRate": "坏灭微生物扩散速度",
-  "text.autoconfig.Spectrum.option.收缴微生物DecayTickRate": "收缴微生物扩散速度", # new
+  "text.autoconfig.Spectrum.option.TerrorDecayTickRate": "收缴微生物扩散速度",
 
   "text.autoconfig.Spectrum.option.GemstoneArmorHelmetProtection": "宝石晶头盔护甲值",
   "text.autoconfig.Spectrum.option.GemstoneArmorChestplateProtection": "宝石晶胸甲护甲值",
@@ -476,8 +477,8 @@
   "text.autoconfig.Spectrum.option.BedrockArmorToughness": "基岩盔甲韧性",
   "text.autoconfig.Spectrum.option.BedrockArmorKnockbackResistance": "基岩盔甲击退抗性",
 
-  "text.autoconfig.Spectrum.option.MaxLevelForEffectsInLesserPotionPendant": "小型药水吊坠的状态效果最大等级", # new
-  "text.autoconfig.Spectrum.option.MaxLevelForEffectsInGreaterPotionPendant": "大型药水吊坠的状态效果最大等级", # new
+  "text.autoconfig.Spectrum.option.MaxLevelForEffectsInLesserPotionPendant": "小型药水吊坠的状态效果最大等级",
+  "text.autoconfig.Spectrum.option.MaxLevelForEffectsInGreaterPotionPendant": "大型药水吊坠的状态效果最大等级",
 
   "text.autoconfig.Spectrum.option.AutoSmeltEnchantmentEnabled": "是否可获得 自动烧炼 附魔",
   "text.autoconfig.Spectrum.option.ExuberanceEnchantmentEnabled": "是否可获得 经验充沛 附魔",
@@ -494,7 +495,7 @@
   "text.autoconfig.Spectrum.option.TightGripEnchantmentEnabled": "是否可获得 利落把柄 附魔",
   "text.autoconfig.Spectrum.option.SteadfastEnchantmentEnabled": "是否可获得 坚韧 附魔",
   "text.autoconfig.Spectrum.option.IndestructibleEnchantmentEnabled": "是否可获得 坚不可摧 附魔",
-  "text.autoconfig.Spectrum.option.BigCatchEnchantmentEnabled": "是否可获得 Big Catch 附魔", # new
+  "text.autoconfig.Spectrum.option.BigCatchEnchantmentEnabled": "是否可获得 捕鱼达人 附魔",
 
   "text.autoconfig.Spectrum.option.TreasureHunterMaxLevel": "奇珍猎手 附魔最大等级",
   "text.autoconfig.Spectrum.option.DisarmingMaxLevel": "缴械 附魔最大等级",
@@ -508,7 +509,7 @@
   "text.autoconfig.Spectrum.option.ExuberanceBonusExperiencePercentPerLevel": "带有经验充沛附魔的物品击杀生物时掉落的经验值",
   "text.autoconfig.Spectrum.option.ImprovedCriticalExtraDamageMultiplierPerLevel": "每级暴击增强附魔提升的伤害倍率",
   "text.autoconfig.Spectrum.option.FirstStrikeDamagePerLevel": "每级先发制人附魔增加的伤害",
-  "text.autoconfig.Spectrum.option.GlowVisionGogglesDuration": "夜视眼镜提供效果的时间（秒）",
+  "text.autoconfig.Spectrum.option.GlowVisionGogglesDuration": "荧光目镜提供效果的时间（秒）",
   "text.autoconfig.Spectrum.option.DisarmingChancePerLevelMobs": "每级缴械附魔使怪物掉落武器的概率",
   "text.autoconfig.Spectrum.option.DisarmingChancePerLevelPlayers": "每级缴械附魔使玩家掉落武器的概率",
 
@@ -539,13 +540,13 @@
   "item.spectrum.upgrade_experience2.tooltip": "巨幅增加/减少合成得到/消耗的经验",
   "item.spectrum.upgrade.tooltip_increase": "同类增益器效果叠加，但加成递减",
 
-  "block.spectrum.fusion_shrine": "融合神龛",
-  "block.spectrum.fusion_shrine_basalt": "融合神龛",
-  "block.spectrum.fusion_shrine_calcite": "融合神龛",
+  "block.spectrum.fusion_shrine": "融合圣坛",
+  "block.spectrum.fusion_shrine_basalt": "融合圣坛",
+  "block.spectrum.fusion_shrine_calcite": "融合圣坛",
   "block.spectrum.enchanter": "注魔基座",
   "block.spectrum.item_bowl_basalt": "物品底座",
   "block.spectrum.item_bowl_calcite": "物品底座",
-  "block.spectrum.item_roundel": "物品Roundel", # new
+  "block.spectrum.item_roundel": "物品旋轮台",
   "block.spectrum.potion_workshop": "药水工作站",
   "block.spectrum.spirit_instiller": "灵魂灌注台",
   "block.spectrum.crystallarieum": "结晶室",
@@ -564,18 +565,18 @@
 
   "block.spectrum.black_materia": "黑暗物质",
 
-  "block.spectrum.preservation_controller": "保护控制器",
-  "block.spectrum.preservation_stone": "保护石",
-  "block.spectrum.preservation_glass": "保护玻璃",
-  "block.spectrum.tinted_preservation_glass": "有色保护玻璃",
-  "block.spectrum.preservation_bricks": "保护砖块",
-  "block.spectrum.shimmering_preservation_bricks": "荧光保护砖块",
-  "block.spectrum.powder_chiseled_preservation_stone": "充能錾制保护石", # new
-  "block.spectrum.dike_chiseled_preservation_stone": "錾制蔚蓝保护石",
-  "block.spectrum.preservation_roundel": "保护Roundel", # new
+  "block.spectrum.preservation_controller": "防护控制器",
+  "block.spectrum.preservation_stone": "防护石",
+  "block.spectrum.preservation_glass": "防护玻璃",
+  "block.spectrum.tinted_preservation_glass": "遮光防护玻璃",
+  "block.spectrum.preservation_bricks": "防护砖块",
+  "block.spectrum.shimmering_preservation_bricks": "荧光防护砖块",
+  "block.spectrum.powder_chiseled_preservation_stone": "錾制充能防护石",
+  "block.spectrum.dike_chiseled_preservation_stone": "錾制蔚蓝防护石",
+  "block.spectrum.preservation_roundel": "防护物品旋轮台",
   "block.spectrum.dike_gate": "蔚蓝力场",
   "block.spectrum.dike_gate_fountain": "蔚蓝源泉",
-  "block.spectrum.invisible_wall": "隐形之墙", # new
+  "block.spectrum.invisible_wall": "隐形之墙",
   "block.spectrum.courier_statue": "远古雕像",
   "block.spectrum.treasure_chest": "古代藏宝箱",
 
@@ -587,7 +588,7 @@
   "block.spectrum.blackslag_redstone_ore": "黢黑红石矿石",
   "block.spectrum.blackslag_lapis_ore": "黢黑青金石矿石",
   "block.spectrum.blackslag_emerald_ore": "黢黑绿宝石矿石",
-  "block.spectrum.blackslag_shimmerstone_ore": "黢黑闪光石矿石", # new
+  "block.spectrum.blackslag_shimmerstone_ore": "黢黑闪光石矿石",
   "block.spectrum.blackslag_malachite_ore": "黢黑孔雀石矿石",
 
   "block.spectrum.jade_vines": "玉藤",
@@ -601,9 +602,9 @@
   "block.spectrum.sacred_soil": "神圣土壤",
   "block.spectrum.wand_light": "闪光石灯",
   "block.spectrum.bedrock_storage_block": "基岩粉块",
-  "block.spectrum.shimmerstone_ore": "闪光石矿石", # new
-  "block.spectrum.deepslate_shimmerstone_ore": "深层闪光石矿石", # new
-  "block.spectrum.shimmerstone_block": "闪光石块", # new
+  "block.spectrum.shimmerstone_ore": "闪光石矿石",
+  "block.spectrum.deepslate_shimmerstone_ore": "深层闪光石矿石",
+  "block.spectrum.shimmerstone_block": "闪光石块",
   "block.spectrum.azurite_ore": "石青矿石",
   "block.spectrum.deepslate_azurite_ore": "深层石青矿石",
   "block.spectrum.azurite_block": "石青块",
@@ -613,10 +614,10 @@
   "block.spectrum.wet_lava_sponge": "湿熔岩海绵",
   "item.spectrum.wet_lava_sponge.tooltip": "§e⚠警告: 小心高温⚠",
 
-  "item.spectrum.amaranth_grains": "苋菜籽", # new
-  "block.spectrum.amaranth": "苋菜", # new
-  "block.spectrum.amaranth_bushel": "苋菜植株", # new
-  "block.spectrum.potted_amaranth_bushel": "被栽下的苋菜植株", # new
+  "item.spectrum.amaranth_grains": "苋菜籽",
+  "block.spectrum.amaranth": "苋菜",
+  "block.spectrum.amaranth_bushel": "苋菜",
+  "block.spectrum.potted_amaranth_bushel": "苋菜盆栽",
 
   "block.spectrum.amethyst_decostone": "紫水晶摆件",
   "block.spectrum.topaz_decostone": "托帕石摆件",
@@ -636,17 +637,17 @@
   "block.spectrum.universe_spyhole": "全视透镜",
   "block.spectrum.ender_glass": "末影玻璃",
   "block.spectrum.redstone_sand": "红石沙子",
-  "block.spectrum.stuck_storm_stone": "风暴石", # new
+  "block.spectrum.stuck_storm_stone": "风暴石",
   "block.spectrum.ender_dropper": "末影投掷器",
   "block.spectrum.ender_hopper": "末影漏斗",
   "block.spectrum.compacting_chest": "压缩箱",
   "block.spectrum.compacting_chest.toggle_crafting_mode": "切换合成方式",
   "block.spectrum.restocking_chest": "装配箱",
-  "block.spectrum.black_hole_chest": "黑洞箱", # new
+  "block.spectrum.black_hole_chest": "黑洞箱",
   "block.spectrum.private_chest": "心灵结印箱",
   "block.spectrum.ominous_sapling": "不祥树苗",
   "block.spectrum.bedrock_anvil": "基岩铁砧",
-  "block.spectrum.radiating_ender": "辐射端口", # new
+  "block.spectrum.radiating_ender": "辐射端口",
   "block.spectrum.blazing_crystal": "炽热水晶",
   "block.spectrum.frostbite_crystal": "霜冻水晶",
   "block.spectrum.resonant_lily": "共振百合",
@@ -688,13 +689,13 @@
   "block.spectrum.white_spirit_sallow_vines_body": "白色魂灵柳藤",
   "block.spectrum.black_spirit_sallow_vines_body": "黑色魂灵柳藤",
 
-  "block.spectrum.basalt_shimmerstone_light": "玄武岩制闪光石灯", # new
-  "block.spectrum.calcite_shimmerstone_light": "方解石制闪光石灯", # new
-  "block.spectrum.stone_shimmerstone_light": "石制闪光石灯", # new
-  "block.spectrum.granite_shimmerstone_light": "花岗岩制闪光石灯", # new
-  "block.spectrum.diorite_shimmerstone_light": "闪长岩制闪光石灯", # new
-  "block.spectrum.andesite_shimmerstone_light": "安山岩制闪光石灯", # new
-  "block.spectrum.deepslate_shimmerstone_light": "深板岩制闪光石灯", # new
+  "block.spectrum.basalt_shimmerstone_light": "玄武岩制闪光石灯",
+  "block.spectrum.calcite_shimmerstone_light": "方解石制闪光石灯",
+  "block.spectrum.stone_shimmerstone_light": "石制闪光石灯",
+  "block.spectrum.granite_shimmerstone_light": "花岗岩制闪光石灯",
+  "block.spectrum.diorite_shimmerstone_light": "闪长岩制闪光石灯",
+  "block.spectrum.andesite_shimmerstone_light": "安山岩制闪光石灯",
+  "block.spectrum.deepslate_shimmerstone_light": "深板岩制闪光石灯",
 
   "block.spectrum.amethyst_storage_block": "磨制紫水晶块",
   "block.spectrum.citrine_storage_block": "磨制黄水晶块",
@@ -821,132 +822,132 @@
   "block.spectrum.yellow_lamp": "黄色红石灯",
 
   "block.spectrum.black_planks": "黑色木板",
-  "block.spectrum.black_button": "黑色按钮", # new
-  "block.spectrum.black_fence": "黑色栅栏", # new
-  "block.spectrum.black_pressure_plate": "黑色压力板", # new
-  "block.spectrum.black_stairs": "黑色楼梯", # new
-  "block.spectrum.black_slab": "黑色台阶", # new
-  "block.spectrum.black_fence_gate": "黑色栅栏门", # new
+  "block.spectrum.black_button": "黑色按钮",
+  "block.spectrum.black_fence": "黑色栅栏",
+  "block.spectrum.black_pressure_plate": "黑色压力板",
+  "block.spectrum.black_stairs": "黑色楼梯",
+  "block.spectrum.black_slab": "黑色台阶",
+  "block.spectrum.black_fence_gate": "黑色栅栏门",
 
   "block.spectrum.blue_planks": "蓝色木板",
-  "block.spectrum.blue_button": "蓝色按钮", # new
-  "block.spectrum.blue_fence": "蓝色栅栏", # new
-  "block.spectrum.blue_pressure_plate": "蓝色压力板", # new
-  "block.spectrum.blue_stairs": "蓝色楼梯", # new
-  "block.spectrum.blue_slab": "蓝色台阶", # new
-  "block.spectrum.blue_fence_gate": "蓝色栅栏门", # new
+  "block.spectrum.blue_button": "蓝色按钮",
+  "block.spectrum.blue_fence": "蓝色栅栏",
+  "block.spectrum.blue_pressure_plate": "蓝色压力板",
+  "block.spectrum.blue_stairs": "蓝色楼梯",
+  "block.spectrum.blue_slab": "蓝色台阶",
+  "block.spectrum.blue_fence_gate": "蓝色栅栏门",
 
   "block.spectrum.brown_planks": "棕色木板",
-  "block.spectrum.brown_button": "棕色按钮", # new
-  "block.spectrum.brown_fence": "棕色栅栏", # new
-  "block.spectrum.brown_pressure_plate": "棕色压力板", # new
-  "block.spectrum.brown_stairs": "棕色楼梯", # new
-  "block.spectrum.brown_slab": "棕色台阶", # new
-  "block.spectrum.brown_fence_gate": "棕色栅栏门", # new
+  "block.spectrum.brown_button": "棕色按钮",
+  "block.spectrum.brown_fence": "棕色栅栏",
+  "block.spectrum.brown_pressure_plate": "棕色压力板",
+  "block.spectrum.brown_stairs": "棕色楼梯",
+  "block.spectrum.brown_slab": "棕色台阶",
+  "block.spectrum.brown_fence_gate": "棕色栅栏门",
 
   "block.spectrum.cyan_planks": "青色木板",
-  "block.spectrum.cyan_button": "青色按钮", # new
-  "block.spectrum.cyan_fence": "青色栅栏", # new
-  "block.spectrum.cyan_pressure_plate": "青色压力板", # new
-  "block.spectrum.cyan_stairs": "青色楼梯", # new
-  "block.spectrum.cyan_slab": "青色台阶", # new
-  "block.spectrum.cyan_fence_gate": "青色栅栏门", # new
+  "block.spectrum.cyan_button": "青色按钮",
+  "block.spectrum.cyan_fence": "青色栅栏",
+  "block.spectrum.cyan_pressure_plate": "青色压力板",
+  "block.spectrum.cyan_stairs": "青色楼梯",
+  "block.spectrum.cyan_slab": "青色台阶",
+  "block.spectrum.cyan_fence_gate": "青色栅栏门",
 
   "block.spectrum.gray_planks": "灰色木板",
-  "block.spectrum.gray_button": "灰色按钮", # new
-  "block.spectrum.gray_fence": "灰色栅栏", # new
-  "block.spectrum.gray_pressure_plate": "灰色压力板", # new
-  "block.spectrum.gray_stairs": "灰色楼梯", # new
-  "block.spectrum.gray_slab": "灰色台阶", # new
-  "block.spectrum.gray_fence_gate": "灰色栅栏门", # new
+  "block.spectrum.gray_button": "灰色按钮",
+  "block.spectrum.gray_fence": "灰色栅栏",
+  "block.spectrum.gray_pressure_plate": "灰色压力板",
+  "block.spectrum.gray_stairs": "灰色楼梯",
+  "block.spectrum.gray_slab": "灰色台阶",
+  "block.spectrum.gray_fence_gate": "灰色栅栏门",
 
   "block.spectrum.green_planks": "绿色木板",
-  "block.spectrum.green_button": "绿色按钮", # new
-  "block.spectrum.green_fence": "绿色栅栏", # new
-  "block.spectrum.green_pressure_plate": "绿色压力板", # new
-  "block.spectrum.green_stairs": "绿色楼梯", # new
-  "block.spectrum.green_slab": "绿色台阶", # new
-  "block.spectrum.green_fence_gate": "绿色栅栏门", # new
+  "block.spectrum.green_button": "绿色按钮",
+  "block.spectrum.green_fence": "绿色栅栏",
+  "block.spectrum.green_pressure_plate": "绿色压力板",
+  "block.spectrum.green_stairs": "绿色楼梯",
+  "block.spectrum.green_slab": "绿色台阶",
+  "block.spectrum.green_fence_gate": "绿色栅栏门",
 
   "block.spectrum.light_blue_planks": "淡蓝色木板",
-  "block.spectrum.light_blue_button": "淡蓝色按钮", # new
-  "block.spectrum.light_blue_fence": "淡蓝色栅栏", # new
-  "block.spectrum.light_blue_pressure_plate": "淡蓝色压力板", # new
-  "block.spectrum.light_blue_stairs": "淡蓝色楼梯", # new
-  "block.spectrum.light_blue_slab": "淡蓝色台阶", # new
-  "block.spectrum.light_blue_fence_gate": "淡蓝色栅栏门", # new
+  "block.spectrum.light_blue_button": "淡蓝色按钮",
+  "block.spectrum.light_blue_fence": "淡蓝色栅栏",
+  "block.spectrum.light_blue_pressure_plate": "淡蓝色压力板",
+  "block.spectrum.light_blue_stairs": "淡蓝色楼梯",
+  "block.spectrum.light_blue_slab": "淡蓝色台阶",
+  "block.spectrum.light_blue_fence_gate": "淡蓝色栅栏门",
 
   "block.spectrum.light_gray_planks": "淡灰色木板",
-  "block.spectrum.light_gray_button": "淡灰色按钮", # new
-  "block.spectrum.light_gray_fence": "淡灰色栅栏", # new
-  "block.spectrum.light_gray_pressure_plate": "淡灰色压力板", # new
-  "block.spectrum.light_gray_stairs": "淡灰色楼梯", # new
-  "block.spectrum.light_gray_slab": "淡灰色台阶", # new
-  "block.spectrum.light_gray_fence_gate": "淡灰色栅栏门", # new
+  "block.spectrum.light_gray_button": "淡灰色按钮",
+  "block.spectrum.light_gray_fence": "淡灰色栅栏",
+  "block.spectrum.light_gray_pressure_plate": "淡灰色压力板",
+  "block.spectrum.light_gray_stairs": "淡灰色楼梯",
+  "block.spectrum.light_gray_slab": "淡灰色台阶",
+  "block.spectrum.light_gray_fence_gate": "淡灰色栅栏门",
 
   "block.spectrum.lime_planks": "黄绿色木板",
-  "block.spectrum.lime_button": "黄绿色按钮", # new
-  "block.spectrum.lime_fence": "黄绿色栅栏", # new
-  "block.spectrum.lime_pressure_plate": "黄绿色压力板", # new
-  "block.spectrum.lime_stairs": "黄绿色楼梯", # new
-  "block.spectrum.lime_slab": "黄绿色台阶", # new
-  "block.spectrum.lime_fence_gate": "黄绿色栅栏门", # new
+  "block.spectrum.lime_button": "黄绿色按钮",
+  "block.spectrum.lime_fence": "黄绿色栅栏",
+  "block.spectrum.lime_pressure_plate": "黄绿色压力板",
+  "block.spectrum.lime_stairs": "黄绿色楼梯",
+  "block.spectrum.lime_slab": "黄绿色台阶",
+  "block.spectrum.lime_fence_gate": "黄绿色栅栏门",
 
   "block.spectrum.magenta_planks": "品红色木板",
-  "block.spectrum.magenta_button": "品红色按钮", # new
-  "block.spectrum.magenta_fence": "品红色栅栏", # new
-  "block.spectrum.magenta_pressure_plate": "品红色压力板", # new
-  "block.spectrum.magenta_stairs": "品红色楼梯", # new
-  "block.spectrum.magenta_slab": "品红色台阶", # new
-  "block.spectrum.magenta_fence_gate": "品红色栅栏门", # new
+  "block.spectrum.magenta_button": "品红色按钮",
+  "block.spectrum.magenta_fence": "品红色栅栏",
+  "block.spectrum.magenta_pressure_plate": "品红色压力板",
+  "block.spectrum.magenta_stairs": "品红色楼梯",
+  "block.spectrum.magenta_slab": "品红色台阶",
+  "block.spectrum.magenta_fence_gate": "品红色栅栏门",
 
   "block.spectrum.orange_planks": "橙色木板",
-  "block.spectrum.orange_button": "橙色按钮", # new
-  "block.spectrum.orange_fence": "橙色栅栏", # new
-  "block.spectrum.orange_pressure_plate": "橙色压力板", # new
-  "block.spectrum.orange_stairs": "橙色楼梯", # new
-  "block.spectrum.orange_slab": "橙色台阶", # new
-  "block.spectrum.orange_fence_gate": "橙色栅栏门", # new
+  "block.spectrum.orange_button": "橙色按钮",
+  "block.spectrum.orange_fence": "橙色栅栏",
+  "block.spectrum.orange_pressure_plate": "橙色压力板",
+  "block.spectrum.orange_stairs": "橙色楼梯",
+  "block.spectrum.orange_slab": "橙色台阶",
+  "block.spectrum.orange_fence_gate": "橙色栅栏门",
 
   "block.spectrum.pink_planks": "粉红色木板",
-  "block.spectrum.pink_button": "粉红色按钮", # new
-  "block.spectrum.pink_fence": "粉红色栅栏", # new
-  "block.spectrum.pink_pressure_plate": "粉红色压力板", # new
-  "block.spectrum.pink_stairs": "粉红色楼梯", # new
-  "block.spectrum.pink_slab": "粉红色台阶", # new
-  "block.spectrum.pink_fence_gate": "粉红色栅栏门", # new
+  "block.spectrum.pink_button": "粉红色按钮",
+  "block.spectrum.pink_fence": "粉红色栅栏",
+  "block.spectrum.pink_pressure_plate": "粉红色压力板",
+  "block.spectrum.pink_stairs": "粉红色楼梯",
+  "block.spectrum.pink_slab": "粉红色台阶",
+  "block.spectrum.pink_fence_gate": "粉红色栅栏门",
 
   "block.spectrum.purple_planks": "紫色木板",
-  "block.spectrum.purple_button": "紫色按钮", # new
-  "block.spectrum.purple_fence": "紫色栅栏", # new
-  "block.spectrum.purple_pressure_plate": "紫色压力板", # new
-  "block.spectrum.purple_stairs": "紫色楼梯", # new
-  "block.spectrum.purple_slab": "紫色台阶", # new
-  "block.spectrum.purple_fence_gate": "紫色栅栏门", # new
+  "block.spectrum.purple_button": "紫色按钮",
+  "block.spectrum.purple_fence": "紫色栅栏",
+  "block.spectrum.purple_pressure_plate": "紫色压力板",
+  "block.spectrum.purple_stairs": "紫色楼梯",
+  "block.spectrum.purple_slab": "紫色台阶",
+  "block.spectrum.purple_fence_gate": "紫色栅栏门",
 
   "block.spectrum.red_planks": "红色木板",
-  "block.spectrum.red_button": "红色按钮", # new
-  "block.spectrum.red_fence": "红色栅栏", # new
-  "block.spectrum.red_pressure_plate": "红色压力板", # new
-  "block.spectrum.red_stairs": "红色楼梯", # new
-  "block.spectrum.red_slab": "红色台阶", # new
-  "block.spectrum.red_fence_gate": "红色栅栏门", # new
+  "block.spectrum.red_button": "红色按钮",
+  "block.spectrum.red_fence": "红色栅栏",
+  "block.spectrum.red_pressure_plate": "红色压力板",
+  "block.spectrum.red_stairs": "红色楼梯",
+  "block.spectrum.red_slab": "红色台阶",
+  "block.spectrum.red_fence_gate": "红色栅栏门",
 
   "block.spectrum.white_planks": "白色木板",
-  "block.spectrum.white_button": "白色按钮", # new
-  "block.spectrum.white_fence": "白色栅栏", # new
-  "block.spectrum.white_pressure_plate": "白色压力板", # new
-  "block.spectrum.white_stairs": "白色楼梯", # new
-  "block.spectrum.white_slab": "白色台阶", # new
-  "block.spectrum.white_fence_gate": "白色栅栏门", # new
+  "block.spectrum.white_button": "白色按钮",
+  "block.spectrum.white_fence": "白色栅栏",
+  "block.spectrum.white_pressure_plate": "白色压力板",
+  "block.spectrum.white_stairs": "白色楼梯",
+  "block.spectrum.white_slab": "白色台阶",
+  "block.spectrum.white_fence_gate": "白色栅栏门",
 
   "block.spectrum.yellow_planks": "黄色木板",
-  "block.spectrum.yellow_button": "黄色按钮", # new
-  "block.spectrum.yellow_fence": "黄色栅栏", # new
-  "block.spectrum.yellow_pressure_plate": "黄色压力板", # new
-  "block.spectrum.yellow_stairs": "黄色楼梯", # new
-  "block.spectrum.yellow_slab": "黄色台阶", # new
-  "block.spectrum.yellow_fence_gate": "黄色栅栏门", # new
+  "block.spectrum.yellow_button": "黄色按钮",
+  "block.spectrum.yellow_fence": "黄色栅栏",
+  "block.spectrum.yellow_pressure_plate": "黄色压力板",
+  "block.spectrum.yellow_stairs": "黄色楼梯",
+  "block.spectrum.yellow_slab": "黄色台阶",
+  "block.spectrum.yellow_fence_gate": "黄色栅栏门",
 
   "item.spectrum.mud_bucket": "泥浆桶",
   "block.spectrum.mud": "泥浆",
@@ -960,10 +961,10 @@
   "block.spectrum.midnight_solution": "午夜溶液",
   "block.spectrum.flowing_midnight_solution": "午夜溶液",
 
-  "block.spectrum.paltaeria_ore": "Paltaeria矿石", # new
-  "block.spectrum.paltaeria_fragment_block": "Paltaeria Floatblock", # new
-  "block.spectrum.stratine_ore": "Stratine矿石", # new
-  "block.spectrum.stratine_fragment_block": "Stratine Floatblock", # new
+  "block.spectrum.paltaeria_ore": "Paltaeria矿石",
+  "block.spectrum.paltaeria_fragment_block": "Paltaeria浮块",
+  "block.spectrum.stratine_ore": "Stratine矿石",
+  "block.spectrum.stratine_fragment_block": "Stratine浮块",
   "block.spectrum.hover_block": "悬浮方块",
 
   "block.spectrum.shooting_star_glistering": "闪烁流星",
@@ -973,9 +974,9 @@
   "block.spectrum.shooting_star_gemstone": "宝石流星",
   "item.spectrum.shooting_star.tooltip.hardened": "已硬化 - 无法破坏",
 
-  "block.spectrum.sag_leaf": "垂藤叶", # new
-  "block.spectrum.sag_bubble": "垂藤泡", # new
-  "block.spectrum.small_sag_bubble": "小型垂藤泡", # new
+  "block.spectrum.sag_leaf": "垂藤叶",
+  "block.spectrum.sag_bubble": "垂藤球果",
+  "block.spectrum.small_sag_bubble": "小型垂藤球果",
   "block.spectrum.glistering_melon": "闪烁的西瓜",
   "block.spectrum.glistering_melon_stem": "闪烁的西瓜茎",
   "block.spectrum.attached_glistering_melon_stem": "结果的闪烁的西瓜茎",
@@ -984,7 +985,7 @@
   "block.spectrum.small_citrine_bud": "小型黄水晶芽",
   "block.spectrum.medium_citrine_bud": "中型黄水晶芽",
   "block.spectrum.large_citrine_bud": "大型黄水晶芽",
-  "block.spectrum.citrine_cluster": "黄紫水晶簇",
+  "block.spectrum.citrine_cluster": "黄水晶簇",
   "block.spectrum.citrine_block": "黄水晶块",
   "block.spectrum.budding_citrine": "黄水晶母岩",
   "block.spectrum.small_topaz_bud": "小型托帕石晶芽",
@@ -1067,14 +1068,14 @@
   "block.spectrum.moonstone_glass": "月长石玻璃",
 
   "block.spectrum.glowing_glass": "荧光玻璃",
-  "block.spectrum.tinted_semi_permeable_glass": "半穿透遮光玻璃", # new
-  "block.spectrum.glowing_semi_permeable_glass": "半穿透辐射玻璃", # new
-  "block.spectrum.vanilla_semi_permeable_glass": "半穿透玻璃", # new
-  "block.spectrum.amethyst_semi_permeable_glass": "半穿透紫水晶玻璃", # new
-  "block.spectrum.topaz_semi_permeable_glass": "半穿透托帕石玻璃", # new
-  "block.spectrum.citrine_semi_permeable_glass": "半穿透黄水晶玻璃", # new
-  "block.spectrum.onyx_semi_permeable_glass": "半穿透缟玛瑙玻璃", # new
-  "block.spectrum.moonstone_semi_permeable_glass": "半穿透月长石玻璃", # new
+  "block.spectrum.tinted_semi_permeable_glass": "半穿透遮光玻璃",
+  "block.spectrum.glowing_semi_permeable_glass": "半穿透辐射玻璃",
+  "block.spectrum.vanilla_semi_permeable_glass": "半穿透玻璃",
+  "block.spectrum.amethyst_semi_permeable_glass": "半穿透紫水晶玻璃",
+  "block.spectrum.topaz_semi_permeable_glass": "半穿透托帕石玻璃",
+  "block.spectrum.citrine_semi_permeable_glass": "半穿透黄水晶玻璃",
+  "block.spectrum.onyx_semi_permeable_glass": "半穿透缟玛瑙玻璃",
+  "block.spectrum.moonstone_semi_permeable_glass": "半穿透月长石玻璃",
 
   "block.spectrum.amethyst_calcite_lamp": "紫水晶方解石灯",
   "block.spectrum.topaz_calcite_lamp": "托帕石方解石灯",
@@ -1103,7 +1104,7 @@
   "item.spectrum.pedestal.tooltip.onyx": "§8缟玛瑙§7变种",
   "item.spectrum.pedestal.tooltip.moonstone": "§f月长石§7变种",
 
-  "block.spectrum.provider_node": "绘彩网络供应节点", # new
+  "block.spectrum.provider_node": "绘彩网络供应节点",
   "block.spectrum.puller_node": "绘彩网络输入节点",
   "block.spectrum.pusher_node": "绘彩网络输出节点",
   "block.spectrum.storage_node": "绘彩网络储存节点",
@@ -1219,7 +1220,7 @@
   "block.spectrum.zoglin_head": "僵尸疣猪兽的头",
   "block.spectrum.zombie_villager_head": "僵尸村民的头",
   "block.spectrum.zombified_piglin_head": "僵尸猪灵的头",
-  "block.spectrum.egg_laying_wooly_pig_head": "下蛋绒猪的头", # new
+  "block.spectrum.egg_laying_wooly_pig_head": "下蛋绒猪的头",
 
   "block.spectrum.axolotl_mob_block": "恢复魔盒",
   "block.spectrum.bat_mob_block": "定位魔盒",
@@ -1320,43 +1321,43 @@
   "block.spectrum.large_globette_nether_bud": "大型下界戈伯矿芽",
   "block.spectrum.globette_nether_cluster": "下界戈伯球簇",
 
-  "item.spectrum.pure_emerald": "高纯绿宝石", # new
-  "item.spectrum.pure_prismarine": "高纯海晶石", # new
-  "item.spectrum.pure_coal": "高纯煤炭", # new
-  "item.spectrum.pure_redstone": "高纯红石", # new
-  "item.spectrum.pure_glowstone": "高纯荧石", # new
-  "item.spectrum.pure_lapis": "高纯青金石", # new
-  "item.spectrum.pure_copper": "高纯铜锭", # new
-  "item.spectrum.pure_quartz": "高纯石英", # new
-  "item.spectrum.pure_gold": "高纯金锭", # new
-  "item.spectrum.pure_diamond": "高纯钻石", # new
-  "item.spectrum.pure_netherite": "高纯下界合金锭", # new
-  "item.spectrum.pure_iron": "高纯铁锭", # new
+  "item.spectrum.pure_emerald": "高纯绿宝石",
+  "item.spectrum.pure_prismarine": "高纯海晶石",
+  "item.spectrum.pure_coal": "高纯煤炭",
+  "item.spectrum.pure_redstone": "高纯红石",
+  "item.spectrum.pure_glowstone": "高纯荧石",
+  "item.spectrum.pure_lapis": "高纯青金石",
+  "item.spectrum.pure_copper": "高纯铜锭",
+  "item.spectrum.pure_quartz": "高纯石英",
+  "item.spectrum.pure_gold": "高纯金锭",
+  "item.spectrum.pure_diamond": "高纯钻石",
+  "item.spectrum.pure_netherite": "高纯下界合金锭",
+  "item.spectrum.pure_iron": "高纯铁锭",
 
-  "item.spectrum.pure_certus_quartz": "高纯赛特斯石英", # new
-  "item.spectrum.pure_fluix": "高纯Fluix", # new
+  "item.spectrum.pure_certus_quartz": "高纯赛特斯石英",
+  "item.spectrum.pure_fluix": "高纯Fluix",
 
-  "item.spectrum.pure_globette": "高纯戈伯球簇", # new
-  "item.spectrum.pure_globette_end": "高纯末地戈伯球簇", # new
-  "item.spectrum.pure_globette_nether": "高纯下界戈伯球簇", # new
+  "item.spectrum.pure_globette": "高纯戈伯球簇",
+  "item.spectrum.pure_globette_end": "高纯末地戈伯球簇",
+  "item.spectrum.pure_globette_nether": "高纯下界戈伯球簇",
 
-  "block.spectrum.pure_coal_block": "高纯煤炭块", # new
-  "block.spectrum.pure_iron_block": "高纯铁块", # new
-  "block.spectrum.pure_gold_block": "高纯金块", # new
-  "block.spectrum.pure_diamond_block": "高纯钻石块", # new
-  "block.spectrum.pure_emerald_block": "高纯绿宝石块", # new
-  "block.spectrum.pure_redstone_block": "高纯红石块", # new
-  "block.spectrum.pure_lapis_block": "高纯青金石块", # new
-  "block.spectrum.pure_copper_block": "高纯铜块", # new
-  "block.spectrum.pure_quartz_block": "高纯石英块", # new
-  "block.spectrum.pure_netherite_block": "高纯下界合金块", # new
-  "block.spectrum.pure_glowstone_block": "高纯荧石块", # new
-  "block.spectrum.pure_prismarine_block": "高纯海晶石块", # new
-  "block.spectrum.pure_certus_quartz_block": "高纯赛特斯石英块", # new
-  "block.spectrum.pure_fluix_block": "高纯Fluix块", # new
-  "block.spectrum.pure_globette_block": "高纯球簇块", # new
-  "block.spectrum.pure_globette_nether_block": "高纯下界戈伯块", # new
-  "block.spectrum.pure_globette_end_block": "高纯末地戈伯块", # new
+  "block.spectrum.pure_coal_block": "高纯煤炭块",
+  "block.spectrum.pure_iron_block": "高纯铁块",
+  "block.spectrum.pure_gold_block": "高纯金块",
+  "block.spectrum.pure_diamond_block": "高纯钻石块",
+  "block.spectrum.pure_emerald_block": "高纯绿宝石块",
+  "block.spectrum.pure_redstone_block": "高纯红石块",
+  "block.spectrum.pure_lapis_block": "高纯青金石块",
+  "block.spectrum.pure_copper_block": "高纯铜块",
+  "block.spectrum.pure_quartz_block": "高纯石英块",
+  "block.spectrum.pure_netherite_block": "高纯下界合金块",
+  "block.spectrum.pure_glowstone_block": "高纯荧石块",
+  "block.spectrum.pure_prismarine_block": "高纯海晶石块",
+  "block.spectrum.pure_certus_quartz_block": "高纯赛特斯石英块",
+  "block.spectrum.pure_fluix_block": "高纯Fluix块",
+  "block.spectrum.pure_globette_block": "高纯球簇块",
+  "block.spectrum.pure_globette_nether_block": "高纯下界戈伯块",
+  "block.spectrum.pure_globette_end_block": "高纯末地戈伯块",
 
   "block.spectrum.mob_block.tooltip": "当按下使用键/踩踏/弹射物击中时：",
   "block.spectrum.bonemealing_mob_block.tooltip": "§7为周围的植物施肥",
@@ -1382,68 +1383,68 @@
   "block.spectrum.line_teleporting_mob_block.tooltip2": "§7%d格内的超传魔盒上",
   "block.spectrum.feeding_mob_block.tooltip": "§7使用地上的食物喂养半径%d§7格内的动物",
 
-  "block.spectrum.incandescent_amalgam": "白炽汞合金", # new
-  "block.spectrum.incandescent_amalgam.tooltip": "§6⚠§r相当有威力的魔法炸药，拿取时小心点", # new
+  "block.spectrum.incandescent_amalgam": "白炽合金",
+  "block.spectrum.incandescent_amalgam.tooltip": "§6⚠§r相当有威力的魔法炸药，拿取时小心点",
 
   "item.spectrum.tooltip.loom_pattern_available": "✿可作为旗帜图案使用",
-  "item.spectrum.exchanging_staff": "交换法杖", # new
-  "item.spectrum.exchanging_staff.tooltip.range": "将选定的方块交换成其周围%s格方块", # new
-  "item.spectrum.exchanging_staff.tooltip.crouch": "按住潜行键时仅交换暴露在外的方块", # new
-  "item.spectrum.exchanging_staff.tooltip.target": "目标：%s", # new
-  "item.spectrum.constructors_staff": "建造法杖", # new
-  "item.spectrum.constructors_staff.tooltip.range": "将选定的一个多方块结构提高%s格", # new
-  "item.spectrum.constructors_staff.tooltip.crouch": "按住潜行键时会包含不同种类的方块", # new
-  "item.spectrum.constructors_staff.tooltip.missing_ink": "缺乏墨水", # new
-  "item.spectrum.constructors_staff.tooltip.none_in_inventory": "物品栏中无相应方块", # new
-  "item.spectrum.radiance_staff": "光之法杖", # new
-  "item.spectrum.radiance_staff.tooltip": "§7使用§e闪光石§7以放置光源", # new
-  "item.spectrum.radiance_staff.tooltip.ink": "§7使用§e黄色§7墨水或§e闪光石§7以放置光源", # new
-  "item.spectrum.radiance_staff.tooltip2": "§7对光源右击以更改其光照强度", # new
+  "item.spectrum.exchanging_staff": "交换法杖",
+  "item.spectrum.exchanging_staff.tooltip.range": "将选定的方块交换成其周围%s格方块",
+  "item.spectrum.exchanging_staff.tooltip.crouch": "按住潜行键时仅交换暴露在外的方块",
+  "item.spectrum.exchanging_staff.tooltip.target": "目标：%s",
+  "item.spectrum.constructors_staff": "建造法杖",
+  "item.spectrum.constructors_staff.tooltip.range": "将选定的一个多方块结构提高%s格",
+  "item.spectrum.constructors_staff.tooltip.crouch": "按住潜行键时会包含不同种类的方块",
+  "item.spectrum.constructors_staff.tooltip.missing_ink": "缺乏墨水",
+  "item.spectrum.constructors_staff.tooltip.none_in_inventory": "物品栏中无相应方块",
+  "item.spectrum.radiance_staff": "光之法杖",
+  "item.spectrum.radiance_staff.tooltip": "§7使用§e闪光石§7以放置光源",
+  "item.spectrum.radiance_staff.tooltip.ink": "§7使用§e黄色§7墨水或§e闪光石§7以放置光源",
+  "item.spectrum.radiance_staff.tooltip2": "§7对光源右击以更改其光照强度",
   "item.spectrum.music_disc_spectrum_theme": "音乐唱片",
   "item.spectrum.music_disc_spectrum_theme.desc": "光谱世界主题曲",
   "item.spectrum.music_disc_dimension_theme": "音乐唱片",
   "item.spectrum.music_disc_dimension_theme.desc": "Radiarc - Irrelevance Fading",
-  "item.spectrum.music_disc_everreflective": "音乐唱片", # new
-  "item.spectrum.music_disc_everreflective.desc": "Proper Motions - Everreflective", # new
-  "item.spectrum.phantom_frame": "幻翼框架", # new
-  "item.spectrum.glow_phantom_frame": "荧光幻翼框架", # new
-  "item.spectrum.bag_of_holding": "Bag of Holding", # new
-  "item.spectrum.bottomless_bundle": "无底袋", # new
-  "item.spectrum.bottomless_bundle.tooltip.empty": "空", # new
-  "item.spectrum.bottomless_bundle.tooltip.count": "%d / %d（%d组）", # new
-  "item.spectrum.bottomless_bundle.tooltip.locked": "已锁定（按住潜行键并右击以解锁）", # new
-  "item.spectrum.bottomless_bundle.tooltip.enter_inventory": "你捡起的%s将会被放置于此", # new
-  "item.spectrum.bottomless_bundle.tooltip.voiding": "§7其他物品将会被§c虚空§7所吞没", # new
+  "item.spectrum.music_disc_everreflective": "音乐唱片",
+  "item.spectrum.music_disc_everreflective.desc": "Proper Motions - Everreflective",
+  "item.spectrum.phantom_frame": "幻影物品展示框",
+  "item.spectrum.glow_phantom_frame": "荧光幻影物品展示框",
+  "item.spectrum.bag_of_holding": "纳袋",
+  "item.spectrum.bottomless_bundle": "无底袋",
+  "item.spectrum.bottomless_bundle.tooltip.empty": "空",
+  "item.spectrum.bottomless_bundle.tooltip.count": "%d / %d（%d组）",
+  "item.spectrum.bottomless_bundle.tooltip.locked": "已锁定（按住潜行键并右击以解锁）",
+  "item.spectrum.bottomless_bundle.tooltip.enter_inventory": "你捡起的%s将会被放置于此",
+  "item.spectrum.bottomless_bundle.tooltip.voiding": "§7其他物品将会被§c虚空§7所吞没",
   "item.spectrum.raw_azurite": "粗石青",
-  "item.spectrum.shimmerstone_gem": "闪光石", # new
+  "item.spectrum.shimmerstone_gem": "闪光石",
   "item.spectrum.refined_azurite": "精炼石青",
   "item.spectrum.quitoxic_powder": "奇毒粉末",
-  "item.spectrum.mermaids_gem": "人鱼宝石",
-  "item.spectrum.end_portal_cracker": "末地传送门拆解器", # new
-  "item.spectrum.guidebook": "七彩世界", # new
-  "item.spectrum.guidebook.landing_text": "$(br)能量$(br)$(c_gray)盘根错节, 它们萌发出$()$(br)自然的魔力$(br)$(c_gray) 直到你发现$(br)一切都是因何而起。", # new
+  "item.spectrum.mermaids_gem": "美人鱼宝石",
+  "item.spectrum.end_portal_cracker": "末地传送门拆解器",
+  "item.spectrum.guidebook": "七彩世界",
+  "item.spectrum.guidebook.landing_text": "$(br)能量$(br)$(c_gray)盘根错节, 它们萌发出$()$(br)自然的魔力$(br)$(c_gray) 直到你发现$(br)一切都是因何而起。",
   "item.spectrum.paintbrush": "画笔",
   "item.spectrum.paintbrush.tooltip.select_color": "潜行使用以选择颜色",
-  "item.spectrum.paintbrush.ability.header": "能力：",
+  "item.spectrum.paintbrush.ability.header": "功能：",
   "item.spectrum.paintbrush.ability.pedestal_triggering": "·基座激活",
   "item.spectrum.paintbrush.ability.block_coloring": "·方块上色",
   "item.spectrum.paintbrush.ability.ink_slinging": "·墨水喷射",
   "item.spectrum.paintbrush.gui.controls1": "使用移动按键进行移动",
   "item.spectrum.paintbrush.gui.controls2": "使用丢弃物品或开启物品栏按键进行选取",
   "item.spectrum.multitool": "多功能工具",
-  "item.spectrum.tender_pickaxe": "精准之镐", # new
-  "item.spectrum.lucky_pickaxe": "幸运之镐", # new
-  "item.spectrum.razor_falchion": "抢夺西洋剑", # new
-  "item.spectrum.oblivion_pickaxe": "净除之镐", # new
+  "item.spectrum.tender_pickaxe": "精准之镐",
+  "item.spectrum.lucky_pickaxe": "幸运之镐",
+  "item.spectrum.razor_falchion": "抢夺西洋剑",
+  "item.spectrum.oblivion_pickaxe": "净除之镐",
   "item.spectrum.resonant_pickaxe": "共鸣之镐",
-  "item.spectrum.spectrum_fishing_rods.tooltip": "有时候会把活的动物钓上来", # new
-  "item.spectrum.lagoon_rod": "湖光钓竿", # new
-  "item.spectrum.lagoon_rod.tooltip": "浮漂会在开阔水域上提示上钩", # new
-  "item.spectrum.molten_rod": "熔融钓竿",
+  "item.spectrum.spectrum_fishing_rods.tooltip": "有时候会把活的动物钓上来",
+  "item.spectrum.lagoon_rod": "湖光钓竿",
+  "item.spectrum.lagoon_rod.tooltip": "浮漂会在开阔水域上提示上钩",
+  "item.spectrum.molten_rod": "炽熔钓竿",
   "item.spectrum.molten_rod.tooltip": "可在熔岩或其它液体中钓鱼",
   "item.spectrum.molten_rod.tooltip2": "并顺带引燃你的战利品",
-  "item.spectrum.glow_vision_goggles": "夜视眼镜", # new
-  "item.spectrum.glow_vision_goggles.tooltip": "§7使用§b荧光墨囊§7提供能量", # new
+  "item.spectrum.glow_vision_goggles": "荧光目镜",
+  "item.spectrum.glow_vision_goggles.tooltip": "§7使用§b荧光墨囊§7提供能量",
   "item.spectrum.ender_splice": "末影连弦",
   "item.spectrum.ender_splice.tooltip.unbound": "§7使用它以绑定你的当前位置",
   "item.spectrum.ender_splice.tooltip.bound_pos": "§7绑定于 %d %d %d§7 在 %s§7。使用它来传送",
@@ -1457,49 +1458,49 @@
   "item.spectrum.pedestal_tier_1_structure_placer": "光谱注魔基座放置器",
   "item.spectrum.pedestal_tier_2_structure_placer": "光谱注魔祭坛放置器",
   "item.spectrum.pedestal_tier_3_structure_placer": "光谱注魔殿堂放置器",
-  "item.spectrum.fusion_shrine_structure_placer": "融合神龛结构放置器",
+  "item.spectrum.fusion_shrine_structure_placer": "融合圣坛结构放置器",
   "item.spectrum.enchanter_structure_placer": "注魔基座结构放置器",
   "item.spectrum.spirit_instiller_structure_placer": "灵魂灌注台结构放置器",
   "item.spectrum.cinderhearth_structure_placer": "炼化炉结构放置器",
-  "item.spectrum.storm_stone": "风暴石", # new
-  "item.spectrum.stratine_fragments": "Stratine碎片", # new
-  "item.spectrum.stratine_gem": "Stratine宝石", # new
-  "item.spectrum.paltaeria_fragments": "Paltaeria碎片", # new
-  "item.spectrum.paltaeria_gem": "Paltaeria宝石", # new
+  "item.spectrum.storm_stone": "风暴石",
+  "item.spectrum.stratine_fragments": "Stratine碎片",
+  "item.spectrum.stratine_gem": "Stratine宝石",
+  "item.spectrum.paltaeria_fragments": "Paltaeria碎片",
+  "item.spectrum.paltaeria_gem": "Paltaeria宝石",
   "item.spectrum.glistering_melon_seeds": "闪烁的西瓜种子",
 
-  "item.spectrum.honey_pastry": "甜蜜糕点", # new
+  "item.spectrum.honey_pastry": "甜蜜糕点",
 
-  "item.spectrum.jaramel_trifle": "玉焦糖小糕", # new
-  "item.spectrum.salted_jaramel_trifle": "咸玉焦糖小糕", # new
-  "item.spectrum.monster_trifle": "怪物小糕", # new
-  "item.spectrum.demon_trifle": "恶魔小糕", # new
+  "item.spectrum.jaramel_trifle": "玉藤焦糖小糕",
+  "item.spectrum.salted_jaramel_trifle": "加盐玉藤焦糖小糕",
+  "item.spectrum.monster_trifle": "怪物小糕",
+  "item.spectrum.demon_trifle": "恶魔小糕",
 
-  "item.spectrum.jaramel_tart": "玉焦糖蛋挞", # new
-  "item.spectrum.salted_jaramel_tart": "咸玉焦糖蛋挞", # new
-  "item.spectrum.ashen_tart": "灰烬蛋挞", # new
-  "item.spectrum.weeping_tart": "哭泣蛋挞", # new
-  "item.spectrum.whispy_tart": "舒缓蛋挞", # new
-  "item.spectrum.puff_tart": "松软蛋挞", # new
+  "item.spectrum.jaramel_tart": "玉藤焦糖蛋挞",
+  "item.spectrum.salted_jaramel_tart": "加盐玉藤焦糖蛋挞",
+  "item.spectrum.ashen_tart": "灰烬蛋挞",
+  "item.spectrum.weeping_tart": "哭泣蛋挞",
+  "item.spectrum.whispy_tart": "舒缓蛋挞",
+  "item.spectrum.puff_tart": "蓬蓬蛋挞",
 
-  "block.spectrum.blood_orchid": "血红兰", # new
-  "item.spectrum.blood_orchid_petal": "血红兰花瓣", # new
-  "item.spectrum.bloodboil_syrup": "炽血糖浆", # new
+  "block.spectrum.blood_orchid": "血红兰",
+  "item.spectrum.blood_orchid_petal": "血红兰花瓣",
+  "item.spectrum.bloodboil_syrup": "炽血糖浆",
 
-  "block.spectrum.sugar_stick": "糖棍", # new
-  "block.spectrum.sugar_stick.tooltip.medium": "半全长成", # new
-  "block.spectrum.sugar_stick.tooltip.large": "完全长成", # new
-  "block.spectrum.topaz_sugar_stick": "托帕石糖棍", # new
-  "block.spectrum.amethyst_sugar_stick": "紫水晶糖棍", # new
-  "block.spectrum.citrine_sugar_stick": "黄水晶糖棍", # new
-  "block.spectrum.onyx_sugar_stick": "缟玛瑙糖棍", # new
-  "block.spectrum.moonstone_sugar_stick": "月长石糖棍", # new
-  "item.spectrum.rock_candy": "冰糖", # new
-  "item.spectrum.topaz_rock_candy": "托帕石冰糖", # new
-  "item.spectrum.amethyst_rock_candy": "紫水晶冰糖", # new
-  "item.spectrum.citrine_rock_candy": "黄水晶冰糖", # new
-  "item.spectrum.onyx_rock_candy": "缟玛瑙冰糖", # new
-  "item.spectrum.moonstone_rock_candy": "月长石冰糖", # new
+  "block.spectrum.sugar_stick": "糖棍",
+  "block.spectrum.sugar_stick.tooltip.medium": "半全长成",
+  "block.spectrum.sugar_stick.tooltip.large": "完全长成",
+  "block.spectrum.topaz_sugar_stick": "托帕石糖棍",
+  "block.spectrum.amethyst_sugar_stick": "紫水晶糖棍",
+  "block.spectrum.citrine_sugar_stick": "黄水晶糖棍",
+  "block.spectrum.onyx_sugar_stick": "缟玛瑙糖棍",
+  "block.spectrum.moonstone_sugar_stick": "月长石糖棍",
+  "item.spectrum.rock_candy": "冰糖",
+  "item.spectrum.topaz_rock_candy": "托帕石冰糖",
+  "item.spectrum.amethyst_rock_candy": "紫水晶冰糖",
+  "item.spectrum.citrine_rock_candy": "黄水晶冰糖",
+  "item.spectrum.onyx_rock_candy": "缟玛瑙冰糖",
+  "item.spectrum.moonstone_rock_candy": "月长石冰糖",
 
   "item.spectrum.white_crystal_grace": "月亮宝石",
 
@@ -1512,14 +1513,14 @@
   "item.spectrum.celestial_pocketwatch.tooltip.use_blocked_gamerule": "一股强大的力量阻止了你使用天体怀表",
   "item.spectrum.celestial_pocketwatch.tooltip.use_blocked_fixed_time": "看起来你的天体怀表于这个维度中失灵了",
 
-  "item.spectrum.fetchling_helmet": "勾魂头盔", # new
-  "item.spectrum.ferocious_chestplate": "残暴胸甲", # new
-  "item.spectrum.sylph_leggings": "灵气护腿", # new
-  "item.spectrum.oread_boots": "山川靴子", # new
-  "item.spectrum.fetchling_helmet.tooltip": "给予袭击者虚弱和缓慢的状态效果", # new
-  "item.spectrum.ferocious_chestplate.tooltip": "受击时给予伤害吸收和瞬间治疗的状态效果", # new
-  "item.spectrum.sylph_leggings.tooltip": "受击时给予生命恢复的状态效果", # new
-  "item.spectrum.oread_boots.tooltip": "受击时给予隐身和迅捷的状态效果", # new
+  "item.spectrum.fetchling_helmet": "勾魂头盔",
+  "item.spectrum.ferocious_chestplate": "残暴胸甲",
+  "item.spectrum.sylph_leggings": "灵气护腿",
+  "item.spectrum.oread_boots": "山川靴子",
+  "item.spectrum.fetchling_helmet.tooltip": "给予袭击者虚弱和缓慢的状态效果",
+  "item.spectrum.ferocious_chestplate.tooltip": "受击时给予伤害吸收和瞬间治疗的状态效果",
+  "item.spectrum.sylph_leggings.tooltip": "受击时给予生命恢复的状态效果",
+  "item.spectrum.oread_boots.tooltip": "受击时给予隐身和迅捷的状态效果",
 
   "item.spectrum.vibrant_cyan_catkin": "充满活力的青色柔荑花序",
   "item.spectrum.vibrant_magenta_catkin": "充满活力的品红色柔荑花序",
@@ -1602,7 +1603,7 @@
   "item.spectrum.spectral_shard": "七彩碎片",
 
   "item.spectrum.vegetal": "植本质",
-  "item.spectrum.neolith": "坚新石",
+  "item.spectrum.neolith": "新异石",
   "item.spectrum.bedrock_dust": "基岩粉",
   "item.spectrum.midnight_aberration": "午夜像差",
   "item.spectrum.midnight_aberration.tooltip.stable": "§o由神秘力量聚合而成",
@@ -1618,9 +1619,9 @@
   "item.spectrum.bismuth_flake": "铋晶片",
   "item.spectrum.bismuth_crystal": "铋晶",
 
-  "block.spectrum.malachite_ore": "孔雀石矿",
-  "block.spectrum.deepslate_malachite_ore": "深层孔雀石矿",
-  "block.spectrum.downstone_malachite_ore": "覆底石 Malachite矿石",
+  "block.spectrum.malachite_ore": "孔雀石矿石",
+  "block.spectrum.deepslate_malachite_ore": "深层孔雀石矿石",
+  "block.spectrum.downstone_malachite_ore": "覆底孔雀石矿石",
   "item.spectrum.raw_malachite": "孔雀石",
   "block.spectrum.small_malachite_bud": "小孔雀石芽",
   "block.spectrum.large_malachite_bud": "大孔雀石芽",
@@ -1635,304 +1636,304 @@
   "item.spectrum.amethyst_shard_banner_pattern": "旗帜图案",
   "item.spectrum.amethyst_cluster_banner_pattern": "旗帜图案",
 
-  "block.minecraft.banner.spectrum.shimmer.black": "黑色光点", # new
-  "block.minecraft.banner.spectrum.shimmer.red": "红色光点", # new
-  "block.minecraft.banner.spectrum.shimmer.green": "绿色光点", # new
-  "block.minecraft.banner.spectrum.shimmer.brown": "棕色光点", # new
-  "block.minecraft.banner.spectrum.shimmer.blue": "蓝色光点", # new
-  "block.minecraft.banner.spectrum.shimmer.purple": "紫色光点", # new
-  "block.minecraft.banner.spectrum.shimmer.cyan": "青色光点", # new
-  "block.minecraft.banner.spectrum.shimmer.light_gray": "淡灰色光点", # new
-  "block.minecraft.banner.spectrum.shimmer.gray": "灰色光点", # new
-  "block.minecraft.banner.spectrum.shimmer.pink": "粉红色光点", # new
-  "block.minecraft.banner.spectrum.shimmer.lime": "黄绿色光点", # new
-  "block.minecraft.banner.spectrum.shimmer.yellow": "黄色光点", # new
-  "block.minecraft.banner.spectrum.shimmer.light_blue": "淡蓝色光点", # new
-  "block.minecraft.banner.spectrum.shimmer.magenta": "品红色光点", # new
-  "block.minecraft.banner.spectrum.shimmer.orange": "橙色光点", # new
-  "block.minecraft.banner.spectrum.shimmer.white": "白色光点", # new
-  "block.minecraft.banner.spectrum.palette.black": "黑色艺术品", # new
-  "block.minecraft.banner.spectrum.palette.red": "红色艺术品", # new
-  "block.minecraft.banner.spectrum.palette.green": "绿色艺术品", # new
-  "block.minecraft.banner.spectrum.palette.brown": "棕色艺术品", # new
-  "block.minecraft.banner.spectrum.palette.blue": "蓝色艺术品", # new
-  "block.minecraft.banner.spectrum.palette.purple": "紫色艺术品", # new
-  "block.minecraft.banner.spectrum.palette.cyan": "青色艺术品", # new
-  "block.minecraft.banner.spectrum.palette.light_gray": "淡灰色艺术品", # new
-  "block.minecraft.banner.spectrum.palette.gray": "灰色艺术品", # new
-  "block.minecraft.banner.spectrum.palette.pink": "粉红色艺术品", # new
-  "block.minecraft.banner.spectrum.palette.lime": "黄绿色艺术品", # new
-  "block.minecraft.banner.spectrum.palette.yellow": "黄色艺术品", # new
-  "block.minecraft.banner.spectrum.palette.light_blue": "淡蓝色艺术品", # new
-  "block.minecraft.banner.spectrum.palette.magenta": "品红色艺术品", # new
-  "block.minecraft.banner.spectrum.palette.orange": "橙色艺术品", # new
-  "block.minecraft.banner.spectrum.palette.white": "白色艺术品", # new
-  "block.minecraft.banner.spectrum.amethyst_cluster.black": "黑色紫水晶簇", # new
-  "block.minecraft.banner.spectrum.amethyst_cluster.red": "红色紫水晶簇", # new
-  "block.minecraft.banner.spectrum.amethyst_cluster.green": "绿色紫水晶簇", # new
-  "block.minecraft.banner.spectrum.amethyst_cluster.brown": "棕色紫水晶簇", # new
-  "block.minecraft.banner.spectrum.amethyst_cluster.blue": "蓝色紫水晶簇", # new
-  "block.minecraft.banner.spectrum.amethyst_cluster.purple": "紫色紫水晶簇", # new
-  "block.minecraft.banner.spectrum.amethyst_cluster.cyan": "青色紫水晶簇", # new
-  "block.minecraft.banner.spectrum.amethyst_cluster.light_gray": "淡灰色紫水晶簇", # new
-  "block.minecraft.banner.spectrum.amethyst_cluster.gray": "灰色紫水晶簇", # new
-  "block.minecraft.banner.spectrum.amethyst_cluster.pink": "粉红色紫水晶簇", # new
-  "block.minecraft.banner.spectrum.amethyst_cluster.lime": "黄绿色紫水晶簇", # new
-  "block.minecraft.banner.spectrum.amethyst_cluster.yellow": "黄色紫水晶簇", # new
-  "block.minecraft.banner.spectrum.amethyst_cluster.light_blue": "淡蓝色紫水晶簇", # new
-  "block.minecraft.banner.spectrum.amethyst_cluster.magenta": "品红色紫水晶簇", # new
-  "block.minecraft.banner.spectrum.amethyst_cluster.orange": "橙色紫水晶簇", # new
-  "block.minecraft.banner.spectrum.amethyst_cluster.white": "白色紫水晶簇", # new
-  "block.minecraft.banner.spectrum.neolith.black": "黑色新异石", # new
-  "block.minecraft.banner.spectrum.neolith.red": "红色新异石", # new
-  "block.minecraft.banner.spectrum.neolith.green": "绿色新异石", # new
-  "block.minecraft.banner.spectrum.neolith.brown": "棕色新异石", # new
-  "block.minecraft.banner.spectrum.neolith.blue": "蓝色新异石", # new
-  "block.minecraft.banner.spectrum.neolith.purple": "紫色新异石", # new
-  "block.minecraft.banner.spectrum.neolith.cyan": "青色新异石", # new
-  "block.minecraft.banner.spectrum.neolith.light_gray": "淡灰色新异石", # new
-  "block.minecraft.banner.spectrum.neolith.gray": "灰色新异石", # new
-  "block.minecraft.banner.spectrum.neolith.pink": "粉红色新异石", # new
-  "block.minecraft.banner.spectrum.neolith.lime": "黄绿色新异石", # new
-  "block.minecraft.banner.spectrum.neolith.yellow": "黄色新异石", # new
-  "block.minecraft.banner.spectrum.neolith.light_blue": "淡蓝色新异石", # new
-  "block.minecraft.banner.spectrum.neolith.magenta": "品红色新异石", # new
-  "block.minecraft.banner.spectrum.neolith.orange": "橙色新异石", # new
-  "block.minecraft.banner.spectrum.neolith.white": "白色新异石", # new
-  "block.minecraft.banner.spectrum.pigment.black": "黑色颜料", # new
-  "block.minecraft.banner.spectrum.pigment.red": "红色颜料", # new
-  "block.minecraft.banner.spectrum.pigment.green": "绿色颜料", # new
-  "block.minecraft.banner.spectrum.pigment.brown": "棕色颜料", # new
-  "block.minecraft.banner.spectrum.pigment.blue": "蓝色颜料", # new
-  "block.minecraft.banner.spectrum.pigment.purple": "紫色颜料", # new
-  "block.minecraft.banner.spectrum.pigment.cyan": "青色颜料", # new
-  "block.minecraft.banner.spectrum.pigment.light_gray": "淡灰色颜料", # new
-  "block.minecraft.banner.spectrum.pigment.gray": "灰色颜料", # new
-  "block.minecraft.banner.spectrum.pigment.pink": "粉红色颜料", # new
-  "block.minecraft.banner.spectrum.pigment.lime": "黄绿色颜料", # new
-  "block.minecraft.banner.spectrum.pigment.yellow": "黄色颜料", # new
-  "block.minecraft.banner.spectrum.pigment.light_blue": "淡蓝色颜料", # new
-  "block.minecraft.banner.spectrum.pigment.magenta": "品红色颜料", # new
-  "block.minecraft.banner.spectrum.pigment.orange": "橙色颜料", # new
-  "block.minecraft.banner.spectrum.pigment.white": "白色颜料", # new
-  "block.minecraft.banner.spectrum.knowledge_gem.black": "黑色知识宝石", # new
-  "block.minecraft.banner.spectrum.knowledge_gem.red": "红色知识宝石", # new
-  "block.minecraft.banner.spectrum.knowledge_gem.green": "绿色知识宝石", # new
-  "block.minecraft.banner.spectrum.knowledge_gem.brown": "棕色知识宝石", # new
-  "block.minecraft.banner.spectrum.knowledge_gem.blue": "蓝色知识宝石", # new
-  "block.minecraft.banner.spectrum.knowledge_gem.purple": "紫色知识宝石", # new
-  "block.minecraft.banner.spectrum.knowledge_gem.cyan": "青色知识宝石", # new
-  "block.minecraft.banner.spectrum.knowledge_gem.light_gray": "淡灰色知识宝石", # new
-  "block.minecraft.banner.spectrum.knowledge_gem.gray": "灰色知识宝石", # new
-  "block.minecraft.banner.spectrum.knowledge_gem.pink": "粉红色知识宝石", # new
-  "block.minecraft.banner.spectrum.knowledge_gem.lime": "黄绿色知识宝石", # new
-  "block.minecraft.banner.spectrum.knowledge_gem.yellow": "黄色知识宝石", # new
-  "block.minecraft.banner.spectrum.knowledge_gem.light_blue": "淡蓝色知识宝石", # new
-  "block.minecraft.banner.spectrum.knowledge_gem.magenta": "品红色知识宝石", # new
-  "block.minecraft.banner.spectrum.knowledge_gem.orange": "橙色知识宝石", # new
-  "block.minecraft.banner.spectrum.knowledge_gem.white": "白色知识宝石", # new
-  "block.minecraft.banner.spectrum.vegetal.black": "黑色植素", # new
-  "block.minecraft.banner.spectrum.vegetal.red": "红色植素", # new
-  "block.minecraft.banner.spectrum.vegetal.green": "绿色植素", # new
-  "block.minecraft.banner.spectrum.vegetal.brown": "棕色植素", # new
-  "block.minecraft.banner.spectrum.vegetal.blue": "蓝色植素", # new
-  "block.minecraft.banner.spectrum.vegetal.purple": "紫色植素", # new
-  "block.minecraft.banner.spectrum.vegetal.cyan": "青色植素", # new
-  "block.minecraft.banner.spectrum.vegetal.light_gray": "淡灰色植素", # new
-  "block.minecraft.banner.spectrum.vegetal.gray": "灰色植素", # new
-  "block.minecraft.banner.spectrum.vegetal.pink": "粉红色植素", # new
-  "block.minecraft.banner.spectrum.vegetal.lime": "黄绿色植素", # new
-  "block.minecraft.banner.spectrum.vegetal.yellow": "黄色植素", # new
-  "block.minecraft.banner.spectrum.vegetal.light_blue": "淡蓝色植素", # new
-  "block.minecraft.banner.spectrum.vegetal.magenta": "品红色植素", # new
-  "block.minecraft.banner.spectrum.vegetal.orange": "橙色植素", # new
-  "block.minecraft.banner.spectrum.vegetal.white": "白色植素", # new
-  "block.minecraft.banner.spectrum.logo.black": "黑色颜色理论", # new
-  "block.minecraft.banner.spectrum.logo.red": "红色颜色理论", # new
-  "block.minecraft.banner.spectrum.logo.green": "绿色颜色理论", # new
-  "block.minecraft.banner.spectrum.logo.brown": "棕色颜色理论", # new
-  "block.minecraft.banner.spectrum.logo.blue": "蓝色颜色理论", # new
-  "block.minecraft.banner.spectrum.logo.purple": "紫色颜色理论", # new
-  "block.minecraft.banner.spectrum.logo.cyan": "青色颜色理论", # new
-  "block.minecraft.banner.spectrum.logo.light_gray": "淡灰色颜色理论", # new
-  "block.minecraft.banner.spectrum.logo.gray": "灰色颜色理论", # new
-  "block.minecraft.banner.spectrum.logo.pink": "粉红色颜色理论", # new
-  "block.minecraft.banner.spectrum.logo.lime": "黄绿色颜色理论", # new
-  "block.minecraft.banner.spectrum.logo.yellow": "黄色颜色理论", # new
-  "block.minecraft.banner.spectrum.logo.light_blue": "淡蓝色颜色理论", # new
-  "block.minecraft.banner.spectrum.logo.magenta": "品红色颜色理论", # new
-  "block.minecraft.banner.spectrum.logo.orange": "橙色颜色理论", # new
-  "block.minecraft.banner.spectrum.logo.white": "白色颜色理论", # new
-  "block.minecraft.banner.spectrum.four_leaf_clover.black": "黑色四叶草", # new
-  "block.minecraft.banner.spectrum.four_leaf_clover.red": "红色四叶草", # new
-  "block.minecraft.banner.spectrum.four_leaf_clover.green": "绿色四叶草", # new
-  "block.minecraft.banner.spectrum.four_leaf_clover.brown": "棕色四叶草", # new
-  "block.minecraft.banner.spectrum.four_leaf_clover.blue": "蓝色四叶草", # new
-  "block.minecraft.banner.spectrum.four_leaf_clover.purple": "紫色四叶草", # new
-  "block.minecraft.banner.spectrum.four_leaf_clover.cyan": "青色四叶草", # new
-  "block.minecraft.banner.spectrum.four_leaf_clover.light_gray": "淡灰色四叶草", # new
-  "block.minecraft.banner.spectrum.four_leaf_clover.gray": "灰色四叶草", # new
-  "block.minecraft.banner.spectrum.four_leaf_clover.pink": "粉红色四叶草", # new
-  "block.minecraft.banner.spectrum.four_leaf_clover.lime": "黄绿色四叶草", # new
-  "block.minecraft.banner.spectrum.four_leaf_clover.yellow": "黄色四叶草", # new
-  "block.minecraft.banner.spectrum.four_leaf_clover.light_blue": "淡蓝色四叶草", # new
-  "block.minecraft.banner.spectrum.four_leaf_clover.magenta": "品红色四叶草", # new
-  "block.minecraft.banner.spectrum.four_leaf_clover.orange": "橙色四叶草", # new
-  "block.minecraft.banner.spectrum.four_leaf_clover.white": "白色四叶草", # new
-  "block.minecraft.banner.spectrum.multitool.black": "黑色多功能工具", # new
-  "block.minecraft.banner.spectrum.multitool.red": "红色多功能工具", # new
-  "block.minecraft.banner.spectrum.multitool.green": "绿色多功能工具", # new
-  "block.minecraft.banner.spectrum.multitool.brown": "棕色多功能工具", # new
-  "block.minecraft.banner.spectrum.multitool.blue": "蓝色多功能工具", # new
-  "block.minecraft.banner.spectrum.multitool.purple": "紫色多功能工具", # new
-  "block.minecraft.banner.spectrum.multitool.cyan": "青色多功能工具", # new
-  "block.minecraft.banner.spectrum.multitool.light_gray": "淡灰色多功能工具", # new
-  "block.minecraft.banner.spectrum.multitool.gray": "灰色多功能工具", # new
-  "block.minecraft.banner.spectrum.multitool.pink": "粉红色多功能工具", # new
-  "block.minecraft.banner.spectrum.multitool.lime": "黄绿色多功能工具", # new
-  "block.minecraft.banner.spectrum.multitool.yellow": "黄色多功能工具", # new
-  "block.minecraft.banner.spectrum.multitool.light_blue": "淡蓝色多功能工具", # new
-  "block.minecraft.banner.spectrum.multitool.magenta": "品红色多功能工具", # new
-  "block.minecraft.banner.spectrum.multitool.orange": "橙色多功能工具", # new
-  "block.minecraft.banner.spectrum.multitool.white": "白色多功能工具", # new
-  "block.minecraft.banner.spectrum.guidebook.black": "黑色七彩世界", # new
-  "block.minecraft.banner.spectrum.guidebook.red": "红色七彩世界", # new
-  "block.minecraft.banner.spectrum.guidebook.green": "绿色七彩世界", # new
-  "block.minecraft.banner.spectrum.guidebook.brown": "棕色七彩世界", # new
-  "block.minecraft.banner.spectrum.guidebook.blue": "蓝色七彩世界", # new
-  "block.minecraft.banner.spectrum.guidebook.purple": "紫色七彩世界", # new
-  "block.minecraft.banner.spectrum.guidebook.cyan": "青色七彩世界", # new
-  "block.minecraft.banner.spectrum.guidebook.light_gray": "淡灰色七彩世界", # new
-  "block.minecraft.banner.spectrum.guidebook.gray": "灰色七彩世界", # new
-  "block.minecraft.banner.spectrum.guidebook.pink": "粉红色七彩世界", # new
-  "block.minecraft.banner.spectrum.guidebook.lime": "黄绿色七彩世界", # new
-  "block.minecraft.banner.spectrum.guidebook.yellow": "黄色七彩世界", # new
-  "block.minecraft.banner.spectrum.guidebook.light_blue": "淡蓝色七彩世界", # new
-  "block.minecraft.banner.spectrum.guidebook.magenta": "品红色七彩世界", # new
-  "block.minecraft.banner.spectrum.guidebook.orange": "橙色七彩世界", # new
-  "block.minecraft.banner.spectrum.guidebook.white": "白色七彩世界", # new
-  "block.minecraft.banner.spectrum.crafting_tablet.black": "黑色合成模板", # new
-  "block.minecraft.banner.spectrum.crafting_tablet.red": "红色合成模板", # new
-  "block.minecraft.banner.spectrum.crafting_tablet.green": "绿色合成模板", # new
-  "block.minecraft.banner.spectrum.crafting_tablet.brown": "棕色合成模板", # new
-  "block.minecraft.banner.spectrum.crafting_tablet.blue": "蓝色合成模板", # new
-  "block.minecraft.banner.spectrum.crafting_tablet.purple": "紫色合成模板", # new
-  "block.minecraft.banner.spectrum.crafting_tablet.cyan": "青色合成模板", # new
-  "block.minecraft.banner.spectrum.crafting_tablet.light_gray": "淡灰色合成模板", # new
-  "block.minecraft.banner.spectrum.crafting_tablet.gray": "灰色合成模板", # new
-  "block.minecraft.banner.spectrum.crafting_tablet.pink": "粉红色合成模板", # new
-  "block.minecraft.banner.spectrum.crafting_tablet.lime": "黄绿色合成模板", # new
-  "block.minecraft.banner.spectrum.crafting_tablet.yellow": "黄色合成模板", # new
-  "block.minecraft.banner.spectrum.crafting_tablet.light_blue": "淡蓝色合成模板", # new
-  "block.minecraft.banner.spectrum.crafting_tablet.magenta": "品红色合成模板", # new
-  "block.minecraft.banner.spectrum.crafting_tablet.orange": "橙色合成模板", # new
-  "block.minecraft.banner.spectrum.crafting_tablet.white": "白色合成模板", # new
-  "block.minecraft.banner.spectrum.ink_flask.black": "黑色墨水瓶", # new
-  "block.minecraft.banner.spectrum.ink_flask.red": "红色墨水瓶", # new
-  "block.minecraft.banner.spectrum.ink_flask.green": "绿色墨水瓶", # new
-  "block.minecraft.banner.spectrum.ink_flask.brown": "棕色墨水瓶", # new
-  "block.minecraft.banner.spectrum.ink_flask.blue": "蓝色墨水瓶", # new
-  "block.minecraft.banner.spectrum.ink_flask.purple": "紫色墨水瓶", # new
-  "block.minecraft.banner.spectrum.ink_flask.cyan": "青色墨水瓶", # new
-  "block.minecraft.banner.spectrum.ink_flask.light_gray": "淡灰色墨水瓶", # new
-  "block.minecraft.banner.spectrum.ink_flask.gray": "灰色墨水瓶", # new
-  "block.minecraft.banner.spectrum.ink_flask.pink": "粉红色墨水瓶", # new
-  "block.minecraft.banner.spectrum.ink_flask.lime": "黄绿色墨水瓶", # new
-  "block.minecraft.banner.spectrum.ink_flask.yellow": "黄色墨水瓶", # new
-  "block.minecraft.banner.spectrum.ink_flask.light_blue": "淡蓝色墨水瓶", # new
-  "block.minecraft.banner.spectrum.ink_flask.magenta": "品红色墨水瓶", # new
-  "block.minecraft.banner.spectrum.ink_flask.orange": "橙色墨水瓶", # new
-  "block.minecraft.banner.spectrum.ink_flask.white": "白色墨水瓶", # new
-  "block.minecraft.banner.spectrum.amethyst_shard.black": "黑色紫水晶碎片", # new
-  "block.minecraft.banner.spectrum.amethyst_shard.red": "红色紫水晶碎片", # new
-  "block.minecraft.banner.spectrum.amethyst_shard.green": "绿色紫水晶碎片", # new
-  "block.minecraft.banner.spectrum.amethyst_shard.brown": "棕色紫水晶碎片", # new
-  "block.minecraft.banner.spectrum.amethyst_shard.blue": "蓝色紫水晶碎片", # new
-  "block.minecraft.banner.spectrum.amethyst_shard.purple": "紫色紫水晶碎片", # new
-  "block.minecraft.banner.spectrum.amethyst_shard.cyan": "青色紫水晶碎片", # new
-  "block.minecraft.banner.spectrum.amethyst_shard.light_gray": "淡灰色紫水晶碎片", # new
-  "block.minecraft.banner.spectrum.amethyst_shard.gray": "灰色紫水晶碎片", # new
-  "block.minecraft.banner.spectrum.amethyst_shard.pink": "粉红色紫水晶碎片", # new
-  "block.minecraft.banner.spectrum.amethyst_shard.lime": "黄绿色紫水晶碎片", # new
-  "block.minecraft.banner.spectrum.amethyst_shard.yellow": "黄色紫水晶碎片", # new
-  "block.minecraft.banner.spectrum.amethyst_shard.light_blue": "淡蓝色紫水晶碎片", # new
-  "block.minecraft.banner.spectrum.amethyst_shard.magenta": "品红色紫水晶碎片", # new
-  "block.minecraft.banner.spectrum.amethyst_shard.orange": "橙色紫水晶碎片", # new
-  "block.minecraft.banner.spectrum.amethyst_shard.white": "白色紫水晶碎片", # new
-  "block.minecraft.banner.spectrum.raw_azurite.black": "黑色石青", # new
-  "block.minecraft.banner.spectrum.raw_azurite.red": "红色石青", # new
-  "block.minecraft.banner.spectrum.raw_azurite.green": "绿色石青", # new
-  "block.minecraft.banner.spectrum.raw_azurite.brown": "棕色石青", # new
-  "block.minecraft.banner.spectrum.raw_azurite.blue": "蓝色石青", # new
-  "block.minecraft.banner.spectrum.raw_azurite.purple": "紫色石青", # new
-  "block.minecraft.banner.spectrum.raw_azurite.cyan": "青色石青", # new
-  "block.minecraft.banner.spectrum.raw_azurite.light_gray": "淡灰色石青", # new
-  "block.minecraft.banner.spectrum.raw_azurite.gray": "灰色石青", # new
-  "block.minecraft.banner.spectrum.raw_azurite.pink": "粉红色石青", # new
-  "block.minecraft.banner.spectrum.raw_azurite.lime": "黄绿色石青", # new
-  "block.minecraft.banner.spectrum.raw_azurite.yellow": "黄色石青", # new
-  "block.minecraft.banner.spectrum.raw_azurite.light_blue": "淡蓝色石青", # new
-  "block.minecraft.banner.spectrum.raw_azurite.magenta": "品红色石青", # new
-  "block.minecraft.banner.spectrum.raw_azurite.orange": "橙色石青", # new
-  "block.minecraft.banner.spectrum.raw_azurite.white": "白色石青", # new
-  "block.minecraft.banner.spectrum.bedrock_dust.black": "黑色基岩粉", # new
-  "block.minecraft.banner.spectrum.bedrock_dust.red": "红色基岩粉", # new
-  "block.minecraft.banner.spectrum.bedrock_dust.green": "绿色基岩粉", # new
-  "block.minecraft.banner.spectrum.bedrock_dust.brown": "棕色基岩粉", # new
-  "block.minecraft.banner.spectrum.bedrock_dust.blue": "蓝色基岩粉", # new
-  "block.minecraft.banner.spectrum.bedrock_dust.purple": "紫色基岩粉", # new
-  "block.minecraft.banner.spectrum.bedrock_dust.cyan": "青色基岩粉", # new
-  "block.minecraft.banner.spectrum.bedrock_dust.light_gray": "淡灰色基岩粉", # new
-  "block.minecraft.banner.spectrum.bedrock_dust.gray": "灰色基岩粉", # new
-  "block.minecraft.banner.spectrum.bedrock_dust.pink": "粉红色基岩粉", # new
-  "block.minecraft.banner.spectrum.bedrock_dust.lime": "黄绿色基岩粉", # new
-  "block.minecraft.banner.spectrum.bedrock_dust.yellow": "黄色基岩粉", # new
-  "block.minecraft.banner.spectrum.bedrock_dust.light_blue": "淡蓝色基岩粉", # new
-  "block.minecraft.banner.spectrum.bedrock_dust.magenta": "品红色基岩粉", # new
-  "block.minecraft.banner.spectrum.bedrock_dust.orange": "橙色基岩粉", # new
-  "block.minecraft.banner.spectrum.bedrock_dust.white": "白色基岩粉", # new
-  "block.minecraft.banner.spectrum.shimmerstone.black": "黑色闪光石", # new
-  "block.minecraft.banner.spectrum.shimmerstone.red": "红色闪光石", # new
-  "block.minecraft.banner.spectrum.shimmerstone.green": "绿色闪光石", # new
-  "block.minecraft.banner.spectrum.shimmerstone.brown": "棕色闪光石", # new
-  "block.minecraft.banner.spectrum.shimmerstone.blue": "蓝色闪光石", # new
-  "block.minecraft.banner.spectrum.shimmerstone.purple": "紫色闪光石", # new
-  "block.minecraft.banner.spectrum.shimmerstone.cyan": "青色闪光石", # new
-  "block.minecraft.banner.spectrum.shimmerstone.light_gray": "淡灰色闪光石", # new
-  "block.minecraft.banner.spectrum.shimmerstone.gray": "灰色闪光石", # new
-  "block.minecraft.banner.spectrum.shimmerstone.pink": "粉红色闪光石", # new
-  "block.minecraft.banner.spectrum.shimmerstone.lime": "黄绿色闪光石", # new
-  "block.minecraft.banner.spectrum.shimmerstone.yellow": "黄色闪光石", # new
-  "block.minecraft.banner.spectrum.shimmerstone.light_blue": "淡蓝色闪光石", # new
-  "block.minecraft.banner.spectrum.shimmerstone.magenta": "品红色闪光石", # new
-  "block.minecraft.banner.spectrum.shimmerstone.orange": "橙色闪光石", # new
-  "block.minecraft.banner.spectrum.shimmerstone.white": "白色闪光石", # new
-  "block.minecraft.banner.spectrum.jade_vine.black": "黑色玉藤", # new
-  "block.minecraft.banner.spectrum.jade_vine.red": "红色玉藤", # new
-  "block.minecraft.banner.spectrum.jade_vine.green": "绿色玉藤", # new
-  "block.minecraft.banner.spectrum.jade_vine.brown": "棕色玉藤", # new
-  "block.minecraft.banner.spectrum.jade_vine.blue": "蓝色玉藤", # new
-  "block.minecraft.banner.spectrum.jade_vine.purple": "紫色玉藤", # new
-  "block.minecraft.banner.spectrum.jade_vine.cyan": "青色玉藤", # new
-  "block.minecraft.banner.spectrum.jade_vine.light_gray": "淡灰色玉藤", # new
-  "block.minecraft.banner.spectrum.jade_vine.gray": "灰色玉藤", # new
-  "block.minecraft.banner.spectrum.jade_vine.pink": "粉红色玉藤", # new
-  "block.minecraft.banner.spectrum.jade_vine.lime": "黄绿色玉藤", # new
-  "block.minecraft.banner.spectrum.jade_vine.yellow": "黄色玉藤", # new
-  "block.minecraft.banner.spectrum.jade_vine.light_blue": "淡蓝色玉藤", # new
-  "block.minecraft.banner.spectrum.jade_vine.magenta": "品红色玉藤", # new
-  "block.minecraft.banner.spectrum.jade_vine.orange": "橙色玉藤", # new
-  "block.minecraft.banner.spectrum.jade_vine.white": "白色玉藤", # new
+  "block.minecraft.banner.spectrum.shimmer.black": "黑色光点",
+  "block.minecraft.banner.spectrum.shimmer.red": "红色光点",
+  "block.minecraft.banner.spectrum.shimmer.green": "绿色光点",
+  "block.minecraft.banner.spectrum.shimmer.brown": "棕色光点",
+  "block.minecraft.banner.spectrum.shimmer.blue": "蓝色光点",
+  "block.minecraft.banner.spectrum.shimmer.purple": "紫色光点",
+  "block.minecraft.banner.spectrum.shimmer.cyan": "青色光点",
+  "block.minecraft.banner.spectrum.shimmer.light_gray": "淡灰色光点",
+  "block.minecraft.banner.spectrum.shimmer.gray": "灰色光点",
+  "block.minecraft.banner.spectrum.shimmer.pink": "粉红色光点",
+  "block.minecraft.banner.spectrum.shimmer.lime": "黄绿色光点",
+  "block.minecraft.banner.spectrum.shimmer.yellow": "黄色光点",
+  "block.minecraft.banner.spectrum.shimmer.light_blue": "淡蓝色光点",
+  "block.minecraft.banner.spectrum.shimmer.magenta": "品红色光点",
+  "block.minecraft.banner.spectrum.shimmer.orange": "橙色光点",
+  "block.minecraft.banner.spectrum.shimmer.white": "白色光点",
+  "block.minecraft.banner.spectrum.palette.black": "黑色艺术品",
+  "block.minecraft.banner.spectrum.palette.red": "红色艺术品",
+  "block.minecraft.banner.spectrum.palette.green": "绿色艺术品",
+  "block.minecraft.banner.spectrum.palette.brown": "棕色艺术品",
+  "block.minecraft.banner.spectrum.palette.blue": "蓝色艺术品",
+  "block.minecraft.banner.spectrum.palette.purple": "紫色艺术品",
+  "block.minecraft.banner.spectrum.palette.cyan": "青色艺术品",
+  "block.minecraft.banner.spectrum.palette.light_gray": "淡灰色艺术品",
+  "block.minecraft.banner.spectrum.palette.gray": "灰色艺术品",
+  "block.minecraft.banner.spectrum.palette.pink": "粉红色艺术品",
+  "block.minecraft.banner.spectrum.palette.lime": "黄绿色艺术品",
+  "block.minecraft.banner.spectrum.palette.yellow": "黄色艺术品",
+  "block.minecraft.banner.spectrum.palette.light_blue": "淡蓝色艺术品",
+  "block.minecraft.banner.spectrum.palette.magenta": "品红色艺术品",
+  "block.minecraft.banner.spectrum.palette.orange": "橙色艺术品",
+  "block.minecraft.banner.spectrum.palette.white": "白色艺术品",
+  "block.minecraft.banner.spectrum.amethyst_cluster.black": "黑色紫水晶簇图案",
+  "block.minecraft.banner.spectrum.amethyst_cluster.red": "红色紫水晶簇图案",
+  "block.minecraft.banner.spectrum.amethyst_cluster.green": "绿色紫水晶簇图案",
+  "block.minecraft.banner.spectrum.amethyst_cluster.brown": "棕色紫水晶簇图案",
+  "block.minecraft.banner.spectrum.amethyst_cluster.blue": "蓝色紫水晶簇图案",
+  "block.minecraft.banner.spectrum.amethyst_cluster.purple": "紫色紫水晶簇图案",
+  "block.minecraft.banner.spectrum.amethyst_cluster.cyan": "青色紫水晶簇图案",
+  "block.minecraft.banner.spectrum.amethyst_cluster.light_gray": "淡灰色紫水晶簇图案",
+  "block.minecraft.banner.spectrum.amethyst_cluster.gray": "灰色紫水晶簇图案",
+  "block.minecraft.banner.spectrum.amethyst_cluster.pink": "粉红色紫水晶簇图案",
+  "block.minecraft.banner.spectrum.amethyst_cluster.lime": "黄绿色紫水晶簇图案",
+  "block.minecraft.banner.spectrum.amethyst_cluster.yellow": "黄色紫水晶簇图案",
+  "block.minecraft.banner.spectrum.amethyst_cluster.light_blue": "淡蓝色紫水晶簇图案",
+  "block.minecraft.banner.spectrum.amethyst_cluster.magenta": "品红色紫水晶簇图案",
+  "block.minecraft.banner.spectrum.amethyst_cluster.orange": "橙色紫水晶簇图案",
+  "block.minecraft.banner.spectrum.amethyst_cluster.white": "白色紫水晶簇图案",
+  "block.minecraft.banner.spectrum.neolith.black": "黑色新异石",
+  "block.minecraft.banner.spectrum.neolith.red": "红色新异石",
+  "block.minecraft.banner.spectrum.neolith.green": "绿色新异石",
+  "block.minecraft.banner.spectrum.neolith.brown": "棕色新异石",
+  "block.minecraft.banner.spectrum.neolith.blue": "蓝色新异石",
+  "block.minecraft.banner.spectrum.neolith.purple": "紫色新异石",
+  "block.minecraft.banner.spectrum.neolith.cyan": "青色新异石",
+  "block.minecraft.banner.spectrum.neolith.light_gray": "淡灰色新异石",
+  "block.minecraft.banner.spectrum.neolith.gray": "灰色新异石",
+  "block.minecraft.banner.spectrum.neolith.pink": "粉红色新异石",
+  "block.minecraft.banner.spectrum.neolith.lime": "黄绿色新异石",
+  "block.minecraft.banner.spectrum.neolith.yellow": "黄色新异石",
+  "block.minecraft.banner.spectrum.neolith.light_blue": "淡蓝色新异石",
+  "block.minecraft.banner.spectrum.neolith.magenta": "品红色新异石",
+  "block.minecraft.banner.spectrum.neolith.orange": "橙色新异石",
+  "block.minecraft.banner.spectrum.neolith.white": "白色新异石",
+  "block.minecraft.banner.spectrum.pigment.black": "黑色颜料",
+  "block.minecraft.banner.spectrum.pigment.red": "红色颜料",
+  "block.minecraft.banner.spectrum.pigment.green": "绿色颜料",
+  "block.minecraft.banner.spectrum.pigment.brown": "棕色颜料",
+  "block.minecraft.banner.spectrum.pigment.blue": "蓝色颜料",
+  "block.minecraft.banner.spectrum.pigment.purple": "紫色颜料",
+  "block.minecraft.banner.spectrum.pigment.cyan": "青色颜料",
+  "block.minecraft.banner.spectrum.pigment.light_gray": "淡灰色颜料",
+  "block.minecraft.banner.spectrum.pigment.gray": "灰色颜料",
+  "block.minecraft.banner.spectrum.pigment.pink": "粉红色颜料",
+  "block.minecraft.banner.spectrum.pigment.lime": "黄绿色颜料",
+  "block.minecraft.banner.spectrum.pigment.yellow": "黄色颜料",
+  "block.minecraft.banner.spectrum.pigment.light_blue": "淡蓝色颜料",
+  "block.minecraft.banner.spectrum.pigment.magenta": "品红色颜料",
+  "block.minecraft.banner.spectrum.pigment.orange": "橙色颜料",
+  "block.minecraft.banner.spectrum.pigment.white": "白色颜料",
+  "block.minecraft.banner.spectrum.knowledge_gem.black": "黑色知识宝石",
+  "block.minecraft.banner.spectrum.knowledge_gem.red": "红色知识宝石",
+  "block.minecraft.banner.spectrum.knowledge_gem.green": "绿色知识宝石",
+  "block.minecraft.banner.spectrum.knowledge_gem.brown": "棕色知识宝石",
+  "block.minecraft.banner.spectrum.knowledge_gem.blue": "蓝色知识宝石",
+  "block.minecraft.banner.spectrum.knowledge_gem.purple": "紫色知识宝石",
+  "block.minecraft.banner.spectrum.knowledge_gem.cyan": "青色知识宝石",
+  "block.minecraft.banner.spectrum.knowledge_gem.light_gray": "淡灰色知识宝石",
+  "block.minecraft.banner.spectrum.knowledge_gem.gray": "灰色知识宝石",
+  "block.minecraft.banner.spectrum.knowledge_gem.pink": "粉红色知识宝石",
+  "block.minecraft.banner.spectrum.knowledge_gem.lime": "黄绿色知识宝石",
+  "block.minecraft.banner.spectrum.knowledge_gem.yellow": "黄色知识宝石",
+  "block.minecraft.banner.spectrum.knowledge_gem.light_blue": "淡蓝色知识宝石",
+  "block.minecraft.banner.spectrum.knowledge_gem.magenta": "品红色知识宝石",
+  "block.minecraft.banner.spectrum.knowledge_gem.orange": "橙色知识宝石",
+  "block.minecraft.banner.spectrum.knowledge_gem.white": "白色知识宝石",
+  "block.minecraft.banner.spectrum.vegetal.black": "黑色植素",
+  "block.minecraft.banner.spectrum.vegetal.red": "红色植素",
+  "block.minecraft.banner.spectrum.vegetal.green": "绿色植素",
+  "block.minecraft.banner.spectrum.vegetal.brown": "棕色植素",
+  "block.minecraft.banner.spectrum.vegetal.blue": "蓝色植素",
+  "block.minecraft.banner.spectrum.vegetal.purple": "紫色植素",
+  "block.minecraft.banner.spectrum.vegetal.cyan": "青色植素",
+  "block.minecraft.banner.spectrum.vegetal.light_gray": "淡灰色植素",
+  "block.minecraft.banner.spectrum.vegetal.gray": "灰色植素",
+  "block.minecraft.banner.spectrum.vegetal.pink": "粉红色植素",
+  "block.minecraft.banner.spectrum.vegetal.lime": "黄绿色植素",
+  "block.minecraft.banner.spectrum.vegetal.yellow": "黄色植素",
+  "block.minecraft.banner.spectrum.vegetal.light_blue": "淡蓝色植素",
+  "block.minecraft.banner.spectrum.vegetal.magenta": "品红色植素",
+  "block.minecraft.banner.spectrum.vegetal.orange": "橙色植素",
+  "block.minecraft.banner.spectrum.vegetal.white": "白色植素",
+  "block.minecraft.banner.spectrum.logo.black": "黑色颜色理论",
+  "block.minecraft.banner.spectrum.logo.red": "红色颜色理论",
+  "block.minecraft.banner.spectrum.logo.green": "绿色颜色理论",
+  "block.minecraft.banner.spectrum.logo.brown": "棕色颜色理论",
+  "block.minecraft.banner.spectrum.logo.blue": "蓝色颜色理论",
+  "block.minecraft.banner.spectrum.logo.purple": "紫色颜色理论",
+  "block.minecraft.banner.spectrum.logo.cyan": "青色颜色理论",
+  "block.minecraft.banner.spectrum.logo.light_gray": "淡灰色颜色理论",
+  "block.minecraft.banner.spectrum.logo.gray": "灰色颜色理论",
+  "block.minecraft.banner.spectrum.logo.pink": "粉红色颜色理论",
+  "block.minecraft.banner.spectrum.logo.lime": "黄绿色颜色理论",
+  "block.minecraft.banner.spectrum.logo.yellow": "黄色颜色理论",
+  "block.minecraft.banner.spectrum.logo.light_blue": "淡蓝色颜色理论",
+  "block.minecraft.banner.spectrum.logo.magenta": "品红色颜色理论",
+  "block.minecraft.banner.spectrum.logo.orange": "橙色颜色理论",
+  "block.minecraft.banner.spectrum.logo.white": "白色颜色理论",
+  "block.minecraft.banner.spectrum.four_leaf_clover.black": "黑色四叶草",
+  "block.minecraft.banner.spectrum.four_leaf_clover.red": "红色四叶草",
+  "block.minecraft.banner.spectrum.four_leaf_clover.green": "绿色四叶草",
+  "block.minecraft.banner.spectrum.four_leaf_clover.brown": "棕色四叶草",
+  "block.minecraft.banner.spectrum.four_leaf_clover.blue": "蓝色四叶草",
+  "block.minecraft.banner.spectrum.four_leaf_clover.purple": "紫色四叶草",
+  "block.minecraft.banner.spectrum.four_leaf_clover.cyan": "青色四叶草",
+  "block.minecraft.banner.spectrum.four_leaf_clover.light_gray": "淡灰色四叶草",
+  "block.minecraft.banner.spectrum.four_leaf_clover.gray": "灰色四叶草",
+  "block.minecraft.banner.spectrum.four_leaf_clover.pink": "粉红色四叶草",
+  "block.minecraft.banner.spectrum.four_leaf_clover.lime": "黄绿色四叶草",
+  "block.minecraft.banner.spectrum.four_leaf_clover.yellow": "黄色四叶草",
+  "block.minecraft.banner.spectrum.four_leaf_clover.light_blue": "淡蓝色四叶草",
+  "block.minecraft.banner.spectrum.four_leaf_clover.magenta": "品红色四叶草",
+  "block.minecraft.banner.spectrum.four_leaf_clover.orange": "橙色四叶草",
+  "block.minecraft.banner.spectrum.four_leaf_clover.white": "白色四叶草",
+  "block.minecraft.banner.spectrum.multitool.black": "黑色多功能工具",
+  "block.minecraft.banner.spectrum.multitool.red": "红色多功能工具",
+  "block.minecraft.banner.spectrum.multitool.green": "绿色多功能工具",
+  "block.minecraft.banner.spectrum.multitool.brown": "棕色多功能工具",
+  "block.minecraft.banner.spectrum.multitool.blue": "蓝色多功能工具",
+  "block.minecraft.banner.spectrum.multitool.purple": "紫色多功能工具",
+  "block.minecraft.banner.spectrum.multitool.cyan": "青色多功能工具",
+  "block.minecraft.banner.spectrum.multitool.light_gray": "淡灰色多功能工具",
+  "block.minecraft.banner.spectrum.multitool.gray": "灰色多功能工具",
+  "block.minecraft.banner.spectrum.multitool.pink": "粉红色多功能工具",
+  "block.minecraft.banner.spectrum.multitool.lime": "黄绿色多功能工具",
+  "block.minecraft.banner.spectrum.multitool.yellow": "黄色多功能工具",
+  "block.minecraft.banner.spectrum.multitool.light_blue": "淡蓝色多功能工具",
+  "block.minecraft.banner.spectrum.multitool.magenta": "品红色多功能工具",
+  "block.minecraft.banner.spectrum.multitool.orange": "橙色多功能工具",
+  "block.minecraft.banner.spectrum.multitool.white": "白色多功能工具",
+  "block.minecraft.banner.spectrum.guidebook.black": "黑色七彩世界",
+  "block.minecraft.banner.spectrum.guidebook.red": "红色七彩世界",
+  "block.minecraft.banner.spectrum.guidebook.green": "绿色七彩世界",
+  "block.minecraft.banner.spectrum.guidebook.brown": "棕色七彩世界",
+  "block.minecraft.banner.spectrum.guidebook.blue": "蓝色七彩世界",
+  "block.minecraft.banner.spectrum.guidebook.purple": "紫色七彩世界",
+  "block.minecraft.banner.spectrum.guidebook.cyan": "青色七彩世界",
+  "block.minecraft.banner.spectrum.guidebook.light_gray": "淡灰色七彩世界",
+  "block.minecraft.banner.spectrum.guidebook.gray": "灰色七彩世界",
+  "block.minecraft.banner.spectrum.guidebook.pink": "粉红色七彩世界",
+  "block.minecraft.banner.spectrum.guidebook.lime": "黄绿色七彩世界",
+  "block.minecraft.banner.spectrum.guidebook.yellow": "黄色七彩世界",
+  "block.minecraft.banner.spectrum.guidebook.light_blue": "淡蓝色七彩世界",
+  "block.minecraft.banner.spectrum.guidebook.magenta": "品红色七彩世界",
+  "block.minecraft.banner.spectrum.guidebook.orange": "橙色七彩世界",
+  "block.minecraft.banner.spectrum.guidebook.white": "白色七彩世界",
+  "block.minecraft.banner.spectrum.crafting_tablet.black": "黑色合成模板",
+  "block.minecraft.banner.spectrum.crafting_tablet.red": "红色合成模板",
+  "block.minecraft.banner.spectrum.crafting_tablet.green": "绿色合成模板",
+  "block.minecraft.banner.spectrum.crafting_tablet.brown": "棕色合成模板",
+  "block.minecraft.banner.spectrum.crafting_tablet.blue": "蓝色合成模板",
+  "block.minecraft.banner.spectrum.crafting_tablet.purple": "紫色合成模板",
+  "block.minecraft.banner.spectrum.crafting_tablet.cyan": "青色合成模板",
+  "block.minecraft.banner.spectrum.crafting_tablet.light_gray": "淡灰色合成模板",
+  "block.minecraft.banner.spectrum.crafting_tablet.gray": "灰色合成模板",
+  "block.minecraft.banner.spectrum.crafting_tablet.pink": "粉红色合成模板",
+  "block.minecraft.banner.spectrum.crafting_tablet.lime": "黄绿色合成模板",
+  "block.minecraft.banner.spectrum.crafting_tablet.yellow": "黄色合成模板",
+  "block.minecraft.banner.spectrum.crafting_tablet.light_blue": "淡蓝色合成模板",
+  "block.minecraft.banner.spectrum.crafting_tablet.magenta": "品红色合成模板",
+  "block.minecraft.banner.spectrum.crafting_tablet.orange": "橙色合成模板",
+  "block.minecraft.banner.spectrum.crafting_tablet.white": "白色合成模板",
+  "block.minecraft.banner.spectrum.ink_flask.black": "黑色墨水瓶",
+  "block.minecraft.banner.spectrum.ink_flask.red": "红色墨水瓶",
+  "block.minecraft.banner.spectrum.ink_flask.green": "绿色墨水瓶",
+  "block.minecraft.banner.spectrum.ink_flask.brown": "棕色墨水瓶",
+  "block.minecraft.banner.spectrum.ink_flask.blue": "蓝色墨水瓶",
+  "block.minecraft.banner.spectrum.ink_flask.purple": "紫色墨水瓶",
+  "block.minecraft.banner.spectrum.ink_flask.cyan": "青色墨水瓶",
+  "block.minecraft.banner.spectrum.ink_flask.light_gray": "淡灰色墨水瓶",
+  "block.minecraft.banner.spectrum.ink_flask.gray": "灰色墨水瓶",
+  "block.minecraft.banner.spectrum.ink_flask.pink": "粉红色墨水瓶",
+  "block.minecraft.banner.spectrum.ink_flask.lime": "黄绿色墨水瓶",
+  "block.minecraft.banner.spectrum.ink_flask.yellow": "黄色墨水瓶",
+  "block.minecraft.banner.spectrum.ink_flask.light_blue": "淡蓝色墨水瓶",
+  "block.minecraft.banner.spectrum.ink_flask.magenta": "品红色墨水瓶",
+  "block.minecraft.banner.spectrum.ink_flask.orange": "橙色墨水瓶",
+  "block.minecraft.banner.spectrum.ink_flask.white": "白色墨水瓶",
+  "block.minecraft.banner.spectrum.amethyst_shard.black": "黑色紫水晶碎片",
+  "block.minecraft.banner.spectrum.amethyst_shard.red": "红色紫水晶碎片",
+  "block.minecraft.banner.spectrum.amethyst_shard.green": "绿色紫水晶碎片",
+  "block.minecraft.banner.spectrum.amethyst_shard.brown": "棕色紫水晶碎片",
+  "block.minecraft.banner.spectrum.amethyst_shard.blue": "蓝色紫水晶碎片",
+  "block.minecraft.banner.spectrum.amethyst_shard.purple": "紫色紫水晶碎片",
+  "block.minecraft.banner.spectrum.amethyst_shard.cyan": "青色紫水晶碎片",
+  "block.minecraft.banner.spectrum.amethyst_shard.light_gray": "淡灰色紫水晶碎片",
+  "block.minecraft.banner.spectrum.amethyst_shard.gray": "灰色紫水晶碎片",
+  "block.minecraft.banner.spectrum.amethyst_shard.pink": "粉红色紫水晶碎片",
+  "block.minecraft.banner.spectrum.amethyst_shard.lime": "黄绿色紫水晶碎片",
+  "block.minecraft.banner.spectrum.amethyst_shard.yellow": "黄色紫水晶碎片",
+  "block.minecraft.banner.spectrum.amethyst_shard.light_blue": "淡蓝色紫水晶碎片",
+  "block.minecraft.banner.spectrum.amethyst_shard.magenta": "品红色紫水晶碎片",
+  "block.minecraft.banner.spectrum.amethyst_shard.orange": "橙色紫水晶碎片",
+  "block.minecraft.banner.spectrum.amethyst_shard.white": "白色紫水晶碎片",
+  "block.minecraft.banner.spectrum.raw_azurite.black": "黑色石青",
+  "block.minecraft.banner.spectrum.raw_azurite.red": "红色石青",
+  "block.minecraft.banner.spectrum.raw_azurite.green": "绿色石青",
+  "block.minecraft.banner.spectrum.raw_azurite.brown": "棕色石青",
+  "block.minecraft.banner.spectrum.raw_azurite.blue": "蓝色石青",
+  "block.minecraft.banner.spectrum.raw_azurite.purple": "紫色石青",
+  "block.minecraft.banner.spectrum.raw_azurite.cyan": "青色石青",
+  "block.minecraft.banner.spectrum.raw_azurite.light_gray": "淡灰色石青",
+  "block.minecraft.banner.spectrum.raw_azurite.gray": "灰色石青",
+  "block.minecraft.banner.spectrum.raw_azurite.pink": "粉红色石青",
+  "block.minecraft.banner.spectrum.raw_azurite.lime": "黄绿色石青",
+  "block.minecraft.banner.spectrum.raw_azurite.yellow": "黄色石青",
+  "block.minecraft.banner.spectrum.raw_azurite.light_blue": "淡蓝色石青",
+  "block.minecraft.banner.spectrum.raw_azurite.magenta": "品红色石青",
+  "block.minecraft.banner.spectrum.raw_azurite.orange": "橙色石青",
+  "block.minecraft.banner.spectrum.raw_azurite.white": "白色石青",
+  "block.minecraft.banner.spectrum.bedrock_dust.black": "黑色基岩粉",
+  "block.minecraft.banner.spectrum.bedrock_dust.red": "红色基岩粉",
+  "block.minecraft.banner.spectrum.bedrock_dust.green": "绿色基岩粉",
+  "block.minecraft.banner.spectrum.bedrock_dust.brown": "棕色基岩粉",
+  "block.minecraft.banner.spectrum.bedrock_dust.blue": "蓝色基岩粉",
+  "block.minecraft.banner.spectrum.bedrock_dust.purple": "紫色基岩粉",
+  "block.minecraft.banner.spectrum.bedrock_dust.cyan": "青色基岩粉",
+  "block.minecraft.banner.spectrum.bedrock_dust.light_gray": "淡灰色基岩粉",
+  "block.minecraft.banner.spectrum.bedrock_dust.gray": "灰色基岩粉",
+  "block.minecraft.banner.spectrum.bedrock_dust.pink": "粉红色基岩粉",
+  "block.minecraft.banner.spectrum.bedrock_dust.lime": "黄绿色基岩粉",
+  "block.minecraft.banner.spectrum.bedrock_dust.yellow": "黄色基岩粉",
+  "block.minecraft.banner.spectrum.bedrock_dust.light_blue": "淡蓝色基岩粉",
+  "block.minecraft.banner.spectrum.bedrock_dust.magenta": "品红色基岩粉",
+  "block.minecraft.banner.spectrum.bedrock_dust.orange": "橙色基岩粉",
+  "block.minecraft.banner.spectrum.bedrock_dust.white": "白色基岩粉",
+  "block.minecraft.banner.spectrum.shimmerstone.black": "黑色闪光石",
+  "block.minecraft.banner.spectrum.shimmerstone.red": "红色闪光石",
+  "block.minecraft.banner.spectrum.shimmerstone.green": "绿色闪光石",
+  "block.minecraft.banner.spectrum.shimmerstone.brown": "棕色闪光石",
+  "block.minecraft.banner.spectrum.shimmerstone.blue": "蓝色闪光石",
+  "block.minecraft.banner.spectrum.shimmerstone.purple": "紫色闪光石",
+  "block.minecraft.banner.spectrum.shimmerstone.cyan": "青色闪光石",
+  "block.minecraft.banner.spectrum.shimmerstone.light_gray": "淡灰色闪光石",
+  "block.minecraft.banner.spectrum.shimmerstone.gray": "灰色闪光石",
+  "block.minecraft.banner.spectrum.shimmerstone.pink": "粉红色闪光石",
+  "block.minecraft.banner.spectrum.shimmerstone.lime": "黄绿色闪光石",
+  "block.minecraft.banner.spectrum.shimmerstone.yellow": "黄色闪光石",
+  "block.minecraft.banner.spectrum.shimmerstone.light_blue": "淡蓝色闪光石",
+  "block.minecraft.banner.spectrum.shimmerstone.magenta": "品红色闪光石",
+  "block.minecraft.banner.spectrum.shimmerstone.orange": "橙色闪光石",
+  "block.minecraft.banner.spectrum.shimmerstone.white": "白色闪光石",
+  "block.minecraft.banner.spectrum.jade_vine.black": "黑色玉藤",
+  "block.minecraft.banner.spectrum.jade_vine.red": "红色玉藤",
+  "block.minecraft.banner.spectrum.jade_vine.green": "绿色玉藤",
+  "block.minecraft.banner.spectrum.jade_vine.brown": "棕色玉藤",
+  "block.minecraft.banner.spectrum.jade_vine.blue": "蓝色玉藤",
+  "block.minecraft.banner.spectrum.jade_vine.purple": "紫色玉藤",
+  "block.minecraft.banner.spectrum.jade_vine.cyan": "青色玉藤",
+  "block.minecraft.banner.spectrum.jade_vine.light_gray": "淡灰色玉藤",
+  "block.minecraft.banner.spectrum.jade_vine.gray": "灰色玉藤",
+  "block.minecraft.banner.spectrum.jade_vine.pink": "粉红色玉藤",
+  "block.minecraft.banner.spectrum.jade_vine.lime": "黄绿色玉藤",
+  "block.minecraft.banner.spectrum.jade_vine.yellow": "黄色玉藤",
+  "block.minecraft.banner.spectrum.jade_vine.light_blue": "淡蓝色玉藤",
+  "block.minecraft.banner.spectrum.jade_vine.magenta": "品红色玉藤",
+  "block.minecraft.banner.spectrum.jade_vine.orange": "橙色玉藤",
+  "block.minecraft.banner.spectrum.jade_vine.white": "白色玉藤",
 
   "trinkets.slot.chest.pin": "胸针",
   "trinkets.slot.head.crown": "王冠",
   "trinkets.slot.legs.pigment_palette": "调色板",
 
-  "item.spectrum.fanciful_stone_ring": "幻想石戒指",
-  "item.spectrum.fanciful_belt": "幻想腰带",
-  "item.spectrum.fanciful_pendant": "幻想吊坠",
-  "item.spectrum.fanciful_circlet": "幻想头箍",
-  "item.spectrum.fanciful_gloves": "幻想手套",
+  "item.spectrum.fanciful_stone_ring": "花俏石戒指",
+  "item.spectrum.fanciful_belt": "花俏腰带",
+  "item.spectrum.fanciful_pendant": "花俏吊坠",
+  "item.spectrum.fanciful_circlet": "花俏头箍",
+  "item.spectrum.fanciful_gloves": "花俏手套",
   "item.spectrum.jeopardant": "孤勇戒指",
   "item.spectrum.jeopardant.tooltip.damage_zero": "§7低血量时增加伤害（当前为§80%%§7）",
   "item.spectrum.jeopardant.tooltip.damage": "§7低血量时增加伤害（当前为§a+%d%%§7）",
@@ -1989,11 +1990,11 @@
   "item.spectrum.ashen_circlet.tooltip2": "§7并在岩浆中获得更好的视野和速度",
   "item.spectrum.ashen_circlet.tooltip.cooldown_full": "§2绝热功能就绪",
   "item.spectrum.ashen_circlet.tooltip.cooldown_seconds": "§7秒距重新充能还有§f%d§7秒",
-  "item.spectrum.weeping_circlet": "哭泣头环", # new
-  "item.spectrum.weeping_circlet.tooltip": "§7从水中过滤出氧气并大幅", # new
-  "item.spectrum.weeping_circlet.tooltip2": "§7提升玩家的水下机动性", # new
-  "item.spectrum.weeping_circlet.tooltip3": "§7治愈你周围的 §f美西螈", # new
-  "item.spectrum.puff_circlet": "蓬松头箍",
+  "item.spectrum.weeping_circlet": "哭泣头环",
+  "item.spectrum.weeping_circlet.tooltip": "§7从水中过滤出氧气并大幅",
+  "item.spectrum.weeping_circlet.tooltip2": "§7提升玩家的水下机动性",
+  "item.spectrum.weeping_circlet.tooltip3": "§7治愈你周围的 §f美西螈",
+  "item.spectrum.puff_circlet": "蓬蓬头箍",
   "item.spectrum.puff_circlet.tooltip": "§7消耗§9蔚蓝护盾值§7",
   "item.spectrum.puff_circlet.tooltip2": "§7来免疫弹射物和衰落伤害",
   "item.spectrum.whispy_circlet": "舒缓头箍",
@@ -2012,12 +2013,12 @@
   "item.spectrum.crafting_tablet.tooltip.pedestal_recipe": "于七彩基座中使用以自动合成",
   "item.spectrum.crafting_tablet.tooltip.recipe": "%d %s",
 
-  "item.spectrum.star_fragment": "星之碎片", # new
+  "item.spectrum.star_fragment": "流星碎片",
   "item.spectrum.stardust": "星尘",
-  "item.spectrum.hibernating_jade_vine_seeds": "沉眠的玉藤种子",
+  "item.spectrum.hibernating_jade_vine_seeds": "沉眠的玉藤球果",
   "item.spectrum.hibernating_jade_vine_seeds.tooltip": "有些……死气沉沉?",
-  "item.spectrum.germinated_jade_vine_seeds": "焕活的玉藤种子",
-  "item.spectrum.germinated_jade_vine_seeds.tooltip": "§7依附在木栅栏上生长",
+  "item.spectrum.germinated_jade_vine_seeds": "焕活的玉藤球果",
+  "item.spectrum.germinated_jade_vine_seeds.tooltip": "§7依附在木制栅栏上生长",
   "item.spectrum.germinated_jade_vine_seeds.tooltip2": "§7只在§f月光§7下生长",
   "item.spectrum.germinated_jade_vine_seeds.tooltip3": "§e⚠暴露在阳光下会使其枯萎",
   "item.spectrum.jade_vine_petals": "玉藤花瓣",
@@ -2028,43 +2029,43 @@
   "item.spectrum.restoration_tea.tooltip": "§7祛除所有负面效果",
   "item.spectrum.restoration_tea.tooltip2": "§7并使你暂时对它们免疫",
   "item.spectrum.restoration_tea.tooltip_milk": "加奶",
-  "item.spectrum.jade_jelly": "玉藤果冻",
+  "item.spectrum.jade_jelly": "玉藤冻",
   "item.spectrum.jade_jelly.tooltip": "营养与风味俱佳",
-  "item.spectrum.glistering_jelly_tea": "闪光果冻茶", # new
-  "item.spectrum.glistering_jelly_tea.tooltip": "暂时性增加你的攻击频率", # new
-  "item.spectrum.jaramel": "玉焦糖", # new
+  "item.spectrum.glistering_jelly_tea": "闪光凝冻茶",
+  "item.spectrum.glistering_jelly_tea.tooltip": "暂时性增加你的攻击频率",
+  "item.spectrum.jaramel": "玉藤焦糖",
   "item.spectrum.lucky_roll": "幸运卷",
   "item.spectrum.triple_meat_pot_pie": "三层肉酱派",
 
-  "item.spectrum.star_candy": "星之糖果", # new
-  "item.spectrum.star_candy.tooltip": "清除单独的一个负面状态效果", # new
-  "item.spectrum.purple_star_candy": "紫色星之糖果", # new
-  "item.spectrum.purple_star_candy.tooltip": "清除所有的负面状态效果", # new
-  "item.spectrum.purple_star_candy.tooltip2": "将玩家完全治愈并终结饥饿", # new
-  "item.spectrum.suspicious_brew": "谜之酒酿", # new
-  "item.spectrum.suspicious_brew.tooltip": "这里面到底掺了点啥？", # new
-  "item.spectrum.suspicious_brew.tooltip.preview": "持续时间随酒精度的增加而呈指数级增长", # new
-  "item.spectrum.suspicious_brew.tooltip.preview2": "效果增益由加入的花朵决定", # new
-  "item.spectrum.jade_wine": "玉藤酒", # new
-  "item.spectrum.jade_wine.tooltip.bloominess": "%d %% 绽放度", # new
-  "item.spectrum.jade_wine.tooltip.sweetened": "加甜", # new
-  "item.spectrum.jade_wine.tooltip.preview3": "酒精度越高，保护性效果就越多越长", # new
-  "item.spectrum.jade_wine.tooltip.preview": "用鳞茎与花瓣的组合体来酿造", # new
-  "item.spectrum.jade_wine.tooltip.preview2": "花瓣比鳞茎发酵更慢，但提供的负面效果会更少", # new
-  "item.spectrum.pure_alcohol": "纯酒精", # new
-  "item.spectrum.moonshine": "烈酒", # new
-  "item.spectrum.chrysocolla": "凤凰石酒", # new
-  "item.spectrum.reprise": "老调重弹（暂译）", # new
-  "item.spectrum.reprise.tooltip.teleport": "往随机方向瞬移%d格", # new
-  "item.spectrum.kimchi": "泡菜", # new
-  "item.spectrum.fresh_chocolate": "鲜巧克力", # new
-  "item.spectrum.bodacious_berry_bar": "元气莓果棒", # new
-  "item.spectrum.hot_chocolate": "热巧克力", # new
-  "item.spectrum.demon_tea": "恶魔花茶", # new
-  "item.spectrum.scone": "司康饼", # new
-  "item.spectrum.clotted_cream": "凝脂奶油", # new
-  "item.spectrum.clotted_cream.tooltip": "移除所有的状态效果", # new
-  "item.spectrum.infused_beverage": "注魔饮料", # new
+  "item.spectrum.star_candy": "星星糖",
+  "item.spectrum.star_candy.tooltip": "清除单独的一个负面状态效果",
+  "item.spectrum.purple_star_candy": "紫色星星糖",
+  "item.spectrum.purple_star_candy.tooltip": "清除所有的负面状态效果",
+  "item.spectrum.purple_star_candy.tooltip2": "将玩家完全治愈并终结饥饿",
+  "item.spectrum.suspicious_brew": "谜之酒酿",
+  "item.spectrum.suspicious_brew.tooltip": "这里面到底掺了点啥？",
+  "item.spectrum.suspicious_brew.tooltip.preview": "持续时间随酒精度的增加而呈指数级增长",
+  "item.spectrum.suspicious_brew.tooltip.preview2": "效果增益由加入的花朵决定",
+  "item.spectrum.jade_wine": "玉藤酒",
+  "item.spectrum.jade_wine.tooltip.bloominess": "%d %% 绽放度",
+  "item.spectrum.jade_wine.tooltip.sweetened": "加甜",
+  "item.spectrum.jade_wine.tooltip.preview3": "酒精度越高，保护性效果就越多越长",
+  "item.spectrum.jade_wine.tooltip.preview": "用球果与花瓣的组合体来酿造",
+  "item.spectrum.jade_wine.tooltip.preview2": "花瓣比球果发酵更慢，但提供的负面效果会更少",
+  "item.spectrum.pure_alcohol": "纯酒精",
+  "item.spectrum.moonshine": "烈酒",
+  "item.spectrum.chrysocolla": "凤凰石酒",
+  "item.spectrum.reprise": "老调重弹（暂译）",
+  "item.spectrum.reprise.tooltip.teleport": "往随机方向瞬移%d格",
+  "item.spectrum.kimchi": "泡菜",
+  "item.spectrum.fresh_chocolate": "鲜巧克力",
+  "item.spectrum.bodacious_berry_bar": "元气莓果棒",
+  "item.spectrum.hot_chocolate": "热巧克力",
+  "item.spectrum.demon_tea": "魔鬼花茶",
+  "item.spectrum.scone": "司康饼",
+  "item.spectrum.clotted_cream": "凝脂奶油",
+  "item.spectrum.clotted_cream.tooltip": "移除所有的状态效果",
+  "item.spectrum.infused_beverage": "注魔饮料",
   "item.spectrum.infused_beverage.tooltip.age": "已酿造%d天 - %d %% 酒精度",
   "item.spectrum.infused_beverage.tooltip.variant.unknown": "难以辨认的味道",
   "item.spectrum.infused_beverage.tooltip.variant.apple_cider": "苹果汽水",
@@ -2079,7 +2080,7 @@
   "item.spectrum.infused_beverage.tooltip.variant.malt_beer": "麦芽啤酒",
   "item.spectrum.infused_beverage.tooltip.variant.mead": "蜜酒",
   "item.spectrum.infused_beverage.tooltip.variant.mint_schnapps": "薄荷烈酒",
-  "item.spectrum.infused_beverage.tooltip.variant.mint_cream": "薄荷油（暂译）",
+  "item.spectrum.infused_beverage.tooltip.variant.mint_cream": "薄荷清酒（暂译）",
   "item.spectrum.infused_beverage.tooltip.variant.rabbit_poison": "兔子毒药",
   "item.spectrum.infused_beverage.tooltip.variant.poisonous_vodka": "伏特加",
   "item.spectrum.infused_beverage.tooltip.variant.vodka": "伏特加",
@@ -2091,10 +2092,10 @@
   "item.spectrum.infused_beverage.tooltip.variant.incubus_cream": "淫鬼油",
   "item.spectrum.infused_beverage.tooltip.variant.lager": "陈啤",
   "item.spectrum.infused_beverage.tooltip.variant.porter": "波特酒",
-  "item.spectrum.infused_beverage.tooltip.variant.hare_bane_creme": "Hare Bane Creme", # new
+  "item.spectrum.infused_beverage.tooltip.variant.hare_bane_creme": "赫尔班纳酒（暂译）",
   "item.spectrum.infused_beverage.tooltip.variant.artemisa": "蒿草酒（暂译）",
   "item.spectrum.infused_beverage.tooltip.variant.advocaat": "蛋黄酒",
-  "item.spectrum.infused_beverage.tooltip.variant.gin": "杜松子酒",
+  "item.spectrum.infused_beverage.tooltip.variant.gin": "琴酒",
 
   "item.spectrum.freigeist": "圣灵酒",
   "item.spectrum.freigeist.tooltip": "§4♥§r 你希望你是个天使？ §4♡§r",
@@ -2105,7 +2106,7 @@
   "item.spectrum.gilded_book.tooltip.enchantability": "附魔亲和力强",
   "item.spectrum.gilded_book.tooltip.copy_enchantments": "在注魔基座中",
   "item.spectrum.gilded_book.tooltip.copy_enchantments2": "从其他物品中提取附魔",
-  "item.spectrum.enchantment_canvas": "附魔画布", # new
+  "item.spectrum.enchantment_canvas": "附魔画布",
   "item.spectrum.enchantment_canvas.tooltip.bound_to": "§7绑定于：",
   "item.spectrum.enchantment_canvas.tooltip.not_bound": "§7右击在对应物品上以调换附魔",
   "item.spectrum.enchantment_canvas.tooltip.not_bound2": "§7该画布将绑定于该种物品",
@@ -2142,18 +2143,18 @@
   "block.spectrum.present.tooltip.wrapped_placed": "是礼物！按住潜行键并右击来打开吧",
   "block.spectrum.present.tooltip.wrapped_placed.giver": "是%s送的礼物！按住潜行键并右击来打开吧",
 
-  "block.spectrum.titration_barrel": "发酵桶", # new
-  "block.spectrum.titration_barrel.content_count": "包含%d个物品（最多%d个）。使用染色木板密封以开始发酵", # new
-  "block.spectrum.titration_barrel.content_count_full": "包含%d个物品（已满）。使用染色木板密封以开始发酵", # new
-  "block.spectrum.titration_barrel.tapping_item_required": "若要打开，需要使用", # new
-  "block.spectrum.titration_barrel.days_of_sealing_before_opened": "密封于%d游戏日（现实生活中的%s天）前。按住潜行键对其右击以解封", # new
-  "block.spectrum.titration_barrel.invalid_recipe": "看上去它还不能生产点可以喝的东西来...", # new
-  "block.spectrum.titration_barrel.invalid_recipe_when_tapping": "额，这桶里的混合物是不可饮用的", # new
-  "block.spectrum.titration_barrel.empty_when_tapping": "嗯...它是空的", # new
-  "block.spectrum.titration_barrel.missing_liquid_when_tapping": "唉，这桶因为混进去了点液态水，里面的东西已经变质了", # new
-  "block.spectrum.titration_barrel.days_of_sealing_after_opened_with_extractable_amount": "%s需要耗时%d游戏日（现实生活中的%s天）来进行发酵", # new
-  "block.spectrum.titration_barrel.invalid_recipe_after_opened": "额，一种不可饮用的混合物需要耗时%d游戏日（现实生活中的%s天）来进行发酵", # new
-  "block.spectrum.titration_barrel.debug_added_day": "（调试功能）增加（现实生活中的）一天的发酵时间", # new
+  "block.spectrum.titration_barrel": "发酵桶",
+  "block.spectrum.titration_barrel.content_count": "包含%d个物品（最多%d个）。使用染色木板密封以开始发酵",
+  "block.spectrum.titration_barrel.content_count_full": "包含%d个物品（已满）。使用染色木板密封以开始发酵",
+  "block.spectrum.titration_barrel.tapping_item_required": "若要打开，需要使用",
+  "block.spectrum.titration_barrel.days_of_sealing_before_opened": "密封于%d游戏日（现实生活中的%s天）前。按住潜行键对其右击以解封",
+  "block.spectrum.titration_barrel.invalid_recipe": "看上去它还不能生产点可以喝的东西来...",
+  "block.spectrum.titration_barrel.invalid_recipe_when_tapping": "额，这桶里的混合物是不可饮用的",
+  "block.spectrum.titration_barrel.empty_when_tapping": "嗯...它是空的",
+  "block.spectrum.titration_barrel.missing_liquid_when_tapping": "唉，这桶因为混进去了点液态水，里面的东西已经变质了",
+  "block.spectrum.titration_barrel.days_of_sealing_after_opened_with_extractable_amount": "%s需要耗时%d游戏日（现实生活中的%s天）来进行发酵",
+  "block.spectrum.titration_barrel.invalid_recipe_after_opened": "额，一种不可饮用的混合物需要耗时%d游戏日（现实生活中的%s天）来进行发酵",
+  "block.spectrum.titration_barrel.debug_added_day": "（调试功能）增加（现实生活中的）一天的发酵时间",
 
   "advancements.spectrum.break_decayed_bedrock.title": "石破天惊",
   "advancements.spectrum.break_decayed_bedrock.description": "使用下界合金镐破坏一个基岩",
@@ -2184,22 +2185,22 @@
   "advancements.spectrum.collect_azurite.title": "忧郁“蓝”调",
   "advancements.spectrum.collect_azurite.description": "收集到粗石青。需要精炼才能更有用处",
   "advancements.spectrum.collect_neolith.title": "不定形，又不是那么不定形",
-  "advancements.spectrum.collect_neolith.description": "获得坚新石",
+  "advancements.spectrum.collect_neolith.description": "获得新异石",
   "advancements.spectrum.collect_four_leaf_clover.title": "十万分之一",
   "advancements.spectrum.collect_four_leaf_clover.description": "找到一个四叶草",
   "advancements.spectrum.collect_gemstone_powder.title": "粉碎",
   "advancements.spectrum.collect_gemstone_powder.description": "七彩基座中合成需要宝石晶粉末。粉碎物品的最直接方式是什么呢？",
   "advancements.spectrum.collect_grayscale_pigments.title": "四度灰",
   "advancements.spectrum.collect_grayscale_pigments.description": "通过收集四种色调的灰色颜料来充实你的颜料收藏",
-  "advancements.spectrum.collect_storm_stone.title": "风吹雷打", # new
-  "advancements.spectrum.collect_storm_stone.description": "探索风暴石的源头", # new
+  "advancements.spectrum.collect_storm_stone.title": "风吹雷打",
+  "advancements.spectrum.collect_storm_stone.description": "找到风暴石的源头",
   "advancements.spectrum.collect_mermaids_gem.title": "是谁长在深海的沙砾石里？",
   "advancements.spectrum.collect_mermaids_gem.description": "获取美人鱼宝石",
   "advancements.spectrum.collect_moonstone_shard.title": "夺目炫白",
   "advancements.spectrum.collect_moonstone_shard.description": "发现一个月长石晶洞",
-  "advancements.spectrum.collect_paltaeria.title": "看它飘过", # new
-  "advancements.spectrum.collect_paltaeria.description": "获得苍绿石碎片", # new
-  "advancements.spectrum.collect_pigment.title": "收集高纯颜料",
+  "advancements.spectrum.collect_paltaeria.title": "看它飘过",
+  "advancements.spectrum.collect_paltaeria.description": "获得苍绿石碎片",
+  "advancements.spectrum.collect_pigment.title": "收集精炼颜料",
   "advancements.spectrum.collect_pigment.description": "破坏染色树的叶子来获得你渴求的纯净颜料。只有你亲自破坏树叶，它们才会释放出其珍贵的颜料",
   "advancements.spectrum.collect_quitoxic_reeds.title": "淹没在池沼里",
   "advancements.spectrum.collect_quitoxic_reeds.description": "发现奇毒苇",
@@ -2207,14 +2208,14 @@
   "advancements.spectrum.craft_resonant_pickaxe.description": "制造共振镐",
   "advancements.spectrum.collect_resonant_lily.title": "花影难觅",
   "advancements.spectrum.collect_resonant_lily.description": "采摘一朵共振百合花",
-  "advancements.spectrum.collect_stratine.title": "沉重负担", # new
-  "advancements.spectrum.collect_stratine.description": "于下界深处寻回绯红石", # new
-  "advancements.spectrum.collect_star_fragment.title": "繁星之空", # new
-  "advancements.spectrum.collect_star_fragment.description": "寻找流星的珍贵残骸", # new
+  "advancements.spectrum.collect_stratine.title": "沉重负担",
+  "advancements.spectrum.collect_stratine.description": "于下界深处寻回绯红石",
+  "advancements.spectrum.collect_star_fragment.title": "繁星之空",
+  "advancements.spectrum.collect_star_fragment.description": "寻找流星的珍贵残骸",
   "advancements.spectrum.collect_gemstone_shard_using_crystal_apothecary.title": "稍作休息",
   "advancements.spectrum.collect_gemstone_shard_using_crystal_apothecary.description": "在晶洞的中心放置水晶收集器来自动收集长大的紫水晶簇",
-  "advancements.spectrum.collect_shimmerstone.title": "一见钟情", # new
-  "advancements.spectrum.collect_shimmerstone.description": "你从来没注意过这种矿石...真是奇了怪了！会不会这世上有比你曾想过的还要多的东西？", # new
+  "advancements.spectrum.collect_shimmerstone.title": "一见钟情",
+  "advancements.spectrum.collect_shimmerstone.description": "你从来没注意过这种矿石...真是奇了怪了！会不会这世上有比你曾想过的还要多的东西？",
   "advancements.spectrum.collect_vegetal.title": "有机之物",
   "advancements.spectrum.collect_vegetal.description": "给它们喂食，然后坐和放宽……再破坏它们以取得掉落物",
   "advancements.spectrum.craft_bottle_of_fading.title": "人不应该……",
@@ -2223,7 +2224,7 @@
   "advancements.spectrum.craft_bottle_of_failing.description": "你的第一个实验很成功。但是还有更多……",
   "advancements.spectrum.craft_bottle_of_ruin.title": "绝对禁忌",
   "advancements.spectrum.craft_bottle_of_ruin.description": "看起来还有不少事情可以探索。利用纯粹的水晶注入虚空的力量，创造出噬灭世界的崩坏之物",
-  "advancements.spectrum.craft_colored_pedestal.title": "CMY开启",
+  "advancements.spectrum.craft_colored_pedestal.title": "三原色，启动！",
   "advancements.spectrum.craft_colored_pedestal.description": "使用所有你收集到的宝石晶升级你的七彩基座",
   "advancements.spectrum.craft_colored_sapling.title": "你的面孔熟悉而又陌生",
   "advancements.spectrum.craft_colored_sapling.description": "使用你的魔法能力合成染色树苗",
@@ -2238,27 +2239,27 @@
   "advancements.spectrum.fail_to_take_item_out_of_pedestal.title": "使用画笔激活以开始合成",
   "advancements.spectrum.fail_to_take_item_out_of_pedestal.description": "使用画笔激活以开始合成",
   "advancements.spectrum.create_onyx_shard.title": "重返黑暗",
-  "advancements.spectrum.create_onyx_shard.description": "在月黑风高的夜晚使用融合神龛创造黑色碎片",
-  "advancements.spectrum.dark_radiance_staff.title": "嗬！这波血亏", # new
-  "advancements.spectrum.dark_radiance_staff.description": "使用光之法杖移除一个其产生的光源", # new
+  "advancements.spectrum.create_onyx_shard.description": "在月黑风高的夜晚使用融合圣坛创造黑色碎片",
+  "advancements.spectrum.dark_radiance_staff.title": "嗬！这波血亏",
+  "advancements.spectrum.dark_radiance_staff.description": "使用光之法杖移除一个其产生的光源",
   "advancements.spectrum.use_oblivion_pickaxe_with_efficiency.title": "我即速度",
   "advancements.spectrum.use_oblivion_pickaxe_with_efficiency.description": "使用附上效率附魔的净除之镐洞穿世界",
   "advancements.spectrum.enter_dimension.title": "他山之玉，可以攻石",
   "advancements.spectrum.enter_dimension.description": "尚未实装的内容从这开始——静待日后更新",
-  "advancements.spectrum.fill_bottomless_bundle.title": "满载而归", # new
-  "advancements.spectrum.fill_bottomless_bundle.description": "完全填满一个无底袋", # new
-  "advancements.spectrum.fill_bottomless_bundle_for_real_this_time.title": "本次已满", # new
-  "advancements.spectrum.fill_bottomless_bundle_for_real_this_time.description": "用2,000,000,000个物品完全填满一个附魔的无底袋", # new
-  "advancements.spectrum.get_semi_permeable_glass.title": "和平与满足", # new
-  "advancements.spectrum.get_semi_permeable_glass.description": "合成半穿透玻璃来保护你的房子不受怪物侵袭", # new
+  "advancements.spectrum.fill_bottomless_bundle.title": "满载而归",
+  "advancements.spectrum.fill_bottomless_bundle.description": "完全填满一个无底袋",
+  "advancements.spectrum.fill_bottomless_bundle_for_real_this_time.title": "本次已满",
+  "advancements.spectrum.fill_bottomless_bundle_for_real_this_time.description": "用2,000,000,000个物品完全填满一个附魔的无底袋",
+  "advancements.spectrum.get_semi_permeable_glass.title": "和平与满足",
+  "advancements.spectrum.get_semi_permeable_glass.description": "合成半穿透玻璃来保护你的房子不受怪物侵袭",
   "advancements.spectrum.grow_ominous_sapling.title": "一次失败的实验？",
   "advancements.spectrum.grow_ominous_sapling.description": "看起来……这是死了吗？",
   "advancements.spectrum.place_pedestal.title": "全新的合成方式",
   "advancements.spectrum.place_pedestal.description": "制作你的七彩基座并放置它",
   "advancements.spectrum.put_too_many_low_gravity_blocks_into_animal.title": "这地球我是一秒也呆不下去了！",
   "advancements.spectrum.put_too_many_low_gravity_blocks_into_animal.description": "使用苍绿之石使你的动物超载吧，再见！艾俺姆外星人！",
-  "advancements.spectrum.get_radiating_ender.title": "抢夺于冰冷之手", # new
-  "advancements.spectrum.get_radiating_ender.description": "一些末影人带着散发着阴暗光芒的方块出现在了你的世界中", # new
+  "advancements.spectrum.get_radiating_ender.title": "抢夺于冰冷之手",
+  "advancements.spectrum.get_radiating_ender.description": "一些末影人带着散发着阴暗光芒的方块出现在了你的世界中",
   "advancements.spectrum.spectrum.title": "光谱世界 - 启程",
   "advancements.spectrum.spectrum.description": "一个关于颜色, 魔法和混乱的故事",
   "advancements.spectrum.spectrum_lategame.title": "光谱世界 - 纯化",
@@ -2267,23 +2268,23 @@
   "advancements.spectrum.spectrum_midgame.description": "一个关于好奇心和贪婪的故事",
   "advancements.spectrum.use_all_pedestal_upgrades.title": "全面升级",
   "advancements.spectrum.use_all_pedestal_upgrades.description": "在你的七彩基座的所有宝石晶方块上放上升级",
-  "advancements.spectrum.use_perturbed_eye.title": "让他移动", # new
-  "advancements.spectrum.use_perturbed_eye.description": "在末地传送门框架上使用末地传送门拆解器", # new
+  "advancements.spectrum.use_perturbed_eye.title": "动起来，动起来！",
+  "advancements.spectrum.use_perturbed_eye.description": "在末地传送门框架上使用末地传送门拆解器",
   "advancements.spectrum.use_glistering_melon_seeds.title": "兴旺之兆",
-  "advancements.spectrum.use_glistering_melon_seeds.description": "获得闪烁的西瓜……作物！",
-  "advancements.spectrum.plant_ominous_sapling.title": "花朵快快长",
+  "advancements.spectrum.use_glistering_melon_seeds.description": "获得闪烁的西瓜...作物！",
+  "advancements.spectrum.plant_ominous_sapling.title": "随它长，随它长！",
   "advancements.spectrum.plant_ominous_sapling.description": "你深知将植素和树苗混合会制造出一些有意思的东西",
 
   "advancements.spectrum.build_fusion_shrine.title": "力量的体现",
-  "advancements.spectrum.build_fusion_shrine.description": "建造融合神龛",
+  "advancements.spectrum.build_fusion_shrine.description": "建造融合圣坛",
   "advancements.spectrum.build_enchanting_structure.title": "次世代附魔",
   "advancements.spectrum.build_enchanting_structure.description": "建造注魔基座结构",
   "advancements.spectrum.collect_ender_dragon_head_using_treasure_hunter.title": "最后的龙息",
-  "advancements.spectrum.collect_ender_dragon_head_using_treasure_hunter.description": "使用带有Treasure Hunter附魔的武器将末影龙斩首",
-  "advancements.spectrum.collect_warden_head_using_treasure_hunter.title": "失守", # new
-  "advancements.spectrum.collect_warden_head_using_treasure_hunter.description": "使用带有Treasure Hunter附魔的武器将监守者斩首", # new
+  "advancements.spectrum.collect_ender_dragon_head_using_treasure_hunter.description": "使用带有奇珍猎手附魔的武器将末影龙斩首",
+  "advancements.spectrum.collect_warden_head_using_treasure_hunter.title": "失守",
+  "advancements.spectrum.collect_warden_head_using_treasure_hunter.description": "使用带有奇珍猎手附魔的武器将监守者斩首",
   "advancements.spectrum.collect_wither_head_using_treasure_hunter.title": "凋败的轮回",
-  "advancements.spectrum.collect_wither_head_using_treasure_hunter.description": "使用带有Treasure Hunter附魔的武器将凋灵斩首",
+  "advancements.spectrum.collect_wither_head_using_treasure_hunter.description": "使用带有奇珍猎手附魔的武器将凋灵斩首",
   "advancements.spectrum.create_spectral_shard.title": "彩虹上的碎片",
   "advancements.spectrum.create_spectral_shard.description": "合成七彩碎片",
   "advancements.spectrum.enter_liquid_crystal.title": "液体的魔法",
@@ -2293,19 +2294,19 @@
   "advancements.spectrum.get_hit_while_wearing_full_suit_of_gemstone_armor.title": "强力超载",
   "advancements.spectrum.get_hit_while_wearing_full_suit_of_gemstone_armor.description": "在穿全套宝石晶盔甲时受击",
   "advancements.spectrum.collect_mob_head_using_treasure_hunter.title": "摸不着头脑",
-  "advancements.spectrum.collect_mob_head_using_treasure_hunter.description": "使用带有Treasure Hunter附魔的武器将怪物斩首",
+  "advancements.spectrum.collect_mob_head_using_treasure_hunter.description": "使用带有奇珍猎手附魔的武器将怪物斩首",
   "advancements.spectrum.build_wither_using_wither_heads.title": "怎么这也行",
   "advancements.spectrum.build_wither_using_wither_heads.description": "使用凋灵的头召唤一个凋灵",
   "advancements.spectrum.create_refined_azurite.title": "梦之蓝",
   "advancements.spectrum.create_refined_azurite.description": "将石青铸造为锭",
   "advancements.spectrum.fill_knowledge_gem.title": "知识转移",
   "advancements.spectrum.fill_knowledge_gem.description": "用10000点经验填充知识宝石",
-  "advancements.spectrum.fill_knowledge_gem_for_real_this_time.title": "My IN-Mod is +6", # new
-  "advancements.spectrum.fill_knowledge_gem_for_real_this_time.description": "为附魔知识宝石装满不可计量的经验值", # new
-  "advancements.spectrum.enchant_exchanging_staff.title": "不止是一个建造工具", # new
-  "advancements.spectrum.enchant_exchanging_staff.description": "合成一个交换法杖并为其附魔", # new
-  "advancements.spectrum.gift_or_open_present.title": "七彩奇观", # new
-  "advancements.spectrum.gift_or_open_present.description": "装满并打包好一个礼物，并将其放在你想要送给的人的地方 - 或者干脆由你亲手打开", # new
+  "advancements.spectrum.fill_knowledge_gem_for_real_this_time.title": "My IN-Mod is +6",
+  "advancements.spectrum.fill_knowledge_gem_for_real_this_time.description": "为附魔知识宝石装满不可计量的经验值",
+  "advancements.spectrum.enchant_exchanging_staff.title": "不止是一个建造工具",
+  "advancements.spectrum.enchant_exchanging_staff.description": "合成一个交换法杖并为其附魔",
+  "advancements.spectrum.gift_or_open_present.title": "七彩奇观",
+  "advancements.spectrum.gift_or_open_present.description": "装满并打包好一个礼物，并将其放在你想要送给的人的地方 - 或者干脆由你亲手打开",
   "advancements.spectrum.get_tool_with_inertia_500_blocks_broken.title": "西部快镐手",
   "advancements.spectrum.get_tool_with_inertia_500_blocks_broken.description": "使用带有惯性附魔连续破坏500个相同方块",
   "advancements.spectrum.use_natures_staff_on_dead_bush.title": "起死回生",
@@ -2325,7 +2326,7 @@
   "advancements.spectrum.enter_ender_glass.title": "灵活穿透",
   "advancements.spectrum.enter_ender_glass.description": "穿过激活的末影玻璃",
   "advancements.spectrum.create_midnight_aberration.title": "完美的化合物？",
-  "advancements.spectrum.create_midnight_aberration.description": "融合托帕石，紫水晶，黄水晶和坚新石",
+  "advancements.spectrum.create_midnight_aberration.description": "融合托帕石，紫水晶，黄水晶和新异石",
   "advancements.spectrum.collect_midnight_chip.title": "细碎的恶",
   "advancements.spectrum.collect_midnight_chip.description": "通过午夜溶液获得午夜残片",
   "advancements.spectrum.finish_progression.title": "旅程的终点",
@@ -2358,8 +2359,8 @@
   "advancements.spectrum.brew_potion_in_potion_workshop.description": "使用药水工作站来炼制药水，添加炼材来获取更多效果",
   "advancements.spectrum.brew_powerful_potion_in_potion_workshop.title": "成功的喜悦",
   "advancements.spectrum.brew_powerful_potion_in_potion_workshop.description": "通过合并试剂来炼制IV级药水",
-  "advancements.spectrum.brew_potion_with_four_effects_in_potion_workshop.title": "邪恶混合", # new
-  "advancements.spectrum.brew_potion_with_four_effects_in_potion_workshop.description": "酿造一瓶拥有4种独特效果的药水", # new
+  "advancements.spectrum.brew_potion_with_four_effects_in_potion_workshop.title": "邪恶混合",
+  "advancements.spectrum.brew_potion_with_four_effects_in_potion_workshop.description": "酿造一瓶拥有4种独特效果的药水",
   "advancements.spectrum.fill_potion_pendant.title": "强力吊坠",
   "advancements.spectrum.fill_potion_pendant.description": "使用药水工作站为药水吊坠灌注药水效果",
   "advancements.spectrum.enchant_seven_league_boots.title": "全力以赴",
@@ -2373,9 +2374,9 @@
   "advancements.spectrum.craft_blacklisted_memory_success.title": "有力再现",
   "advancements.spectrum.craft_blacklisted_memory_success.description": "成功识别一个强大生物的回忆。你对具现化回忆已经很熟练了，是不是？",
   "advancements.spectrum.plant_jade_vines.title": "历史的遗物",
-  "advancements.spectrum.plant_jade_vines.description": "让沉眠的玉藤种子发芽并把它种在栅栏底部。它和一般的藤蔓一样向下生长。长时间不见天日，阳光对它来说太亮了——它只能在温和的月光下生长",
-  "advancements.spectrum.drink_tea_with_milk.title": "异教徒", # new
-  "advancements.spectrum.drink_tea_with_milk.description": "喝下掺奶的疗愈药茶", # new
+  "advancements.spectrum.plant_jade_vines.description": "让沉眠的玉藤球果发芽并把它种在栅栏底部。它和一般的藤蔓一样向下生长。长时间不见天日，阳光对它来说太亮了——它只能在温和的月光下生长",
+  "advancements.spectrum.drink_tea_with_milk.title": "异教徒",
+  "advancements.spectrum.drink_tea_with_milk.description": "喝下掺奶的疗愈药茶",
   "advancements.spectrum.harvest_moonstruck_nectar.title": "甜蜜月色",
   "advancements.spectrum.harvest_moonstruck_nectar.description": "用玻璃瓶在成熟的玉藤上收获望舒琼浆",
   "advancements.spectrum.create_huge_slime.title": "「你给我变大吧」",
@@ -2400,12 +2401,12 @@
   "advancements.spectrum.build_cinderhearth_structure.description": "使炼化炉工作起来",
   "advancements.spectrum.build_cinderhearth_without_lava_structure.title": "这真的有必要吗？",
   "advancements.spectrum.build_cinderhearth_without_lava_structure.description": "我应该说过“有熔岩的话就§l好§l看§l得§l多§r”对吧？大聪明。",
-  "advancements.spectrum.smelt_in_cinderhearth_with_yield_upgrades.title": "从墨水到物质", # new
-  "advancements.spectrum.smelt_in_cinderhearth_with_yield_upgrades.description": "在煤渣炉(暂译)中使用淡蓝色墨水来使你的烧炼产出提升一倍", # new
-  "advancements.spectrum.smelt_pure_resource_in_cinderhearth.title": "高速烧炼", # new
-  "advancements.spectrum.smelt_pure_resource_in_cinderhearth.description": "看起来煤渣炉(暂译)在使用原生资源时比普通熔炉快多了", # new
-  "advancements.spectrum.collect_pure_resource.title": "似是而非", # new
-  "advancements.spectrum.collect_pure_resource.description": "获得高纯矿物簇. 它比你获得的普通矿石要纯净的多", # new
+  "advancements.spectrum.smelt_in_cinderhearth_with_yield_upgrades.title": "从墨水到物质",
+  "advancements.spectrum.smelt_in_cinderhearth_with_yield_upgrades.description": "在煤渣炉(暂译)中使用淡蓝色墨水来使你的烧炼产出提升一倍",
+  "advancements.spectrum.smelt_pure_resource_in_cinderhearth.title": "高速烧炼",
+  "advancements.spectrum.smelt_pure_resource_in_cinderhearth.description": "看起来煤渣炉(暂译)在使用原生资源时比普通熔炉快多了",
+  "advancements.spectrum.collect_pure_resource.title": "似是而非",
+  "advancements.spectrum.collect_pure_resource.description": "获得高纯矿物簇. 它比你获得的普通矿石要纯净的多",
   "advancements.spectrum.kill_entity_with_ink_projectile.title": "非我也，笔也",
   "advancements.spectrum.kill_entity_with_ink_projectile.description": "使用画笔的墨水喷射功能打死一只生物",
   "advancements.spectrum.collect_all_mob_heads.title": "丰功伟绩",
@@ -2418,68 +2419,68 @@
   "advancements.spectrum.fish_an_entity.description": "钓上一波大的",
   "advancements.spectrum.fish_in_many_liquids.title": "钓鱼佬永不空军",
   "advancements.spectrum.fish_in_many_liquids.description": "在所有可以钓鱼的液体中钓鱼",
-  "advancements.spectrum.collect_amaranth.title": "遗忘已久的作物", # new
-  "advancements.spectrum.collect_amaranth.description": "找到苋菜籽", # new
-  "advancements.spectrum.collect_amaranth_bushel.title": "跃跃欲试", # new
-  "advancements.spectrum.collect_amaranth_bushel.description": "种下一个苋菜植物，使其长成并将其收获", # new
-  "advancements.spectrum.consume_purple_star_candy.title": "一星级的菜单", # new
-  "advancements.spectrum.consume_purple_star_candy.description": "找到并吃下一块附魔星之曲奇", # new
-  "advancements.spectrum.tap_titration_barrel.title": "冰手可冷", # new
-  "advancements.spectrum.tap_titration_barrel.description": "打开一个发酵桶，给自己酿造点清爽（或者不那么清爽）的饮料吧", # new
-  "advancements.spectrum.drink_jade_wine.title": "远古美酒", # new
-  "advancements.spectrum.drink_jade_wine.description": "喝下玉藤酒", # new
-  "advancements.spectrum.tap_sweetened_jade_wine.title": "远古美酒++", # new
-  "advancements.spectrum.tap_sweetened_jade_wine.description": "看一看...尝一尝？就像玉藤若是加点糖则会更加上口", # new
-  "advancements.spectrum.tap_suspicious_brew.title": "非牛奶也", # new
-  "advancements.spectrum.tap_suspicious_brew.description": "酿造一份谜之酒酿", # new
-  "advancements.spectrum.tap_pure_alcohol.title": "成分有点过了", # new
-  "advancements.spectrum.tap_pure_alcohol.description": "让发酵桶长时间发酵，使其内的成分转换成高纯酒精", # new
-  "advancements.spectrum.tap_aged_air.title": "此地无银三百两", # new
-  "advancements.spectrum.tap_aged_air.description": "倒出一个被空着封存了好几天的发酵桶里的东西", # new
-  "advancements.spectrum.tap_chrysocolla.title": "伴着沙拉吃更配哦", # new
-  "advancements.spectrum.tap_chrysocolla.description": "倒出一份陈酿多时的玉藤酒", # new
-  "advancements.spectrum.pluck_blood_orchid_petal.title": "怕我吗？不怕", # new
-  "advancements.spectrum.pluck_blood_orchid_petal.description": "合成一个血红兰植株并拔下它来获得更多的花瓣", # new
-  "advancements.spectrum.craft_salted_jaramel_trifle_or_tart.title": "齁咸", # new
-  "advancements.spectrum.craft_salted_jaramel_trifle_or_tart.description": "加点你的敌人的眼泪来烤制", # new
-  "advancements.spectrum.eat_each_pastry.title": "色彩鉴赏家", # new
-  "advancements.spectrum.eat_each_pastry.description": "合成并吃下所有模组的糕点", # new
-  "advancements.spectrum.collect_blood_orchid_petal.title": "锯齿状叶", # new
-  "advancements.spectrum.collect_blood_orchid_petal.description": "找到一片血红兰花瓣", # new
-  "advancements.spectrum.remember_egg_laying_wooly_pig.title": "曾几何时", # new
-  "advancements.spectrum.remember_egg_laying_wooly_pig.description": "孵化一个下蛋绒猪的记忆", # new
-  "advancements.spectrum.have_half_a_heart_with_divinity.title": "险成神话", # new
-  "advancements.spectrum.have_half_a_heart_with_divinity.description": "喝下圣灵酒，飞升并达到只有半颗心的生命值", # new
-  "advancements.spectrum.kill_a_mob_with_frenzy3.title": "黑暗激情剧", # new
-  "advancements.spectrum.kill_a_mob_with_frenzy3.description": "在拥有狂热III或更高等级的状态效果的情况下杀死一个生物。（注意该效果不是延长持续时间，第二次获得效果将升级它的等级）", # new
-  "advancements.spectrum.collect_gemstone_rock_candy.title": "多彩又松脆的糖果", # new
-  "advancements.spectrum.collect_gemstone_rock_candy.description": "获得一堆宝石染色冰糖", # new
-  "advancements.spectrum.apply_divinity.title": "超凡精神", # new
-  "advancements.spectrum.apply_divinity.description": "饮用圣灵酒以获得大量的效果增益...不过如果你死了，你将会因此而付出巨大的代价", # new
-  "advancements.spectrum.drink_tea_with_scone.title": "精致的英式生活", # new
-  "advancements.spectrum.drink_tea_with_scone.description": "在你的物品栏内有司康饼的情况下饮茶，这太优雅了！", # new
-  "advancements.spectrum.survive_drinking_incandescent_amalgam.title": "我曾是太阳", # new
-  "advancements.spectrum.survive_drinking_incandescent_amalgam.description": "饮用白炽汞合金，挺过其造成的伤害并幸存下来", # new
-  "advancements.spectrum.place_incandescent_amalgam.title": "好的，现在...什么？", # new
-  "advancements.spectrum.place_incandescent_amalgam.description": "白炽汞合金是一种高当量的炸药，任何类型的，哪怕是最轻微的触碰也能将其引爆，并留下一个巨大并燃烧的爆炸坑。祝你好运。",
+  "advancements.spectrum.collect_amaranth.title": "遗忘已久的作物",
+  "advancements.spectrum.collect_amaranth.description": "找到苋菜籽",
+  "advancements.spectrum.collect_amaranth_bushel.title": "跃跃欲试",
+  "advancements.spectrum.collect_amaranth_bushel.description": "种下一颗苋菜，使其长成并将其收获",
+  "advancements.spectrum.consume_purple_star_candy.title": "一星级的菜单",
+  "advancements.spectrum.consume_purple_star_candy.description": "找到并吃下一块附魔星星曲奇",
+  "advancements.spectrum.tap_titration_barrel.title": "冰手可冷",
+  "advancements.spectrum.tap_titration_barrel.description": "打开一个发酵桶，给自己酿造点清爽（或者不那么清爽）的饮料吧",
+  "advancements.spectrum.drink_jade_wine.title": "远古美酒",
+  "advancements.spectrum.drink_jade_wine.description": "喝下玉藤酒",
+  "advancements.spectrum.tap_sweetened_jade_wine.title": "远古美酒++",
+  "advancements.spectrum.tap_sweetened_jade_wine.description": "看一看...尝一尝？就像玉藤若是加点糖则会更加上口",
+  "advancements.spectrum.tap_suspicious_brew.title": "非牛奶也",
+  "advancements.spectrum.tap_suspicious_brew.description": "酿造一份谜之酒酿",
+  "advancements.spectrum.tap_pure_alcohol.title": "成分有点过了",
+  "advancements.spectrum.tap_pure_alcohol.description": "让发酵桶长时间发酵，使其内的成分转换成纯酒精",
+  "advancements.spectrum.tap_aged_air.title": "此地无银三百两",
+  "advancements.spectrum.tap_aged_air.description": "倒出一个被空着封存了好几天的发酵桶里的东西",
+  "advancements.spectrum.tap_chrysocolla.title": "伴着沙拉吃更配哦",
+  "advancements.spectrum.tap_chrysocolla.description": "倒出一份陈酿多时的玉藤酒",
+  "advancements.spectrum.pluck_blood_orchid_petal.title": "怕我吗？不怕",
+  "advancements.spectrum.pluck_blood_orchid_petal.description": "合成一个血红兰植株并拔下它来获得更多的花瓣",
+  "advancements.spectrum.craft_salted_jaramel_trifle_or_tart.title": "齁咸",
+  "advancements.spectrum.craft_salted_jaramel_trifle_or_tart.description": "加点你的敌人的眼泪来烤制",
+  "advancements.spectrum.eat_each_pastry.title": "色彩鉴赏家",
+  "advancements.spectrum.eat_each_pastry.description": "合成并吃下所有模组的糕点",
+  "advancements.spectrum.collect_blood_orchid_petal.title": "锯齿状叶",
+  "advancements.spectrum.collect_blood_orchid_petal.description": "找到一片血红兰花瓣",
+  "advancements.spectrum.remember_egg_laying_wooly_pig.title": "曾几何时",
+  "advancements.spectrum.remember_egg_laying_wooly_pig.description": "孵化一个下蛋绒猪的记忆",
+  "advancements.spectrum.have_half_a_heart_with_divinity.title": "险成神话",
+  "advancements.spectrum.have_half_a_heart_with_divinity.description": "喝下圣灵酒，飞升并达到只有半颗心的生命值",
+  "advancements.spectrum.kill_a_mob_with_frenzy3.title": "黑暗激情剧",
+  "advancements.spectrum.kill_a_mob_with_frenzy3.description": "在拥有狂热III或更高等级的状态效果的情况下杀死一个生物。（注意该效果不是延长持续时间，第二次获得效果将升级它的等级）",
+  "advancements.spectrum.collect_gemstone_rock_candy.title": "多彩又松脆的糖果",
+  "advancements.spectrum.collect_gemstone_rock_candy.description": "获得一堆宝石染色冰糖",
+  "advancements.spectrum.apply_divinity.title": "超凡精神",
+  "advancements.spectrum.apply_divinity.description": "饮用圣灵酒以获得大量的效果增益...不过如果你死了，你将会因此而付出巨大的代价",
+  "advancements.spectrum.drink_tea_with_scone.title": "精致的英式生活",
+  "advancements.spectrum.drink_tea_with_scone.description": "在你的物品栏内有司康饼的情况下饮茶，这太优雅了！",
+  "advancements.spectrum.survive_drinking_incandescent_amalgam.title": "我曾是太阳",
+  "advancements.spectrum.survive_drinking_incandescent_amalgam.description": "饮用白炽合金，挺过其造成的伤害并幸存下来",
+  "advancements.spectrum.place_incandescent_amalgam.title": "好的，现在...什么？",
+  "advancements.spectrum.place_incandescent_amalgam.description": "白炽合金是一种高当量的炸药，任何类型的，哪怕是最轻微的触碰也能将其引爆，并留下一个巨大并燃烧的爆炸坑。祝你好运。",
 
-  "advancements.spectrum.collect_mysterious_locket.title": "神秘坠饰盒", # new
+  "advancements.spectrum.collect_mysterious_locket.title": "神秘坠饰盒",
   "advancements.spectrum.collect_mysterious_locket.description": "在地牢的箱子中找到一个神秘坠饰盒。它有何用？它属于谁？",
 
   "advancements.spectrum.find_ancient_ruins.title": "牢不可破的要塞",
   "advancements.spectrum.find_ancient_ruins.description": "在地下你发现了一个被神秘力场保护的巨大的结构",
-  "advancements.spectrum.enter_color_mixing_puzzle_structure.title": "混合", # new
-  "advancements.spectrum.enter_color_mixing_puzzle_structure.description": "一个内含精致谜题的结构...其他什么的就没了", # new
+  "advancements.spectrum.enter_color_mixing_puzzle_structure.title": "混合",
+  "advancements.spectrum.enter_color_mixing_puzzle_structure.description": "一个内含精致谜题的结构...其他什么的就没了",
   "advancements.spectrum.enter_ancient_ruins.title": "坚固的防护",
   "advancements.spectrum.enter_ancient_ruins.description": "这些神秘的标志暗示了什么？肯定有办法进入这个结构中的。现在不行的话以后总是可以的……你最好记住这里",
-  "advancements.spectrum.enter_wireless_redstone_puzzle_structure.title": "短接", # new
-  "advancements.spectrum.enter_wireless_redstone_puzzle_structure.description": "一个由坚固的基岩保护的结构...其他什么的就没了", # new
+  "advancements.spectrum.enter_wireless_redstone_puzzle_structure.title": "短接",
+  "advancements.spectrum.enter_wireless_redstone_puzzle_structure.description": "一个由坚固的基岩保护的结构...其他什么的就没了",
   "advancements.spectrum.generate_ancient_ruins_loot.title": "来自古代文明的礼物",
   "advancements.spectrum.generate_ancient_ruins_loot.description": "打开一个古代宝箱",
 
-  "______food_tooltips": "食物信息提示：", # new
-  "spectrum.food.withChance": "%s [%d%%]", # new
-  "spectrum.food.whenEaten": "食用后：", # new
+  "______food_tooltips": "食物信息提示：",
+  "spectrum.food.withChance": "%s [%d%%]",
+  "spectrum.food.whenEaten": "食用后：",
 
   "______name_changes_for_vanilla_blocks": "改变：",
   "block.minecraft.polished_basalt": "玄武岩柱",
@@ -2505,5 +2506,5 @@
   "advancements.spectrum.craft_energy_collector.title": "好的收到",
   "advancements.spectrum.craft_energy_collector.description": "建造足够强劲的收集器来从晶洞中收集能量",
   "advancements.spectrum.place_energy_collector.title": "新型能源",
-  "advancements.spectrum.place_energy_collector.description": "将收集器放置在晶洞中间使其运作",
+  "advancements.spectrum.place_energy_collector.description": "将收集器放置在晶洞中间使其运作"
 }
