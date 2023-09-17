@@ -1,22 +1,22 @@
 {
-	"pages":[
-		{
-			"text":"$(italic)你知道有人用红石建造巨大的建筑，只是为了打开一扇超大的门。然后他们用一个难看的压盘触发它。另一方面，$(br)玩家检测器能够感知你或其他玩家在远处的存在，并发出相应的红石信号。$(br)好多了。",
-			"type":"patchouli:text",
-			"title":"玩家检测器"
-		},
-		{
-			"recipe":"spectrum:pedestal/tier1/detectors/player_detector",
-			"text":"范围：10个方块。$(br)如果检测到放置信号的玩家，则发出全强度信号，否则为8。",
-			"type":"spectrum:pedestal_crafting",
-			"title":"基座配方"
-		}
-	],
-	"advancement":"spectrum:progression/detectors/unlock_player_detector",
-	"extra_recipe_mappings":{
-		"spectrum:player_detector":0
-	},
-	"name":"玩家检测器",
-	"icon":"spectrum:player_detector",
-	"category":"spectrum:redstone_category"
+  "name": "玩家探测器",
+  "advancement": "spectrum:progression/detectors/unlock_player_detector",
+  "icon": "spectrum:player_detector",
+  "category": "spectrum:redstone_category",
+  "extra_recipe_mappings": {
+    "spectrum:player_detector": 0
+  },
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "玩家探测器",
+      "text": "$(italic)试想这样一个场景：有人在服务器里面搭建了一个红石门，但却使用传统的压力板来作为开关。$(br)如果想让很多玩家同时进入可能会很麻烦，不过如果使用玩家探测器——这种能在一定距离类探测到你以及其他玩家，并发出相应的红石信号的装置来代替压力板，说不定就能解决这个问题。"
+    },
+    {
+      "type": "spectrum:pedestal_crafting",
+      "title": "基座配方",
+      "recipe": "spectrum:pedestal/tier1/detectors/player_detector",
+      "text": "有效探测半径为10个方块。$(br)若探测到放置者发出最大信号强度；若是其他玩家则发出8级信号强度。"
+    }
+  ]
 }
