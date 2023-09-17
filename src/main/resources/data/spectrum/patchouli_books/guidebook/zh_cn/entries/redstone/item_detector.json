@@ -1,22 +1,22 @@
 {
-	"pages":[
-		{
-			"text":"物品检测器用于计算位于其10方块半径内地面上的物品。$(br)红石信号的强度取决于周围有多少物品。",
-			"type":"patchouli:text",
-			"title":"物品检测器"
-		},
-		{
-			"recipe":"spectrum:pedestal/tier1/detectors/item_detector",
-			"text":"64个物品产生最大强度的信号。",
-			"type":"spectrum:pedestal_crafting",
-			"title":"基座配方"
-		}
-	],
-	"advancement":"spectrum:progression/detectors/unlock_item_detector",
-	"extra_recipe_mappings":{
-		"spectrum:item_detector":0
-	},
-	"name":"物品检测器",
-	"icon":"spectrum:player_detector",
-	"category":"spectrum:redstone_category"
+  "name": "物品探测器",
+  "advancement": "spectrum:progression/detectors/unlock_item_detector",
+  "icon": "spectrum:player_detector",
+  "category": "spectrum:redstone_category",
+  "extra_recipe_mappings": {
+    "spectrum:item_detector": 0
+  },
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "物品探测器",
+      "text": "物品探测器能探测半径10个方块内地面上的物品数量。$(br)其输出的红石信号强度取决于周围物品数量。"
+    },
+    {
+      "type": "spectrum:pedestal_crafting",
+      "title": "七彩基座配方",
+      "recipe": "spectrum:pedestal/tier1/detectors/item_detector",
+      "text": "当其检测到有64个物品时，其输出的信号强度最大。"
+    }
+  ]
 }
