@@ -10,7 +10,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "spectrum:block_placer",
-      "text": "$(italic)你已经有了能将方块粉碎，收集，称量，装配和打包的装置，就差能自动放下方块的装置了。不过现在它来了：$(br)得益于$(l:general/shards#topaz)托帕石$(/l)与物质的亲和力，这种装置能将其内储存的方块（物品形式）直接放置出来。"
+      "text": "$(italic)你已经有了能将方块粉碎，收集，称量，装配和打包的装置，就差能自动放下方块的装置了。不过现在它来了：$(br)得益于$(l:general/shards#topaz)托帕石$(/l)与物质的亲和力，这种装置能将其内储存的方块（物品形式）直接放置出来！"
     },
     {
       "type": "spectrum:pedestal_crafting",
