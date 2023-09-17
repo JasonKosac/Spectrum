@@ -1,22 +1,22 @@
 {
-	"pages":[
-		{
-			"text":"阳光探测器在测量光线时相对不精确。使用的下一个石英是如此粗糙，只有阳光才能可靠地触发探测器。$(br)另一方面，紫水晶在测量光线时更加敏感。即使是微弱的火炬光也足以产生相当大的强度。",
-			"type":"patchouli:text",
-			"title":"方块光检测器"
-		},
-		{
-			"recipe":"spectrum:pedestal/tier1/detectors/light_level_detector",
-			"text":"光探测器不仅对阳光有反应，而且还能够拾取其他光源，例如来自方块的光源。",
-			"type":"spectrum:pedestal_crafting",
-			"title":"基座配方"
-		}
-	],
-	"advancement":"spectrum:progression/detectors/unlock_light_level_detector",
-	"extra_recipe_mappings":{
-		"spectrum:light_level_detector":0
-	},
-	"name":"亮度检测器",
-	"icon":"spectrum:player_detector",
-	"category":"spectrum:redstone_category"
+  "name": "亮度探测器",
+  "advancement": "spectrum:progression/detectors/unlock_light_level_detector",
+  "icon": "spectrum:player_detector",
+  "category": "spectrum:redstone_category",
+  "extra_recipe_mappings": {
+    "spectrum:light_level_detector": 0
+  },
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "亮度探测器",
+      "text": "原版的阳光传感器使用下界石英粗制而成，仅能探测太阳光的强度。$(br)不过，紫水晶对光照要敏感得多，哪怕是火把发出的微弱光芒也足以使其反应激烈。想必使用它来制作探测亮度的装置会更加精准吧。"
+    },
+    {
+      "type": "spectrum:pedestal_crafting",
+      "title": "七彩基座配方",
+      "recipe": "spectrum:pedestal/tier1/detectors/light_level_detector",
+      "text": "亮度探测器不仅能探测太阳光的亮度，还能探测其他光源的亮度，比如能发光的方块。"
+    }
+  ]
 }
